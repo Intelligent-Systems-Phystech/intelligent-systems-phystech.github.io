@@ -7,6 +7,8 @@ tags: []
 pin: true
 ---
 
+This course produces student research papers. It gathers research teams in a society. Each team combines a student, a consultant and an expert. The student is a project driver, who wants to plunge into scientific research activities. The consultant, a graduated student, conducts the research and helps the student. The expert, a professor, states the problem and enlightens the road to the goal. The projects start in February and end in May of 2021 according to the schedule.
+
 # Daily 
 
 * The lecture streams on Thursdays at 10:30msk 
