@@ -13,19 +13,17 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Moscow
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Intelegent System                  # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Moscow Insititute of Physics and Technologies # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Some information here
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
