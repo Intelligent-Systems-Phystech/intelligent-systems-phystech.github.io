@@ -1,5 +1,5 @@
 ---
-title: My First Scientific Paper: Course schedule
+title: My First Scientific Paper. Course schedule
 author: Andrey Grabovoy
 date: 2021-11-01
 categories: []
