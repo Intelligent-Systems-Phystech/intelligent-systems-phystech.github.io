@@ -9,7 +9,7 @@ pin: true
 
 This course produces student research papers. It gathers research teams in a society. Each team combines a student, a consultant and an expert. The student is a project driver, who wants to plunge into scientific research activities. The consultant, a graduated student, conducts the research and helps the student. The expert, a professor, states the problem and enlightens the road to the goal. The projects start in February and end in May of 2021 according to the schedule.
 
-# Daily 
+## Daily 
 
 * The lecture streams on Thursdays at 10:30msk 
 * The seminar goes on Saturdays at 20:00msk 
@@ -29,7 +29,7 @@ This course produces student research papers. It gathers research teams in a soc
 * [[Week 11|Week 11: Prepare your presentation]] 
 * [http://www.youtube.com/watch?v=xW_lXGn1WHs Week 12: Show your results (Youtube)] 
 
-# Links
+## Links
 * Check-1 and check-2 sing-in: [table](https://docs.google.com/spreadsheets/d/1g9ud_qyHJIkzHYWFRac_WmeVZ7Qv11N_OIXAzK5iOs0/edit#gid=298225191)
 * The meeting room: [zoom](https://m1p.org/go_zoom)
 * Telegram: [discussion](https://t.me/m1p_talk)
