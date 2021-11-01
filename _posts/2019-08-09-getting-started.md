@@ -1,7 +1,7 @@
 ---
-title: First Scientific Paper Inroduce
+title: Example Post
 author: Vadim Strijov
-date: 2019-08-09 20:55:00 +0800
+date: 2021-11-01
 categories: [first scientific paper]
 tags: [getting started]
 pin: true
