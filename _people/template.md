@@ -1,11 +1,11 @@
 ---
-name: Andrey Grabovoy
-position: gs
-avatar: grabovoy_av.jpg
+name: Name Surname
+position: template
+avatar: 
 twitter:
-joined: 2017
-mail: grabovoy.av@phystech.edu
-site: andriygav.github.io
+joined: 
+mail: 
+site: 
 scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
 ---
 
@@ -16,7 +16,7 @@ scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
 {% if page.site %}
 [{{page.site}}](https://{{page.site}})<br>
 {% endif %}
-<i class="fa fa-envelope-o"></i> <a href="mailto:{{page.mail}}">{{page.mail}}</a> <br>
+<i class="fa fa-envelope-o"></i>  "{{page.mail}}" <br>
 {% if page.scholar %}
 <i class="fa fa-bar-chart"></i> [google scholar](https://{{page.scholar}}) <br>
 {% endif %}
