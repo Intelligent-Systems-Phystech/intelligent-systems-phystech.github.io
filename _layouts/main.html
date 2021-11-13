@@ -17,6 +17,8 @@ layout: default
   {{ content }}
 
   <header class="masthead text-center">
+    <span style="display: block; margin-bottom: 3em"></span>
+    
     {% if page.github %}
     <a href="https://{{page.github.url}}"><i class="fa fa-github"></i> {{page.github.name}}</a>&nbsp;&nbsp;&nbsp;
     {% endif %}
@@ -28,6 +30,5 @@ layout: default
     <span style="display: block; margin-bottom: 3em"></span>
       {{ page.department }}<br>
       {{ page.address }}
-    <span style="display: block; margin-bottom: 3em"></span>
   </header>
 </div>
