@@ -3,11 +3,14 @@ title: People
 permalink: /people/
 ---
 {% for role in site.global.people.roles %}
+
+
+{% if role.id != 'template' %}
+
 <div class="pos_header">
   <h3>{{ role.name }}</h3>
 </div>
 
-{% if role.id != 'template' %}
 <div class="content list people">
   {% for profile in site.people %}
     {% if profile.position contains role.id %}
@@ -26,4 +29,5 @@ permalink: /people/
 </div>
 <hr>
 {% endif %}
+
 {% endfor %}
