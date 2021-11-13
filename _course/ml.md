@@ -1,6 +1,6 @@
 ---
-title: Machine Learning
-name: Machine Learning
+title: Introduction to Machine Learning
+name: Introduction to Machine Learning
 type: bachelor
 avatar:
 site: www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29
