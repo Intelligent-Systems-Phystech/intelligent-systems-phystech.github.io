@@ -3,9 +3,10 @@ title: People
 permalink: /people/
 ---
 
-{% assign peoples = site.people | sort: 'joined' %}
+{% assign peoples = site.people %}
+{% assign roles = site.global.people.roles %}
 
-{% for role in site.global.people.roles %}
+{% for role in roles %}
 
 <div class="pos_header">
 {% role.name %}
