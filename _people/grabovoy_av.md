@@ -10,6 +10,7 @@ site: andriygav.github.io
 scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
 ---
 
+<h3 class="title">{{ page.name }}</h3>
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
