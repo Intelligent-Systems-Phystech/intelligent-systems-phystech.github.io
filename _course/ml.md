@@ -1,35 +1,19 @@
 ---
 title: Machine Learning
 name: Machine Learning
-term: 6
 type: bachelor
-avatar: 
-mail: grabovoy_av.jpg
-site: 
-scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
+avatar:
+site: www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29
 ---
 
 <h3 class="title">{{ page.name }}</h3>
-<img width="300" src="{{site.baseurl}}/images/course/{{page.avatar}}" data-action="zoom">
+
+{% if page.avatar %}
+<img width="300" src="{{site.baseurl}}/images/course/{{page.avatar}}">
+{% endif %}
 
 ### Contact
 
 {% if page.site %}
 [{{page.site}}](https://{{page.site}})<br>
 {% endif %}
-<i class="fa fa-envelope-o"></i>  "{{page.mail}}" <br>
-{% if page.scholar %}
-<i class="fa fa-bar-chart"></i> [google scholar](https://{{page.scholar}}) <br>
-{% endif %}
-
-<hr>
-
-### Research Interests
-
-TODO
-
-### Bio
-
-TODO
-
-<hr>
