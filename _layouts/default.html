@@ -34,12 +34,17 @@
   <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
 
 </head>
-<body id="page-top" style="padding-top: 7em;">
+<body id="page-top">
+  <div class="mainpage">
   {% include navbar.html %}
   {{ content }}
+  </div>
+
 </body>
+
 <footer>
   © 2003-<script>document.write(new Date().getFullYear())</script> 
   <a href="{{ site.url }}">Intelligent Systems</a>. All rights reserved.
-</footer> 
+</footer>
+
 </html>
