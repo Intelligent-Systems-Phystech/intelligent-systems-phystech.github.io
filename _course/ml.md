@@ -1,6 +1,8 @@
 ---
 title: Machine Learning
 name: Machine Learning
+term: 6
+type: bachelor
 avatar: 
 mail: grabovoy_av.jpg
 site: 
@@ -8,7 +10,7 @@ scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
 ---
 
 <h3 class="title">{{ page.name }}</h3>
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/course/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 

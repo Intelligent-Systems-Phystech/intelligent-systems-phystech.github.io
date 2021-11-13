@@ -62,3 +62,28 @@ collections:
     output: true
     permalink: /course/:title/index.html
 
+
+global:
+  course:
+    terms:
+      - id: 6
+        name: Sixth term
+    types:
+      - id: bachelor
+        name: Bachelor
+      - id: master
+        name: Master
+  people:
+    roles:
+      - id: hotd
+        name: Head of the Department
+      - id: dos
+        name: Doctor of Science
+      - id: phd
+        name: Ph.D
+      - id: gs
+        name: Graduate Student
+      - id: student
+        name: Student
+      - id: template
+        name: TEMPLATE

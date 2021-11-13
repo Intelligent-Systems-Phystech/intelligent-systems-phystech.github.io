@@ -3,34 +3,17 @@ title: People
 permalink: /people/
 ---
 
-{% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "hotd|dos|phd|gs|student" | split: "|" %}
+{% assign peoples = site.people | sort: 'joined' %}
 
-{% for role in role_array %}
-
-{% assign people_in_role = people_sorted | where: 'position', role %}
-
-{% if people_in_role.size == 0 %}
-  {% continue %}
-{% endif %}
+{% for role in site.global.people %}
 
 <div class="pos_header">
-{% if role == 'hotd' %}
-<h3>Head of the Department</h3>
- {% elsif role == 'dos' %}
-<h3>Doctor of Science</h3>
- {% elsif role == 'phd' %}
-<h3>Ph.D</h3>
- {% elsif role == 'gs' %}
-<h3>Graduate Student</h3>
- {% elsif role == 'student' %}
-<h3>Student</h3>
-{% endif %}
+{% role.name %}
 </div>
 
-{% if role != 'alumni' %}
+{% if role.id != 'template' %}
 <div class="content list people">
-  {% for profile in people_sorted %}
+  {% for profile in peoples %}
     {% if profile.position contains role %}
       <div class="list-item-people">
         <p class="list-post-title">
