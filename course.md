@@ -3,7 +3,7 @@ title: Course
 permalink: /course/
 ---
 
-{% assign course_sorted = site.course | sort: 'joined' %}
+{% assign course_sorted = site.course | sort: 'name' %}
 
 {% if course_sorted.size == 0 %}
   {% continue %}
