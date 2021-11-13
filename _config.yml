@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Machine Learning Phystech"
+title:              "Intelligent Systems at Moscow Institute of Physics and Technology"
+description:        "this is a page for Intelligent Systems at the Moscow Institute of Physics and Technology, Moscow"
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://intelligent-systems-phystech.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -26,14 +26,8 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
 
 # Sass
 sass:
