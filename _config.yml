@@ -54,7 +54,6 @@ defaults:
     values:
       layout:       "profile"
 
-
 collections:
   people:
     output: true
