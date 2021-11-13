@@ -1,4 +1,5 @@
 ---
+title: Andrey Grabovoy
 name: Andrey Grabovoy
 position: gs
 avatar: grabovoy_av.jpg

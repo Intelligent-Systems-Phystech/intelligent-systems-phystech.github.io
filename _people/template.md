@@ -1,4 +1,5 @@
 ---
+title: Name Surname
 name: Name Surname
 position: template
 avatar: 
