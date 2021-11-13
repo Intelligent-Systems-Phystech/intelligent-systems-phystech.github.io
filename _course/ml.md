@@ -15,7 +15,7 @@ site: www.machinelearning.ru/wiki/index.php?title=Машинное_обучен�
 ### Contact
 
 {% if page.site %}
-[{{page.site}}](https://{{page.site}})<br>
+<i class="fa fa-user-o"></i> <a href="https://{{page.site}}">Course Website</a> <br>
 {% endif %}
 
 <hr>
