@@ -62,3 +62,7 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
+  couse:
+    output: true
+    permalink: /course/:title/index.html
+
