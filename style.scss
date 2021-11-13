@@ -284,6 +284,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
+  height: 100%;
   max-width: 40rem;
 //  padding: 2rem 1.5rem;
   margin-left:  auto;
@@ -552,24 +553,20 @@ tbody tr:nth-child(odd) th {
 /*= MAINPAGE STYLE
 --------------------------------------------------------*/
 .mainpage{
-  padding: 10px;
+  padding-top: 20px;
   word-break:break-all;
   font-weight: 400;
-  width: calc(80% - 3px);
-  height: calc(100% - 24px);
+  width: 100%;
+  height: calc(100% - 89px);
 
   text-align: center;
 
-  top: 60px;
+  top: 51px;
   position: fixed;
 
   display: block;
   overflow-x: scroll;
   overflow-y: scroll;
-
-  -webkit-border-radius: 30px;
-     -moz-border-radius: 30px;
-          border-radius: 30px;
 }
 .mainpage::-webkit-scrollbar {
   display: none;
@@ -583,6 +580,6 @@ footer {
     font-size: 12px;
     text-align: center;
 
-    top: calc(100% - 24px);
+    top: calc(100% - 48px);
     position: fixed;
 }
