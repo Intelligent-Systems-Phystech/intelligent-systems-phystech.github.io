@@ -5,7 +5,7 @@ permalink: /people/
 
 {% assign peoples = site.people | sort: 'joined' %}
 
-{% for role in site.global.people %}
+{% for role in site.global.people.roles %}
 
 <div class="pos_header">
 {% role.name %}
@@ -14,7 +14,7 @@ permalink: /people/
 {% if role.id != 'template' %}
 <div class="content list people">
   {% for profile in peoples %}
-    {% if profile.position contains role %}
+    {% if profile.position contains role.id %}
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.avatar %}
