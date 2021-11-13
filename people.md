@@ -56,6 +56,7 @@ permalink: /people/
 
 <br>
 
+
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 [Nidhi Seethapathi](https://www.seethapathilab.org) | Postdoc (2018 - 2021) | Assistant Professor at MIT from Jan 2022 on |
