@@ -3,6 +3,7 @@ title: Deep Generative Models
 name: Deep Generative Models
 type: master
 avatar:
+lecturers: 
 site: github.com/Intelligent-Systems-Phystech/DeepGenerativeModels
 ---
 

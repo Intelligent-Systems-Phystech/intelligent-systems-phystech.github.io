@@ -2,7 +2,8 @@
 title: My First Scientific Paper
 name: My First Scientific Paper
 type: bachelor
-avatar:
+avatar: m1p.jpg
+lecturers: 
 site: m1p.org
 ---
 
