@@ -72,9 +72,6 @@ collections:
 
 global:
   course:
-    terms:
-      - id: 6
-        name: Sixth term
     types:
       - id: bachelor
         name: Bachelor
