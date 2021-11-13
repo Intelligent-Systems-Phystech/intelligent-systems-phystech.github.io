@@ -6,18 +6,6 @@ avatar:
 site: www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29
 ---
 
-<h3 class="title">{{ page.name }}</h3>
-
-{% if page.avatar %}
-<img width="300" src="{{site.baseurl}}/images/course/{{page.avatar}}">
-{% endif %}
-
-{% if page.site %}
-<i class="fa fa-university" aria-hidden="true"></i> <a href="https://{{page.site}}">Course Website</a> <br>
-{% endif %}
-
-<hr>
-
 ### About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue tellus ante, nec porttitor nulla malesuada in. Cras aliquam aliquam commodo. Nulla facilisi. Integer venenatis scelerisque malesuada. Mauris at hendrerit lacus. In feugiat sollicitudin orci nec consectetur. Sed vehicula pretium ullamcorper. Pellentesque commodo iaculis scelerisque. Donec ante lorem, rutrum nec ligula ut, gravida ultricies lorem. Suspendisse suscipit dolor non enim vehicula ornare. Nunc non orci felis. Aliquam lacinia vehicula erat id vestibulum. Nulla a mauris interdum, bibendum nunc eu, tempor tortor. Aliquam erat volutpat.

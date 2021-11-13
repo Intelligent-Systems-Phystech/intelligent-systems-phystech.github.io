@@ -3,8 +3,6 @@ title: Andrey Grabovoy
 name: Andrey Grabovoy
 position: gs
 avatar: grabovoy_av.jpg
-twitter:
-joined: 2017
 mail: grabovoy.av@phystech.edu
 site: andriygav.github.io
 scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
