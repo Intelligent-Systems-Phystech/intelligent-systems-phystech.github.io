@@ -12,8 +12,10 @@ site: www.machinelearning.ru/wiki/index.php?title=Машинное_обучен�
 <img width="300" src="{{site.baseurl}}/images/course/{{page.avatar}}">
 {% endif %}
 
+### Contact
+
 {% if page.site %}
-<i class="fa fa-university" aria-hidden="true"></i> <a href="https://{{page.site}}">Course Website</a> <br>
+<i class="fa fa-user-o"></i> <a href="https://{{page.site}}">Course Website</a> <br>
 {% endif %}
 
 <hr>

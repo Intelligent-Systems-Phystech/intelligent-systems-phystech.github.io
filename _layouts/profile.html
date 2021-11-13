@@ -2,5 +2,26 @@
 layout: default
 ---
 <div class="container content page">
+
+  <h3 class="title">{{ page.name }}</h3>
+
+  {% if page.avatar %}
+  <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}">
+  {% endif %}
+
+  {% if page.site %}
+  <i class="fa fa-user-circle" aria-hidden="true"></i><a href="https://{{page.site}}">Personal Website</a> <br>
+  {% endif %}
+
+  {% if page.mail %}
+  <i class="fa fa-envelope-o"></i><a href="mailto:{{page.mail}}">{{page.mail}}</a> <br>
+  {% endif %}
+
+  {% if page.scholar %}
+  <i class="fa fa-bar-chart"></i><a href="https://{{page.scholar}}">google scholar</a> <br>
+  {% endif %}
+
+  <hr>
+
   {{ content }}
 </div>
