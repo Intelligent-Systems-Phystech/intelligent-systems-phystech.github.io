@@ -19,7 +19,7 @@ scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
 ### Contact
 
 {% if page.site %}
-[{{page.site}}](https://{{page.site}})<br>
+<i class="fa fa-user-o"></i> <a href="https://{{page.site}}">Personal Website</a> <br>
 {% endif %}
 
 {% if page.mail %}
