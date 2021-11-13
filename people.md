@@ -9,7 +9,7 @@ permalink: /people/
 {% for role in roles %}
 
 <div class="pos_header">
-{% role.name %}
+{{ role.name }}
 </div>
 
 {% if role.id != 'template' %}
