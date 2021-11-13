@@ -8,7 +8,7 @@ permalink: /course/
 <div class="pos_header">
   <h3>{{ type.name }}</h3>
 </div>
-
+<hr>
 <div class="content list people">
   {% for course in site.course %}
     {% if course.type contains type.id %}
@@ -25,6 +25,5 @@ permalink: /course/
     {% endif %}
   {% endfor %}
 </div>
-<hr>
 
 {% endfor %}
