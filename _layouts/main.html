@@ -6,23 +6,25 @@ layout: default
 
       <img class='img-responsive center-block' src="{{ page.image }}" width="100%" height="100%" />
 
-      <p>
-      <i>Causality and Machine learning. <br> Machine Learning and Deep Learning for Neuroscience.<br>
-      Neuroscience for Deep Learning.<br>
-      and Machine Learning for Movement/Meta-Science.</i>
-
-        <span style="display: block; margin-bottom: 3em"></span>
-
-      <a href="https://github.com/KordingLab"><i class="fa fa-github"></i> KordingLab</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://twitter.com/KordingLab"><i class="fa fa-twitter"></i> KordingLab</a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:kording@upenn.edu"><i class="fa fa-envelope-o"></i> kording@upenn.edu</a>
-      </p>
-
-      <span style="display: block; margin-bottom: 3em"></span>
-      Department of Bioengineering and Department of Neuroscience at University of Pennsylvania<br>
-      404 Richards Building, 3700 Hamilton Walk, Philadelphia, PA 19104, Philadelphia, PA 19104
-      <span style="display: block; margin-bottom: 3em"></span>
-
+      <p><i>
+      {% for line in page.header %}
+        {{line}}<br>
+      {% endfor %}
+      </i></p>
+      
     </header>
   {{ content }}
+
+  {% if page.github %}
+  <a href="https://{{page.github.url}}"><i class="fa fa-github"></i> {{page.github.name}}</a>&nbsp;&nbsp;&nbsp;
+  {% endif %}
+
+  {% if page.mail %}
+  <a href="mailto:{{page.mail}}"><i class="fa fa-envelope-o"></i> {{page.mail}}</a>
+  {% endif %}
+
+  <span style="display: block; margin-bottom: 3em"></span>
+    {{ page.department }}<br>
+    {{ page.address }}
+  <span style="display: block; margin-bottom: 3em"></span>
 </div>
