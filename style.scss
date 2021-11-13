@@ -254,7 +254,7 @@ pre code {
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 200px;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -482,6 +482,7 @@ tbody tr:nth-child(odd) th {
 .list-item-people {
   display: inline-block;
   padding-right: 1em;
+  width: 200px;
 }
 
 .list-post-title img {
