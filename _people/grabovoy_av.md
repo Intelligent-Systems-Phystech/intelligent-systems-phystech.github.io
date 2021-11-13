@@ -19,15 +19,15 @@ scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
 ### Contact
 
 {% if page.site %}
-<i class="fa fa-user-o"></i> <a href="https://{{page.site}}">Personal Website</a> <br>
+<i class="fa fa-user-circle" aria-hidden="true"></i><a href="https://{{page.site}}">Personal Website</a> <br>
 {% endif %}
 
 {% if page.mail %}
-<i class="fa fa-envelope-o"></i> <a href="mailto:{{page.mail}}">{{page.mail}}</a> <br>
+<i class="fa fa-envelope-o"></i><a href="mailto:{{page.mail}}">{{page.mail}}</a> <br>
 {% endif %}
 
 {% if page.scholar %}
-<i class="fa fa-bar-chart"></i> [google scholar](https://{{page.scholar}}) <br>
+<i class="fa fa-bar-chart"></i><a href="https://{{page.scholar}}">google scholar</a> <br>
 {% endif %}
 
 <hr>
