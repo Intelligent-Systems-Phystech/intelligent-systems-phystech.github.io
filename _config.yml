@@ -28,6 +28,8 @@ nav:
     href:           "/about"
   - name:           "people"
     href:           "/people"
+  - name:           "course"
+    href:           "/course"
 
 # Sass
 sass:
@@ -35,24 +37,26 @@ sass:
 
 # Scopes
 defaults:
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "pages"
     values:
       layout:       "page"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "posts"
     values:
       layout:       "post"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "people"
     values:
       layout:       "profile"
+  - scope:
+      path:         ""
+      type:         "course"
+    values:
+      layout:       "course"
 
 collections:
   people:
