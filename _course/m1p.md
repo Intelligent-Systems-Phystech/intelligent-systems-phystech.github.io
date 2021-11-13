@@ -3,7 +3,7 @@ title: My First Scientific Paper
 name: My First Scientific Paper
 type: bachelor
 avatar: m1p.jpg
-lecturers: 
+lecturers: strijov_vv
 site: m1p.org
 ---
 
