@@ -26,6 +26,8 @@ nav:
     href:           "/people"
   - name:           "course"
     href:           "/course"
+  - name:           "materials"
+    href:           "/materials"
 
 # Sass
 sass:
@@ -36,6 +38,11 @@ defaults:
   - scope:
       path:         ""
       type:         "pages"
+    values:
+      layout:       "page"
+  - scope:
+      path:         ""
+      type:         "materials"
     values:
       layout:       "page"
   - scope:
