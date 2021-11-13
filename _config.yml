@@ -1,7 +1,3 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
 name:               "Machine Learning Phystech"
 title:              "Intelligent Systems at Moscow Institute of Physics and Technology"
@@ -62,7 +58,7 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
-  couse:
+  course:
     output: true
     permalink: /course/:title/index.html
 

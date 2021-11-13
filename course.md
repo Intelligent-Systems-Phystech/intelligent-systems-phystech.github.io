@@ -3,14 +3,8 @@ title: Course
 permalink: /course/
 ---
 
-{% assign course_sorted = site.course | sort: 'name' %}
-
-{% if course_sorted.size == 0 %}
-  {% continue %}
-{% endif %}
-
 <div class="content list people">
-  {% for course in course_sorted %}
+  {% for course in site.course %}
     <div class="list-item-people">
       <p class="list-post-title">
         {% if course.avatar %}
