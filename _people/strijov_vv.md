@@ -2,7 +2,7 @@
 title: Vadim Strijov
 name: Vadim Strijov
 position: hotd
-avatar: 
+avatar: strijov_vv.jpg
 mail: strijov@phystech.edu
 site: strijov.com/papers_ru.html
 scholar: scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en
