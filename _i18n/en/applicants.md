@@ -3,8 +3,8 @@
 #### Algorithm of admission:
 
 1. student fills in the [form] (http://bit.ly/1lFrFha)
-2.solves one of the following tasks
-3.makes an opinion about the work performed by the students of the department
+2. solves one of the following tasks
+3. makes an opinion about the work performed by the students of the department
 4. on the appointed date, makes a three-minute report on the task and on the topic or work of interest,
 5. is waiting for the decision of the dean's office on the distribution to the department.
 
