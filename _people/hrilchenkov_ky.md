@@ -2,7 +2,7 @@
 title: peoples.hrilchenkov_ky.title
 name: peoples.hrilchenkov_ky.name
 position: gs
-avatar:
+avatar: hrilchenkov_ky.jpg
 mail:
 site:
 scholar:
