@@ -1,7 +1,7 @@
 ---
 title: peoples.kropotov_da.title
 name: peoples.kropotov_da.name
-position: phd
+position: teachers
 avatar:
 mail:
 site:
