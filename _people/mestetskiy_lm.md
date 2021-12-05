@@ -2,7 +2,7 @@
 title: peoples.mestetskiy_lm.title
 name: peoples.mestetskiy_lm.name
 position: dos
-avatar:
+avatar: mestetskiy_lm.jpg
 mail:
 site:
 scholar:

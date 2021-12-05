@@ -2,7 +2,7 @@
 title: peoples.meysuradze_ai.title
 name: peoples.meysuradze_ai.name
 position: phd
-avatar:
+avatar: meysuradze_ai.jpg
 mail:
 site:
 scholar:
