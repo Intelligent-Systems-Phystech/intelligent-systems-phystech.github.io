@@ -27,98 +27,72 @@ site:
         template: TEMPLATE
 
 peoples:
-  grabovoy_av:
-    title: Andrey Grabovoy
-    name: Andrey Grabovoy
-  aduenko_aa:
-    title: Aleksander Aduenko
-    name: Aleksander Aduenko
-  bakhteev_oy:
-    title: Oleg Bakhteev
-    name: Oleg Bakhteev
-  hrilchenkov_ky:
-    title: Kirill Hrilchenkov
-    name: Kirill Hrilchenkov
-  isachenko_rv:
-    title: Roman Isachenko
-    name: Roman Isachenko
-  khritankov_as:
-    title: Anton Khritankov
-    name: Anton Khritankov
-  kropotov_da:
-    title: Dmitriy Kropotov
-    name: Dmitriy Kropotov
-  meysuradze_ai:
-    title: Archil Meysuradze
-    name: Archil Meysuradze
-  mestetskiy_lm:
-    title: Leonid Mestetskiy
-    name: Leonid Mestetskiy
-  popov_as:
-    title: Artem Popov
-    name: Artem Popov
-  potanin_ms:
-    title: Mark Potanin
-    name: Mark Potanin
-  strijov_vv:
-    title: Vadim Strijov
-    name: Vadim Strijov
-  vorontsov_kv:
-    title: Konstantin Vorontsov
-    name: Konstantin Vorontsov
-  torshin_iy:
-    title: Ivan Torshin
-    name: Ivan Torshin
+  name:
+    grabovoy_av: Andrey Grabovoy
+    aduenko_aa: Aleksander Aduenko
+    bakhteev_oy: Oleg Bakhteev
+    hrilchenkov_ky: Kirill Hrilchenkov
+    isachenko_rv: Roman Isachenko
+    khritankov_as: Anton Khritankov
+    kropotov_da: Dmitriy Kropotov
+    meysuradze_ai: Archil Meysuradze
+    mestetskiy_lm: Leonid Mestetskiy
+    popov_as: Artem Popov
+    potanin_ms: Mark Potanin
+    strijov_vv: Vadim Strijov
+    vorontsov_kv: Konstantin Vorontsov
+    torshin_iy: Ivan Torshin
+  title:
+    grabovoy_av: Andrey Grabovoy
+    aduenko_aa: Aleksander Aduenko
+    bakhteev_oy: Oleg Bakhteev
+    hrilchenkov_ky: Kirill Hrilchenkov
+    isachenko_rv: Roman Isachenko
+    khritankov_as: Anton Khritankov
+    kropotov_da: Dmitriy Kropotov
+    meysuradze_ai: Archil Meysuradze
+    mestetskiy_lm: Leonid Mestetskiy
+    popov_as: Artem Popov
+    potanin_ms: Mark Potanin
+    strijov_vv: Vadim Strijov
+    vorontsov_kv: Konstantin Vorontsov
+    torshin_iy: Ivan Torshin
       
 courses:
-  ant:
-    title: Analysis of Networks and Texts
-    name: Analysis of Networks and Texts
-  bi:
-    title: Bioinformatics
-    name: Bioinformatics
-  bm:
-    title: Bayesian Multimodeling
-    name: Bayesian Multimodeling
-  bms:
-    title: Bayesian Model Selection
-    name: Bayesian Model Selection
-  cga:
-    title: Computational Geometry Algorithms
-    name: Computational Geometry Algorithms
-  dl:
-    title: Deep Learning
-    name: Deep Learning
-  gmlm:
-    title: Generative Machine Learning Models
-    name: Generative Machine Learning Models
-  ipr:
-    title: Image Processing and Recognition
-    name: Image Processing and Recognition
-  m1p:
-    title: Automation of Scientific Research
-    name: Automation of Scientific Research
-  ml:
-    title: Introduction to Machine Learning
-    name: Introduction to Machine Learning
-  mmp:
-    title: Mathematical Methods of Forecasting
-    name: Mathematical Methods of Forecasting
-  mmta:
-    title: Mathematical Methods of Text Analysis
-    name: Mathematical Methods of Text Analysis
-  ptm:
-    title: Probabilistic Thematic Models
-    name: Probabilistic Thematic Models
-  seda:
-    title: Software Engineering for Data Analysis
-    name: Software Engineering for Data Analysis
-  snna:
-    title: Search for Neural Network Architectures
-    name: Search for Neural Network Architectures
-  sp:
-    title: Signal Processing
-    name: Signal Processing
+  name:
+    ant: Analysis of Networks and Texts
+    bi: Bioinformatics
+    bm: Bayesian Multimodeling
+    bms: Bayesian Model Selection
+    cga: Computational Geometry Algorithms
+    dl: Deep Learning
+    gmlm: Generative Machine Learning Models
+    ipr: Image Processing and Recognition
+    m1p: Automation of Scientific Research
+    ml: Introduction to Machine Learning
+    mmp: Mathematical Methods of Forecasting
+    mmta: Mathematical Methods of Text Analysis
+    ptm: Probabilistic Thematic Models
+    seda: Software Engineering for Data Analysis
+    snna: Search for Neural Network Architectures
+    sp: Signal Processing
+  title:
+    ant: Analysis of Networks and Texts
+    bi: Bioinformatics
+    bm: Bayesian Multimodeling
+    bms: Bayesian Model Selection
+    cga: Computational Geometry Algorithms
+    dl: Deep Learning
+    gmlm: Generative Machine Learning Models
+    ipr: Image Processing and Recognition
+    m1p: Automation of Scientific Research
+    ml: Introduction to Machine Learning
+    mmp: Mathematical Methods of Forecasting
+    mmta: Mathematical Methods of Text Analysis
+    ptm: Probabilistic Thematic Models
+    seda: Software Engineering for Data Analysis
+    snna: Search for Neural Network Architectures
+    sp: Signal Processing
       
 titles:
   index: Intelligent Systems Phystech
@@ -139,9 +113,9 @@ index:
     - Machine Learning
     - Data Analysis
 
-edits:
-  about: master/_i18n/en/about.md
-  applicants: master/_i18n/en/applicants.md
-  nir: master/_i18n/en/nir.md
-  index: master/_i18n/en/index.md
-  templates: master/_i18n/en/templates.md
+course:
+  teachers: Lecturers
+  website: Course Website
+  
+profile:
+  website: Personal Website

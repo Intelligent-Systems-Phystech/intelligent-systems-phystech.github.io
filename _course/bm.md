@@ -1,6 +1,7 @@
 ---
-title: courses.bm.title
-name: courses.bm.name
+edit: true
+title: courses.title.bm
+name: courses.name
 type: master
 avatar:
 lecturers: bakhteev_oy

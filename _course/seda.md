@@ -1,6 +1,7 @@
 ---
-title: courses.seda.title
-name: courses.seda.name
+edit: true
+title: courses.title.seda
+name: courses.name
 type: master
 avatar:
 lecturers: khritankov_as

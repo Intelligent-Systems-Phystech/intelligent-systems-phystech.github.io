@@ -1,6 +1,7 @@
 ---
-title: peoples.grabovoy_av.title
-name: peoples.grabovoy_av.name
+title: peoples.title.grabovoy_av
+name: peoples.name
+edit: true
 position: gs
 avatar: grabovoy_av.jpg
 mail: grabovoy.av@phystech.edu

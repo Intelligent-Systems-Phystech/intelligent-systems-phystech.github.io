@@ -1,6 +1,6 @@
 ---
 title: titles.about
-edit: edits.about
+edit: true
 permalink: /about/
 ---
 

@@ -1,7 +1,7 @@
 brand:              /images/logo/logo_square.jpg
 
 url:                https://intelligent-systems-phystech.github.io
-edit:               https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/
+edit:               https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/
 baseurl:
 permalink:          /:year/:month/:day/:title.html
 

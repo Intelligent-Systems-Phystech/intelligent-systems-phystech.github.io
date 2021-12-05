@@ -1,6 +1,7 @@
 ---
-title: courses.ml.title
-name: courses.ml.name
+edit: true
+title: courses.title.ml
+name: courses.name
 type: bachelor
 avatar:
 lecturers: grabovoy_av,vorontsov_kv

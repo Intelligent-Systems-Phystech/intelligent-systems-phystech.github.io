@@ -1,6 +1,7 @@
 ---
-title: courses.ant.title
-name: courses.ant.name
+edit: true
+title: courses.title.ant
+name: courses.name
 type: bachelor
 avatar:
 lecturers: meysuradze_ai

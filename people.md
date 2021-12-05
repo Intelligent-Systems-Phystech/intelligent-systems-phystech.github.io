@@ -21,7 +21,7 @@ permalink: /people/
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/default.jpg"></a>
           {% endif %}
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t profile.name %}</a>
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile.id | split: "/" | last }} %}</a>
         </p>
       </div>    
     {% endif %}

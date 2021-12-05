@@ -1,6 +1,7 @@
 ---
-title: courses.dl.title
-name: courses.dl.name
+edit: true
+title: courses.title.dl
+name: courses.name
 type: bachelor
 avatar:
 lecturers: kropotov_da

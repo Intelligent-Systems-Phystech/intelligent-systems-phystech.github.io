@@ -1,6 +1,7 @@
 ---
-title: courses.mmp.title
-name: courses.mmp.name
+edit: true
+title: courses.title.mmp
+name: courses.name
 type: bachelor
 avatar:
 lecturers: strijov_vv

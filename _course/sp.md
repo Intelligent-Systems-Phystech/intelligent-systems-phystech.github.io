@@ -1,6 +1,7 @@
 ---
-title: courses.sp.title
-name: courses.sp.name
+edit: true
+title: courses.title.sp
+name: courses.name
 type: master
 avatar:
 lecturers:

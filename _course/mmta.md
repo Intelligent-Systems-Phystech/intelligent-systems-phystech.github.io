@@ -1,6 +1,7 @@
 ---
-title: courses.mmta.title
-name: courses.mmta.name
+edit: true
+title: courses.title.mmta
+name: courses.name
 type: master
 avatar:
 lecturers: popov_as

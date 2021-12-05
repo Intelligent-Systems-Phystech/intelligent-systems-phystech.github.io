@@ -1,6 +1,6 @@
 ---
 title: titles.applicants
-edit: edits.applicants
+edit: true
 permalink: /applicants/
 ---
 

@@ -1,6 +1,7 @@
 ---
-title: courses.bms.title
-name: courses.bms.name
+edit: true
+title: courses.title.bms
+name: courses.name
 type: bachelor
 avatar:
 lecturers: aduenko_aa

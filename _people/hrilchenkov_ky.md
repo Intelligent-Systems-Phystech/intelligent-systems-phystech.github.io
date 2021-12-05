@@ -1,6 +1,7 @@
 ---
-title: peoples.hrilchenkov_ky.title
-name: peoples.hrilchenkov_ky.name
+title: peoples.title.hrilchenkov_ky
+name: peoples.name
+edit: true
 position: gs
 avatar: hrilchenkov_ky.jpg
 mail:

@@ -19,7 +19,7 @@ permalink: /course/
           {% else %}
             <a href="{{ site.baseurl }}{{ course.url }}"><img class="profile-thumbnail" src="/images/course/default.jpg"></a>
           {% endif %}
-          <a class="name" href="{{ site.baseurl }}{{ course.url }}">{% t course.name %}</a>
+          <a class="name" href="{{ site.baseurl }}{{ course.url }}">{% t courses.name.{{ course.id | split: "/" | last }} %}</a>
         </p>
       </div>    
     {% endif %}

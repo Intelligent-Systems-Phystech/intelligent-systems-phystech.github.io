@@ -1,6 +1,7 @@
 ---
-title: peoples.isachenko_rv.title
-name: peoples.isachenko_rv.name
+title: peoples.title.isachenko_rv
+name: peoples.name
+edit: true
 position: gs
 avatar: isachenko_rv.jpg
 mail:

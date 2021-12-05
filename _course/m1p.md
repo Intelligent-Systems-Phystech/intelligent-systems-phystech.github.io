@@ -1,6 +1,7 @@
 ---
-title: courses.m1p.title
-name: courses.m1p.name
+edit: true
+title: courses.title.m1p
+name: courses.name
 type: bachelor
 avatar:
 lecturers: strijov_vv

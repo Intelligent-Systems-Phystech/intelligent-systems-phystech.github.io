@@ -1,6 +1,7 @@
 ---
-title: courses.cga.title
-name: courses.cga.name
+edit: true
+title: courses.title.cga
+name: courses.name
 type: bachelor
 avatar:
 lecturers: mestetskiy_lm

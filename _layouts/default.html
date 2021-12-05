@@ -62,9 +62,9 @@
       {% endif %}
     {% endfor %}
     
-    {% if page.edit %}
+    {% if page.edit == true %}
     <span class="separator"> | </span>
-    <a href="{{ site.edit }}{% t page.edit %}" target="_blank"><i class="fa fa-edit"></i></a>
+    <a href="{{ site.edit }}_i18n/{{ site.lang }}/{{ page.path }}" target="_blank"><i class="fa fa-edit"></i></a>
     {% endif %}
     <hr style="margin: 10px;">
     © 2003-<script>document.write(new Date().getFullYear())</script> 

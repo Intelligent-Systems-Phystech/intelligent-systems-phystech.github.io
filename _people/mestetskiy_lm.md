@@ -1,6 +1,7 @@
 ---
-title: peoples.mestetskiy_lm.title
-name: peoples.mestetskiy_lm.name
+title: peoples.title.mestetskiy_lm
+name: peoples.name
+edit: true
 position: dos
 avatar: mestetskiy_lm.jpg
 mail:

@@ -1,7 +1,8 @@
 ---
-title: peoples.bakhteev_oy.title
-name: peoples.bakhteev_oy.name
-position: phdd
+title: peoples.title.bakhteev_oy
+name: peoples.name
+edit: true
+position: phd
 avatar:
 mail:
 site:

@@ -1,6 +1,7 @@
 ---
-title: courses.bi.title
-name: courses.bi.name
+edit: true
+title: courses.title.bi
+name: courses.name
 type: master
 avatar:
 lecturers: torshin_iy

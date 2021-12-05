@@ -1,6 +1,7 @@
 ---
-title: peoples.aduenko_aa.title
-name: peoples.aduenko_aa.name
+title: peoples.title.aduenko_aa
+name: peoples.name
+edit: true
 position: phd
 avatar: 
 mail: 

@@ -1,6 +1,7 @@
 ---
-title: courses.gmlm.title
-name: courses.ant.name
+edit: true
+title: courses.title.gmlm
+name: courses.name
 type: master
 avatar:
 lecturers: potanin_ms

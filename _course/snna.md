@@ -1,6 +1,7 @@
 ---
-title: courses.snna.title
-name: courses.snna.name
+edit: true
+title: courses.title.snna
+name: courses.name
 type: master
 avatar:
 lecturers: bakhteev_oy

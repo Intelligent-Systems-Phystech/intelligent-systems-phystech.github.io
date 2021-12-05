@@ -1,6 +1,7 @@
 ---
-title: peoples.popov_as.title
-name: peoples.popov_as.name
+title: peoples.title.popov_as
+name: peoples.name
+edit: true
 position: gs
 avatar:
 mail:

@@ -1,6 +1,7 @@
 ---
-title: courses.ipr.title
-name: courses.ipr.name
+edit: true
+title: courses.title.ipr
+name: courses.name
 type: bachelor
 avatar:
 lecturers: mestetskiy_lm

@@ -1,6 +1,7 @@
 ---
-title: peoples.torshin_iy.title
-name: peoples.torshin_iy.name
+title: peoples.title.torshin_iy
+name: peoples.name
+edit: true
 position: phd
 avatar: 
 mail: 

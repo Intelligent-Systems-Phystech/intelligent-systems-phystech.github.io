@@ -1,6 +1,7 @@
 ---
-title: courses.ptm.title
-name: courses.ptm.name
+edit: true
+title: courses.title.ptm
+name: courses.name
 type: master
 avatar:
 lecturers: vorontsov_kv

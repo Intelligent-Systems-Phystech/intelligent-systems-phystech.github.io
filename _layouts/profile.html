@@ -3,14 +3,14 @@ layout: default
 ---
 <div class="container content page">
 
-  <h3 class="title">{% t page.name %}</h3>
+  <h3 class="title">{% t peoples.name.{{ page.id | split: "/" | last }} %}</h3>
 
   {% if page.avatar %}
   <img width="300" src="/images/people/{{ page.avatar }}">
   {% endif %}
 
   {% if page.site %}
-  <i class="fa fa-user" aria-hidden="true"></i> <a href="{{page.site}}">Personal Website</a> <br>
+  <i class="fa fa-user" aria-hidden="true"></i> <a href="{{page.site}}">{% t profile.website %}</a> <br>
   {% endif %}
 
   {% if page.mail %}

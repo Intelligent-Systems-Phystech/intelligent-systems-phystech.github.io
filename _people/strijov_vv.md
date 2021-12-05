@@ -1,6 +1,7 @@
 ---
-title: peoples.strijov_vv.title
-name: peoples.strijov_vv.name
+title: peoples.title.strijov_vv
+name: peoples.name
+edit: true
 position: hotd
 avatar: strijov_vv.jpg
 mail: strijov@phystech.edu

@@ -1,6 +1,6 @@
 ---
 title: titles.templates
-edit: edits.templates
+edit: true
 permalink: /materials/templates/
 ---
 

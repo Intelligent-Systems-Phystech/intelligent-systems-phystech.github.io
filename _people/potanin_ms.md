@@ -1,6 +1,7 @@
 ---
-title: peoples.potanin_ms.title
-name: peoples.potanin_ms.name
+title: peoples.title.potanin_ms
+name: peoples.name
+edit: true
 position: gs
 avatar:
 mail:

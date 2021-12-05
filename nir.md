@@ -1,6 +1,6 @@
 ---
 title: titles.nir
-edit: edits.nir
+edit: true
 permalink: /materials/nir/
 ---
 

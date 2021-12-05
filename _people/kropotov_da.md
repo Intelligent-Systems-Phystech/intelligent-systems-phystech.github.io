@@ -1,6 +1,7 @@
 ---
-title: peoples.kropotov_da.title
-name: peoples.kropotov_da.name
+title: peoples.title.kropotov_da
+name: peoples.name
+edit: true
 position: teachers
 avatar:
 mail:
