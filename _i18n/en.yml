@@ -70,6 +70,27 @@ courses:
   ml:
     title: Introduction to Machine Learning
     name: Introduction to Machine Learning
+  ant:
+    title: Analysis of Networks and Texts
+    name: Analysis of Networks and Texts
+  bms:
+    title: Bayesian Model Selection
+    name: Bayesian Model Selection
+  cga:
+    title: Computational Geometry Algorithms
+    name: Computational Geometry Algorithms
+  dl:
+    title: Deep Learning
+    name: Deep Learning
+  ipr:
+    title: Image Processing and Recognition
+    name: Image Processing and Recognition
+  m1p:
+    title: Automation of Scientific Research
+    name: Automation of Scientific Research
+  mmp:
+    title: Mathematical Methods of Forecasting
+    name: Mathematical Methods of Forecasting
       
 titles:
   index: Intelligent Systems Phystech
