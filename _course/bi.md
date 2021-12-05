@@ -3,7 +3,7 @@ title: courses.bi.title
 name: courses.bi.name
 type: master
 avatar:
-lecturers:
+lecturers: torshin_iy
 site: 
 ---
 
