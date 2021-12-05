@@ -6,6 +6,9 @@ avatar: grabovoy_av.jpg
 mail: grabovoy.av@phystech.edu
 site: andriygav.github.io
 scholar: scholar.google.com/citations?user=y8Nbp58AAAAJ&hl=ru
+orcid:
+elibrary:
+mathnet:
 ---
 
 {% tf _people/grabovoy_av.md %}
