@@ -3,7 +3,7 @@ title: courses.bm.title
 name: courses.bm.name
 type: master
 avatar:
-lecturers: grabovoy_av
+lecturers: bakhteev_oy
 site: 
 ---
 

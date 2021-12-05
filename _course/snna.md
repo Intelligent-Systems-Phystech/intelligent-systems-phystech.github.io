@@ -3,7 +3,7 @@ title: courses.snna.title
 name: courses.snna.name
 type: master
 avatar:
-lecturers: grabovoy_av
+lecturers: bakhteev_oy
 site: 
 ---
 

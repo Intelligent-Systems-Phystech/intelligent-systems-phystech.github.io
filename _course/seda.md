@@ -3,7 +3,7 @@ title: courses.seda.title
 name: courses.seda.name
 type: master
 avatar:
-lecturers: grabovoy_av
+lecturers: khritankov_as
 site: 
 ---
 

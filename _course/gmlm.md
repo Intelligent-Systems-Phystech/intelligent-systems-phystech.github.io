@@ -3,7 +3,7 @@ title: courses.gmlm.title
 name: courses.ant.name
 type: master
 avatar:
-lecturers: grabovoy_av
+lecturers: potanin_ms
 site: 
 ---
 

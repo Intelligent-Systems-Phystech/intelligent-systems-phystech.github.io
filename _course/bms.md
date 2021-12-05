@@ -3,7 +3,7 @@ title: courses.bms.title
 name: courses.bms.name
 type: bachelor
 avatar:
-lecturers: grabovoy_av
+lecturers: aduenko_aa
 site: 
 ---
 

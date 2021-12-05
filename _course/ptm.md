@@ -3,7 +3,7 @@ title: courses.ptm.title
 name: courses.ptm.name
 type: master
 avatar:
-lecturers: grabovoy_av
+lecturers: vorontsov_kv
 site: 
 ---
 

@@ -3,7 +3,7 @@ title: courses.m1p.title
 name: courses.m1p.name
 type: bachelor
 avatar:
-lecturers: grabovoy_av
+lecturers: strijov_vv
 site: 
 ---
 

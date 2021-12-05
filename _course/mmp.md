@@ -3,7 +3,7 @@ title: courses.mmp.title
 name: courses.mmp.name
 type: bachelor
 avatar:
-lecturers: grabovoy_av
+lecturers: strijov_vv
 site: 
 ---
 
