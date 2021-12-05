@@ -1,6 +1,6 @@
 # Machine Learning Phystech WebSite
 
-## Добавление курса:
+## Добавление курса: TODO --- сейчас не актуально
 Для добавления нового курса требуется создать файл `course_name.md` в папке `_course/`. Далее требуется заполнить метаинформацию о курсе:
 ```
 ---
@@ -15,7 +15,7 @@ site: основной сайт курса (можно не указывать),
 
 После заполенения метаинформации требуется указать описание самого курса в формате markdown.
 
-## Добавление пользователя
+## Добавление пользователя:  TODO --- сейчас не актуально
 Для добавления нового пользователя требуется создать файл `lecturer_name.md` в папке `_people/`. Далее требуется заполнить метаинформацию о лекторе:
 ```
 ---
@@ -31,14 +31,40 @@ scholar: ссылка на scholar (может быть пусто)
 
 Вся дополнительная информация указывается ниже в формате markdown.
 
+## Исправления текста локализации en/ru
+
+Английский язык: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en.yml)
+
+Русский язык: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru.yml)
+
 ## Изменения страницы HOME
 
-Доступно по [ссылке](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/index.md)
+Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/index.md)
+
+Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/index.md)
+
+Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/index.md)
 
 ## Изменения страницы ABOUT
 
-Доступно по [ссылке](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/about.md)
+Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/about.md)
+
+Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/about.md)
+
+Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/about.md)
+
+## Изменения страницы Applicants
+
+Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/applicants.md)
+
+Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/applicants.md)
+
+Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/applicants.md)
 
 ## Изменения страницы MATERIALS
 
-Доступно по [ссылке](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/materials.md)
+Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/materials.md)
+
+Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/materials.md)
+
+Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/materials.md)
