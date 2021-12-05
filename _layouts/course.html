@@ -3,14 +3,14 @@ layout: default
 ---
 <div class="container content page">
 
-  <h3 class="title">{{ page.name }}</h3>
+  <h3 class="title">{% t page.name %}</h3>
 
   {% if page.avatar %}
-  <img width="300" src="/images/course/{{page.avatar}}">
+  <img width="300" src="/images/course/{{ page.avatar }}">
   {% endif %}
 
   {% if page.site %}
-  <i class="fa fa-university" aria-hidden="true"></i> <a href="https://{{page.site}}">Course Website</a> <br>
+  <i class="fa fa-university" aria-hidden="true"></i> <a href="{{ page.site }}">Course Website</a> <br>
   {% endif %}
 
   <hr>
