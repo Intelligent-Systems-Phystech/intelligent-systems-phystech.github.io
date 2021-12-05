@@ -11,7 +11,7 @@ markdown:           kramdown
 sass:
   style:            :compressed
 
-exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock", "vendor"]
 
 # Highlighter
 highlighter:        rouge
