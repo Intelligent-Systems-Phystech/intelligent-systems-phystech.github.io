@@ -2,7 +2,7 @@
 title: peoples.isachenko_rv.title
 name: peoples.isachenko_rv.name
 position: gs
-avatar:
+avatar: isachenko_rv.jpg
 mail:
 site:
 scholar:
