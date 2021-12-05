@@ -2,7 +2,7 @@
 title: peoples.strijov_vv.title
 name: peoples.strijov_vv.name
 position: hotd
-avatar:
+avatar: strijov_vv.jpg
 mail: strijov@phystech.edu
 site: http://ccas.ru/strijov/
 scholar: scholar.google.com/citations?user=3TpENmIAAAAJ&hl=en&oi=ao

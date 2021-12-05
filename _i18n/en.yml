@@ -29,6 +29,45 @@ peoples:
   grabovoy_av:
     title: Andrey Grabovoy
     name: Andrey Grabovoy
+  aduenko_aa:
+    title: Aleksander Aduenko
+    name: Aleksander Aduenko
+  bakhteev_oy:
+    title: Oleg Bakhteev
+    name: Oleg Bakhteev
+  grabovoy_av:
+    title: Andrey Grabovoy
+    name: Andrey Grabovoy
+  hrilchenkov_ky:
+    title: Kirill Hrilchenkov
+    name: Kirill Hrilchenkov
+  isachenko_rv:
+    title: Roman Isachenko
+    name: Roman Isachenko
+  khritankov_as:
+    title: Anton Khritankov
+    name: Anton Khritankov
+  kropotov_da:
+    title: Dmitriy Kropotov
+    name: Dmitriy Kropotov
+  meysuradze_ai:
+    title: Archil Meysuradze
+    name: Archil Meysuradze
+  mestetskiy_lm:
+    title: Leonid Mestetskiy
+    name: Leonid Mestetskiy
+  popov_as:
+    title: Artem Popov
+    name: Artem Popov
+  potanin_ms:
+    title: Mark Potanin
+    name: Mark Potanin
+  strijov_vv:
+    title: Vadim Strijov
+    name: Vadim Strijov
+  vorontsov_kv:
+    title: Konstantin Vorontsov
+    name: Konstantin Vorontsov
       
 courses:
   ml:
