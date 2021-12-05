@@ -1,10 +1,10 @@
 ---
-title: courses.m1p.title
-name: courses.m1p.name
+title: courses.mmp.title
+name: courses.mmp.name
 type: bachelor
 avatar:
 lecturers: grabovoy_av
 site: 
 ---
 
-{% tf _course/m1p.md %}
+{% tf _course/mmp.md %}
