@@ -140,4 +140,8 @@ index:
     - Data Analysis
 
 edits:
-  nir: https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/_i18n/en/nir.md
+  about: master/_i18n/en/about.md
+  applicants: master/_i18n/en/applicants.md
+  nir: master/_i18n/en/nir.md
+  index: master/_i18n/en/index.md
+  templates: master/_i18n/en/templates.md

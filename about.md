@@ -1,5 +1,6 @@
 ---
 title: titles.about
+edit: edits.about
 permalink: /about/
 ---
 

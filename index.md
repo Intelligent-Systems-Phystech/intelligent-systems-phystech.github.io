@@ -1,6 +1,7 @@
 ---
 layout: main
 title: titles.index
+edit: edits.index
 permalink: /
 image: /images/main/main.jpg
 github: 
