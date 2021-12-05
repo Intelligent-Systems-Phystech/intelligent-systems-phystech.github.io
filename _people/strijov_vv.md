@@ -4,7 +4,7 @@ name: peoples.strijov_vv.name
 position: hotd
 avatar:
 mail: strijov@phystech.edu
-site: ccas.ru/strijov
+site: http://ccas.ru/strijov
 scholar: scholar.google.com/citations?user=3TpENmIAAAAJ&hl=en&oi=ao
 orcid: orcid.org/0000-0002-2194-8859/print
 mathnet: www.mathnet.ru/php/person.phtml?option_lang=rus&personid=71984
