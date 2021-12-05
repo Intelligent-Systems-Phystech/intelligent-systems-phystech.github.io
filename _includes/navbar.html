@@ -20,7 +20,20 @@
             <ul class="nav navbar-nav navbar-right">
                 <ul class="nav navbar-nav navbar-right">
                   {% for nav in site.nav.pages %}
-                  <li><a class='name' href="{{ site.baseurl }}{{ nav.href }}">{% t nav.name %}</a></li>
+                    {% if nav.dropdown %}
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="{{ t nav.id }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{% t nav.name %}</a>
+                        <div class="dropdown-menu" aria-labelledby="{{ t nav.id }}">
+                            <ul class="nav navbar-nav navbar-right">
+                                {% for drop in nav.dropdown %}
+                                <li><a class='name' href="{{ site.baseurl }}{{ drop.href }}">{% t drop.name %}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </li>
+                    {% else %}
+                    <li><a class='name' href="{{ site.baseurl }}{{ nav.href }}">{% t nav.name %}</a></li>
+                    {% endif %}
                   {% endfor %}
                 </ul>
             </ul>

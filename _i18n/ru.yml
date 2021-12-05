@@ -9,7 +9,9 @@ site:
       courses: "курсы"
       materials: "материалы"
       applicants: "поступающим"
-      
+      nir: "отчеты нир"
+      templates: "заготовки"
+
   global:
     course:
       types:
@@ -23,8 +25,7 @@ site:
         gs: Аспиранты
         teachers: Преподаватели
         template: ПРИМЕР
-    
-      
+
 peoples:
   grabovoy_av:
     title: Грабовой Андрей Валериевич
@@ -125,6 +126,12 @@ titles:
   course: Курсы
   people: Преподаватели
   materials: Материалы
+  nir: Отчеты нир
+  templates: Заготовки
+  applicants: Поступающим
+  
+edits:
+  nir: https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/nir.md
   
 index:
   department: |-

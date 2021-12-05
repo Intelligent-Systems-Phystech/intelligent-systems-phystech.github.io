@@ -32,21 +32,33 @@ nav:
   - id: "home"
     href: "/"
     name: site.nav.names.home
+    dropdown:
   - id: "about"
     href: "/about"
     name: site.nav.names.about
+    dropdown:
   - id: "lecturers"
     href: "/people"
     name: site.nav.names.lecturers
+    dropdown:
   - id: "courses"
     href: "/course"
     name: site.nav.names.courses
+    dropdown:
   - id: "applicants"
     href: "/applicants"
     name: site.nav.names.applicants
+    dropdown:
   - id: "materials"
     href: "/materials"
     name: site.nav.names.materials
+    dropdown:
+    - id: "nir"
+      href: "/materials/nir"
+      name: site.nav.names.nir
+    - id: "templates"
+      href: "/materials/templates"
+      name: site.nav.names.templates
 
 # Scopes
 defaults:

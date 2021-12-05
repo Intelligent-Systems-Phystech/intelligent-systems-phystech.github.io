@@ -9,7 +9,9 @@ site:
       courses: "courses"
       applicants: "applicants"
       materials: "materials"
-      
+      nir: "research reports"
+      templates: "templates"
+
   global:
     course:
       types:
@@ -23,8 +25,7 @@ site:
         gs: Graduate Student
         teachers: Teachers
         template: TEMPLATE
-    
-      
+
 peoples:
   grabovoy_av:
     title: Andrey Grabovoy
@@ -125,6 +126,9 @@ titles:
   course: Course
   people: Lecturers
   materials: Materials
+  nir: Research Reports
+  templates: Templates
+  applicants: Applicants
   
 index:
   department: |-
@@ -134,3 +138,6 @@ index:
   header: |-
     - Machine Learning
     - Data Analysis
+
+edits:
+  nir: https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/nir.md
