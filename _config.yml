@@ -1,17 +1,17 @@
-# Basic
-name:               "Intelligent Systems Phystech"
-# title:              "Intelligent Systems at Moscow Institute of Physics and Technology"
-# description:        "this is a page for Intelligent Systems at the Moscow Institute of Physics and Technology, Moscow"
+brand:              /images/logo/logo_square.jpg
 
-
-# URL
 url:                https://intelligent-systems-phystech.github.io
-baseurl:            
-#baseurl:            "" #For Root Domain
+baseurl:
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
 markdown:           kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
 
 # Highlighter
 highlighter:        rouge
@@ -20,27 +20,33 @@ plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
 
-languages: ["en"]
+languages: ["en", "ru"]
 
-exclude_from_localizations: ["images"]
+exclude_from_localizations: ["images", "style.css", "favicon.ico", "css", "javascript"]
 
+default_locale_in_subfolder: False
 
 # Navigation
 nav:
-  - name:           "home"
-    href:           "/"
-  - name:           "about"
-    href:           "/about"
-  - name:           "lecturers"
-    href:           "/people"
-  - name:           "courses"
-    href:           "/course"
-  - name:           "materials"
-    href:           "/materials"
-
-# Sass
-sass:
-  style:            :compressed
+  pages:
+  - id: "home"
+    href: "/"
+    name: site.nav.names.home
+  - id: "about"
+    href: "/about"
+    name: site.nav.names.about
+  - id: "lecturers"
+    href: "/people"
+    name: site.nav.names.lecturers
+  - id: "courses"
+    href: "/course"
+    name: site.nav.names.courses
+  - id: "applicants"
+    href: "/applicants"
+    name: site.nav.names.applicants
+  - id: "materials"
+    href: "/materials"
+    name: site.nav.names.materials
 
 # Scopes
 defaults:
@@ -56,9 +62,9 @@ defaults:
       layout:       "page"
   - scope:
       path:         ""
-      type:         "posts"
+      type:         "applicants"
     values:
-      layout:       "post"
+      layout:       "page"
   - scope:
       path:         ""
       type:         "people"
@@ -80,23 +86,20 @@ collections:
 
 
 global:
+  langs:
+    ru: Русский
+    en: English
+
   course:
     types:
-      - id: bachelor
-        name: Bachelor
-      - id: master
-        name: Master
+    - bachelor
+    - master
+
   people:
     roles:
-      - id: hotd
-        name: Head of the Department
-      - id: dos
-        name: Doctor of Science
-      - id: phd
-        name: Ph.D
-      - id: gs
-        name: Graduate Student
-      - id: student
-        name: Student
-      - id: template
-        name: TEMPLATE
+    - hotd
+    - dos
+    - phd
+    - gs
+    - student
+    - template

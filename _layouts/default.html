@@ -1,27 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <title>{% if page.title %}{% t page.title %}{% else %}{% t site.name %}{% endif %}</title>
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+    
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+    
   <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-
-  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+  
   <!-- favicon -->
-  <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
-  <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/images/logo/apple-touch-icon-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.url }}/images/logo/apple-touch-icon-72x72-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/logo/apple-touch-icon-114x114-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/logo/apple-touch-icon-144x144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" href="/images/logo/apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/logo/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/logo/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/logo/apple-touch-icon-144x144-precomposed.png">
 
+  <!-- local -->
+  <script src="/javascript/transition.js"></script>
+  <link rel="stylesheet" href="/style.css">
+    
+    
   <!-- open graph -->
+    
+
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content }}{% endif %}{% endcapture %}
@@ -31,7 +41,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
-  <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
+  <meta property="og:image" content="/images/logo/logo_square.jpg">
 
 </head>
 <body id="page-top" style="padding-top: 7em;">
@@ -39,8 +49,21 @@
   {{ content }}
   <footer>
     <hr style="margin: 10px;">
+    {% for lang in site.languages %}
+      {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
+        <a href="{{ site.baseurl_root }}{{ page.url }}" >{{ site.global.langs[lang] }}</a>
+      {% else %}
+        <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{{ site.global.langs[lang] }}</a>
+      {% endif %}
+      {% assign next = forloop.index | plus: 1 %}
+
+      {% if forloop.last != true or site.languages[forloop.index] == site.lang and next < forloop.length %}
+        <span class="separator"> &bull; </span>
+      {% endif %}
+    {% endfor %}
+    <hr style="margin: 10px;">
     © 2003-<script>document.write(new Date().getFullYear())</script> 
-    <a href="{{ site.url }}">Intelligent Systems</a>. All rights reserved.
+    <a href="/">Intelligent Systems</a>. All rights reserved.
   </footer>
 </body>
 </html>

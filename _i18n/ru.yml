@@ -1,0 +1,49 @@
+site:
+  name: "Интелектуальные системы"
+
+  nav:
+    names:
+      home: "главная"
+      about: "о нас"
+      lecturers: "преподаватели"
+      courses: "курсы"
+      materials: "материалы"
+      applicants: "поступающим"
+      
+  global:
+    course:
+      types:
+        bachelor: Бакалавриат
+        master: Магистратура
+    people:
+      roles:
+        hotd: Заведующие кафедрой
+        dos: Доктора наук
+        phd: Кандидаты наук
+        gs: Аспиранты
+        student: Студенты
+        template: ПРИМЕР
+    
+      
+peoples:
+  grabovoy_av:
+    title: Андрей Грабовой
+    name: Андрей Грабовой
+      
+courses:
+  ml:
+    title: Введение в машинное обучение
+    name: Введение в машинное обучение
+      
+titles:
+  index: Интелектуальные системы
+  about: О нас
+  course: Курсы
+  people: Преподаватели
+  materials: Материалы
+  
+index:
+  department: |-
+    Кафедра интеллектуальных систем Московского физико-технического института
+  address: |-
+    141701, Московская облаcть, г. Долгопрудный, Институтский пер., 9.

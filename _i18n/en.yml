@@ -1,14 +1,52 @@
-global:
-  tagline: English
-  about: About
-  twitter: Twitter
-  github: GitHub
-langs:
-  it: Italiano
-  en: English
-  es: Español
-pages:
-  example: example
-  includeexample: The following text is a Jekyll include liquid tag parameter
+site:
+  name: "Intelligent Systems Phystech"
+
+  nav:
+    names:
+      home: "home"
+      about: "about"
+      lecturers: "lecturers"
+      courses: "courses"
+      applicants: "applicants"
+      materials: "materials"
+      
+  global:
+    course:
+      types:
+        bachelor: Bachelor
+        master: Master
+    people:
+      roles:
+        hotd: Head of the Department
+        dos: Doctor of Science
+        phd: Ph.D
+        gs: Graduate Student
+        student: Student
+        template: TEMPLATE
+    
+      
+peoples:
+  grabovoy_av:
+    title: Andrey Grabovoy
+    name: Andrey Grabovoy
+      
+courses:
+  ml:
+    title: Introduction to Machine Learning
+    name: Introduction to Machine Learning
+      
 titles:
-  pagination: Pagination
+  index: Intelligent Systems Phystech
+  about: About
+  course: Course
+  people: Lecturers
+  materials: Materials
+  
+index:
+  department: |-
+    Department of Intelligent Systems at Moscow Institute of Physics and Technology
+  address: |-
+    9 Institutskiy per., Dolgoprudny, Moscow Region, 141701, Russian Federation
+  header: |-
+    - Machine Learning
+    - Data Analysis

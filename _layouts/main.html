@@ -8,7 +8,7 @@ layout: default
 
     <p><i>
     {% for line in page.header %}
-      {{line}}<br>
+      {{ line }}<br>
     {% endfor %}
     </i></p>
     
@@ -20,15 +20,15 @@ layout: default
     <span style="display: block; margin-bottom: 3em"></span>
     
     {% if page.github %}
-    <a href="https://{{page.github.url}}"><i class="fa fa-github"></i> {{page.github.name}}</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://{{page.github.url}}"><i class="fa fa-github"></i> {{ page.github.name }}</a>&nbsp;&nbsp;&nbsp;
     {% endif %}
 
     {% if page.mail %}
-    <a href="mailto:{{page.mail}}"><i class="fa fa-envelope-o"></i> {{page.mail}}</a>
+    <a href="mailto:{{page.mail}}"><i class="fa fa-envelope-o"></i> {{ page.mail }}</a>
     {% endif %}
 
     <span style="display: block; margin-bottom: 3em"></span>
-      {{ page.department }}<br>
-      {{ page.address }}
+      {% t page.department %}<br>
+      {% t page.address %}
   </header>
 </div>

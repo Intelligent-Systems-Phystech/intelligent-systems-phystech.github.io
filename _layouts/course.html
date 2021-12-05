@@ -6,7 +6,7 @@ layout: default
   <h3 class="title">{{ page.name }}</h3>
 
   {% if page.avatar %}
-  <img width="300" src="{{site.baseurl}}/images/course/{{page.avatar}}">
+  <img width="300" src="/images/course/{{page.avatar}}">
   {% endif %}
 
   {% if page.site %}
@@ -26,11 +26,11 @@ layout: default
         <div class="list-item-people">
           <p class="list-post-title">
             {% if profile.avatar %}
-              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/{{profile.avatar}}"></a>
             {% else %}
-              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/default.jpg"></a>
+              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/default.jpg"></a>
             {% endif %}
-            <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+            <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t profile.name %}</a>
           </p>
         </div>    
       {% endif %}
