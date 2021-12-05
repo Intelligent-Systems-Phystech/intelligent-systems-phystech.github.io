@@ -20,7 +20,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <ul class="nav navbar-nav navbar-right">
                   {% for nav in site.nav.pages %}
-                  <li><a class='name' href="{{ nav.href }}">{% t nav.name %}</a></li>
+                  <li><a class='name' href="{{ site.baseurl }}{{ nav.href }}">{% t nav.name %}</a></li>
                   {% endfor %}
                 </ul>
             </ul>
