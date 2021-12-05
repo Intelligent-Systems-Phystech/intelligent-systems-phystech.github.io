@@ -16,6 +16,14 @@ markdown:           kramdown
 # Highlighter
 highlighter:        rouge
 
+plugins:
+  - jekyll-feed
+  - jekyll-multiple-languages-plugin
+
+languages: ["en"]
+
+
+
 # Navigation
 nav:
   - name:           "home"
