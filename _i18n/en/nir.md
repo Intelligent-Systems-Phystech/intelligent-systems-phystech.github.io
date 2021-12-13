@@ -4,7 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Andrey Grabovoy | 1 | A priori distribution of parameters in problems of choosing deep learning models (Тема дипломной работы, на русском языке) | Strijov V.V. | TODO |
+| Andrey Grabovoy | 1 | A priori distribution of parameters in problems of choosing deep learning models (Тема дипломной работы, на русском языке) | Strijov V.V. | Paper, Code, Slides|
 | | | | | |
 | | | | | |
 
