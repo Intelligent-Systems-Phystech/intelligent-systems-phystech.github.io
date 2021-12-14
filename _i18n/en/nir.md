@@ -26,4 +26,4 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Antonina Kurdyukova | 4 | Phase detection of human motions with signals of wearable devices | [Strijov V.V.](http://www.ccas.ru/strijov/) |  [Paper](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/raw/master/docs/Kurdyukova2021Phase%20(44).pdf), [Code](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/tree/master/code), [Slides](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/raw/master/slides/Kurdyukova2021Phase%20(46).pdf) |
-| | | | | |
+| Anton Pilkevich | 4 | Clustering of news text messages based on polar opinions | Vorontsov K.V. | [report](https://www.overleaf.com/project/61b8e15d84572e54529855fc)|
