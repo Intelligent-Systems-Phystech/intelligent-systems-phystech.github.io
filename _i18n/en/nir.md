@@ -6,6 +6,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Andrey Grabovoy | 1 | A prior distribution of parameters in problems of choosing deep learning models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/andriygav/PhDThesis/blob/master/thesis/Grabovoy2021PhDThesis.pdf), [Code](https://github.com/andriygav/PhDThesis), [Slides](https://github.com/andriygav/PhDThesis/blob/master/slides/Grabovoy2021PhDSlides.pdf)|
 | Alina Samokhina | 1 | Continuous time representation for signal decoding| [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg)|
+|||
 
 #### Second Year Master Students
 
