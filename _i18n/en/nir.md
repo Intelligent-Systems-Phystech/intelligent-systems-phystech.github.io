@@ -27,5 +27,5 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| | | | | |
+| Anton Pilkevich | 4 | Clustering of news text messages based on polar opinions | Vorontsov K.V. | [report](https://www.overleaf.com/project/61b8e15d84572e54529855fc)|
 | | | | | |
