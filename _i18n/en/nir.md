@@ -18,7 +18,7 @@
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| | | | | |
+|Rustem Islamov | 1|Second Order Methods for Federated Learning | | |
 | | | | | |
 
 #### Fourth Year Bachelor Students
