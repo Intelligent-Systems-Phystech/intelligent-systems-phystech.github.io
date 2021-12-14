@@ -5,6 +5,7 @@
 | Аспирант | Год | Тема кандидатской диссертации | Научный руководитель | Ссылка на публикацию |
 |:---:|:---:|:---:|:---:|:---:|
 | Андрей Грабовой | 1 | Априорное распределение параметров в задачах выбора моделей глубокого обучения | [Стрижов В.В.](http://www.ccas.ru/strijov/) | [Работа](https://github.com/andriygav/PhDThesis/blob/master/thesis/Grabovoy2021PhDThesis.pdf), [Код](https://github.com/andriygav/PhDThesis), [Слайды](https://github.com/andriygav/PhDThesis/blob/master/slides/Grabovoy2021PhDSlides.pdf) |
+| Алина Самохина | 1 | Непрерывное представление времени в задачах декодирования сигналов | [Стрижов В.В.](http://www.ccas.ru/strijov/)| [Работа](https://www.overleaf.com/read/dmtgkgpnnjkg)|
 | | | | | |
 | | | | | |
 
