@@ -24,7 +24,7 @@
 |Natalia Varenik| 2 | Building a connectivity map of functional groups in the problem of decoding brain signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Natalia-Varenik/MasterThesis/blob/main/doc/Graphs_for_BCI-5.pdf) [Slides](https://github.com/Natalia-Varenik/MasterThesis/blob/main/slides/master_thesis_presentation.pdf) [Code](https://github.com/Natalia-Varenik/MasterThesis/tree/main/code)|
 |Severilov Pavel | 2 | Differential analysis of phase spaces in the problem of decoding signals | [Strijov V.V.](http://www.ccas.ru/strijov/)  | [Slides](https://github.com/severilov/master-thesis/blob/main/pres/Severilov2022MasterThesisPres.pdf) [Code](https://github.com/severilov/master-thesis/tree/main/code)|
 |Panchenko Sviatoslav | 2 | Bilinearity of geometric product for the task of signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Slides](https://github.com/Intelligent-Systems-Phystech/GeometricAlgebra/blob/main/notes/GeometricAlgebraForDecoding.pdf)|
-|Grishanov Alexey | 2 | Application of Reinforcement Learning for recommendation system personalization | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Slides](https://drive.google.com/file/d/1AKAz5hTMEd0ig9ob_WvJwluz0O5Zk0A2/view?usp=sharing), [Сode](https://github.com/shashist/recsys-rl)|
+|Grishanov Alexey | 2 | Application of Reinforcement Learning for recommendation system personalization | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Slides](https://drive.google.com/file/d/1AKAz5hTMEd0ig9ob_WvJwluz0O5Zk0A2/view?usp=sharing) | [Сode](https://github.com/shashist/recsys-rl)|
 
 #### First Year Master Students
 
@@ -46,3 +46,4 @@
 | Anton Pilkevich | 4 | Clustering of news text messages based on polar opinions | Vorontsov K.V. ||
 | Gorpinich Mariya | 4 | Metaparameter optimization in knowledge distillation | [Bakhteev O.Yu.](http://www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Oleg_Bakhteev) |  [Paper](https://github.com/Intelligent-Systems-Phystech/Gorpinich-BS-Thesis/raw/master/docs/Gorpinich2021DistillingKnowledge.pdf), [Code](https://github.com/Intelligent-Systems-Phystech/Gorpinich-BS-Thesis), [Slides](https://github.com/Intelligent-Systems-Phystech/Gorpinich-BS-Thesis/raw/master/docs/slides/Gorpinich2021DistillingKnowledgeSlides.pdf) |
 |Vyacheslav Gorchakov|4| Importance Sampling Approach to Chance-Constrained DC Optimal Power Flow | Maximov Y.V. |[Paper](https://arxiv.org/abs/2111.11729), [Code](https://github.com/Intelligent-Systems-Phystech/Gorchakov-BS-thesis/tree/master/code) |
+|Konstantin Yakovlev|4| Selection of concordant architectures with complexity control | Bakhteev O.Y. | |
