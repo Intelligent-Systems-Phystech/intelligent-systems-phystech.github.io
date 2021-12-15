@@ -23,6 +23,7 @@
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Rustem Islamov|1 |Second Order Methods for Federated Learning |[Richtarik P](https://richtarik.org/), [Strijov V.V.](http://www.ccas.ru/strijov/) |[Paper](https://arxiv.org/abs/2106.02969), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/tree/main/Master%20Thesis/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/blob/main/Master%20Thesis/Presentation/Islamov2021Presentation.pdf) |
+| Grebenkova Olga | 1 | Automated detection of focal cortical dysplasia |[Burnaev E](https://faculty.skoltech.ru/people/evgenyburnaev) |[Report](https://github.com/Intelligent-Systems-Phystech/Grebenkova-BS-Thesis/blob/main/Grebenkova2021(S9)Report.pdf)|
 | | | | | |
 
 #### Fourth Year Bachelor Students
