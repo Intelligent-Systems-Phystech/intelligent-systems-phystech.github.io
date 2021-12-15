@@ -11,7 +11,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| | | | | |
+|Natalia Varenik| 2 | Building a connectivity map of functional groups in the problem of decoding brain signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper] (https://github.com/Natalia-Varenik/MasterThesis/blob/main/doc/Graphs_for_BCI-5.pdf) [Slides] (https://github.com/Natalia-Varenik/MasterThesis/blob/main/slides/master_thesis_presentation.pdf) [Code] (https://github.com/Natalia-Varenik/MasterThesis/tree/main/code)|
 | | | | | |
 
 #### First Year Master Students
