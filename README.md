@@ -60,11 +60,3 @@ scholar: ссылка на scholar (может быть пусто)
 Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/applicants.md)
 
 Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/applicants.md)
-
-## Изменения страницы MATERIALS
-
-Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/materials.md)
-
-Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/materials.md)
-
-Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/materials.md)
