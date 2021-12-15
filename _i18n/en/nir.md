@@ -21,7 +21,7 @@
 | Alexey Grigorev | 2 | Regularization of neural layer via construction of frame in parameter space | [Gneushev A.N.](https://scholar.google.com/citations?hl=en&user=sjlY2q8AAAAJ) | [Slides](https://drive.google.com/uc?id=19rg9DegVH_rQRsjpasatkpMCMpha3kDt&export=download), [Code](https://github.com/formica-rufa/WO); [Paper](https://drive.google.com/uc?id=1lVVXaKIkzWixxp8KK-imWGnvt0JDt1Is&export=download) |
 |Natalia Varenik| 2 | Building a connectivity map of functional groups in the problem of decoding brain signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Natalia-Varenik/MasterThesis/blob/main/doc/Graphs_for_BCI-5.pdf) [Slides](https://github.com/Natalia-Varenik/MasterThesis/blob/main/slides/master_thesis_presentation.pdf) [Code](https://github.com/Natalia-Varenik/MasterThesis/tree/main/code)|
 |Severilov Pavel | 2 | Differential analysis of phase spaces in the problem of decoding signals | [Strijov V.V.](http://www.ccas.ru/strijov/)  | [Slides](https://github.com/severilov/master-thesis/blob/main/pres/Severilov2022MasterThesisPres.pdf) [Code](https://github.com/severilov/master-thesis/tree/main/code)|
-|Panchenko Sviatoslav | 2 | Bilinearity of geometric product for the task of signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | | [Slides](https://github.com/Intelligent-Systems-Phystech/GeometricAlgebra/blob/main/notes/GeometricAlgebraForDecoding.pdf) |
+|Panchenko Sviatoslav | 2 | Bilinearity of geometric product for the task of signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Slides](https://github.com/Intelligent-Systems-Phystech/GeometricAlgebra/blob/main/notes/GeometricAlgebraForDecoding.pdf)|
 
 #### First Year Master Students
 
