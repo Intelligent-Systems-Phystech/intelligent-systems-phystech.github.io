@@ -11,6 +11,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+| Petr Mokrov | 1 | Wasserstein gradient flows: modeling and applications | [Burnaev E.V.](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=en) | [Paper](https://openreview.net/forum?id=nlLjIuHsMHp), [Code](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows), [Slides](https://drive.google.com/file/d/1t0lYIeBDujZLmkbtXqwLe-_nkOKf6kzj/view?usp=sharing) |
 | | | | | |
 | | | | | |
 
