@@ -6,15 +6,12 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Andrey Grabovoy | 1 | A prior distribution of parameters in problems of choosing deep learning models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/andriygav/PhDThesis/blob/master/thesis/Grabovoy2021PhDThesis.pdf), [Code](https://github.com/andriygav/PhDThesis), [Slides](https://github.com/andriygav/PhDThesis/blob/master/slides/Grabovoy2021PhDSlides.pdf)|
 | Alina Samokhina | 1 | Continuous time representation for signal decoding| [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg)|
-| Kamil Safin | 3 | Intrinsic methods for plagiarised texts detection| Chehovich Y.V. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-92711-0_7)|
+| Petr Ostroukhov | 3 | Tensor methods for optimization of convex functions | [Gasnikov A.V.](https://scholar.google.ru/citations?hl=ru&authuser=1&user=AmeE8qkAAAAJ) | |
 
 #### Second Year Master Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Denis Tikhonov | 2 | Model selection for quasiperiodic time series forecasting | [Strijov V.V.](http://www.ccas.ru/strijov/) |[Code](https://github.com/Denis-Tihonov/Spherical_Harmonics_parametrisation), [Slides](https://github.com/Denis-Tihonov/Spherical_Harmonics_parametrisation/blob/main/slides/Tikhonov2021ApproximatinPresentation.pdf)|
-| Alexey Grigorev | 2 | Regularization of neural layer via construction of frame in parameter space | Gneushev A.N. | [Slides](https://drive.google.com/uc?id=19rg9DegVH_rQRsjpasatkpMCMpha3kDt&export=download), [Code](https://github.com/formica-rufa/WO); [Paper](https://drive.google.com/uc?id=1lVVXaKIkzWixxp8KK-imWGnvt0JDt1Is&export=download) |
-|Natalia Varenik| 2 | Building a connectivity map of functional groups in the problem of decoding brain signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Natalia-Varenik/MasterThesis/blob/main/doc/Graphs_for_BCI-5.pdf) [Slides](https://github.com/Natalia-Varenik/MasterThesis/blob/main/slides/master_thesis_presentation.pdf) [Code](https://github.com/Natalia-Varenik/MasterThesis/tree/main/code)|
 | Petr Mokrov | 1 | Wasserstein gradient flows: modeling and applications | [Burnaev E.V.](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=en) | [Paper](https://openreview.net/forum?id=nlLjIuHsMHp), [Code](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows), [Slides](https://drive.google.com/file/d/1t0lYIeBDujZLmkbtXqwLe-_nkOKf6kzj/view?usp=sharing) |
 | | | | | |
 | | | | | |
@@ -24,7 +21,6 @@
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Rustem Islamov|1 |Second Order Methods for Federated Learning |[Richtarik P](https://richtarik.org/), [Strijov V.V.](http://www.ccas.ru/strijov/) |[Paper](https://arxiv.org/abs/2106.02969), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/tree/main/Master%20Thesis/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/blob/main/Master%20Thesis/Presentation/Islamov2021Presentation.pdf) |
-| Grebenkova Olga | 1 | Automated detection of focal cortical dysplasia |[Burnaev E](https://faculty.skoltech.ru/people/evgenyburnaev) |[Report](https://github.com/Intelligent-Systems-Phystech/Grebenkova-BS-Thesis/blob/main/Grebenkova2021(S9)Report.pdf)|
 | | | | | |
 
 #### Fourth Year Bachelor Students
