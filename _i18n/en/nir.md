@@ -7,6 +7,9 @@
 | Andrey Grabovoy | 1 | A prior distribution of parameters in problems of choosing deep learning models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/andriygav/PhDThesis/blob/master/thesis/Grabovoy2021PhDThesis.pdf), [Code](https://github.com/andriygav/PhDThesis), [Slides](https://github.com/andriygav/PhDThesis/blob/master/slides/Grabovoy2021PhDSlides.pdf)|
 | Alina Samokhina | 1 | Continuous time representation for signal decoding| [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg)|
 | Petr Ostroukhov | 3 | Tensor methods for optimization of convex functions | [Gasnikov A.V.](https://scholar.google.ru/citations?hl=ru&authuser=1&user=AmeE8qkAAAAJ) | |
+| Vasiliy Alekseev | 2 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.sciencedirect.com/science/article/pii/S0169023X21000483), [Code](https://github.com/machine-intelligence-laboratory/OptimalNumberOfTopics), [Slides1](http://www.machinelearning.ru/wiki/images/f/fa/Alekseev2021TopicBankMMROSlides.pdf), [Slides2](http://www.machinelearning.ru/wiki/images/2/29/Alekseev2021TopicBankMIPTSlides.pdf) |
+| Kamil Safin | 3 | Intrinsic methods for plagiarised texts detection| Chehovich Y.V. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-92711-0_7)|
+
 
 #### Second Year Master Students
 
