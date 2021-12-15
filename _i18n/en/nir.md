@@ -18,7 +18,7 @@
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Rustem Islamov|1 |Second Order Methods for Federated Learning |[Richtarik P](https://richtarik.org/)[Strijov V.V.](http://www.ccas.ru/strijov/) |[Paper](https://arxiv.org/abs/2106.02969), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/tree/main/Master%20Thesis/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/blob/main/Master%20Thesis/Presentation/Islamov2021Presentation.pdf) |
+| Rustem Islamov|1 |Second Order Methods for Federated Learning |[Richtarik P](https://richtarik.org/), [Strijov V.V.](http://www.ccas.ru/strijov/) |[Paper](https://arxiv.org/abs/2106.02969), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/tree/main/Master%20Thesis/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/blob/main/Master%20Thesis/Presentation/Islamov2021Presentation.pdf) |
 | | | | | |
 
 #### Fourth Year Bachelor Students
