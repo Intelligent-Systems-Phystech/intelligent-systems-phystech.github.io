@@ -11,7 +11,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| | | | | |
+| Alexey Grigorev | 2 | Regularization of neural layer via construction of frame in parameter space | Gneushev A.N. | [Slides](https://drive.google.com/uc?id=19rg9DegVH_rQRsjpasatkpMCMpha3kDt&export=download), [Code](https://github.com/formica-rufa/WO); [Paper](https://drive.google.com/uc?id=1lVVXaKIkzWixxp8KK-imWGnvt0JDt1Is&export=download) |
 | | | | | |
 
 #### First Year Master Students
