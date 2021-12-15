@@ -24,7 +24,7 @@
 |Natalia Varenik| 2 | Building a connectivity map of functional groups in the problem of decoding brain signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Natalia-Varenik/MasterThesis/blob/main/doc/Graphs_for_BCI-5.pdf) [Slides](https://github.com/Natalia-Varenik/MasterThesis/blob/main/slides/master_thesis_presentation.pdf) [Code](https://github.com/Natalia-Varenik/MasterThesis/tree/main/code)|
 |Severilov Pavel | 2 | Differential analysis of phase spaces in the problem of decoding signals | [Strijov V.V.](http://www.ccas.ru/strijov/)  | [Slides](https://github.com/severilov/master-thesis/blob/main/pres/Severilov2022MasterThesisPres.pdf) [Code](https://github.com/severilov/master-thesis/tree/main/code)|
 |Panchenko Sviatoslav | 2 | Bilinearity of geometric product for the task of signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Slides](https://github.com/Intelligent-Systems-Phystech/GeometricAlgebra/blob/main/notes/GeometricAlgebraForDecoding.pdf)|
-|Grishanov Alexey | 2 | Application of Reinforcement Learning for recommendation system personalization | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Slides](https://drive.google.com/file/d/1AKAz5hTMEd0ig9ob_WvJwluz0O5Zk0A2/view?usp=sharing) | [Сode](https://github.com/shashist/recsys-rl)|
+|Grishanov Alexey | 2 | Application of Reinforcement Learning for recommendation system personalization | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Slides](https://drive.google.com/file/d/1AKAz5hTMEd0ig9ob_WvJwluz0O5Zk0A2/view?usp=sharing), [Сode](https://github.com/shashist/recsys-rl)|
 
 #### First Year Master Students
 
