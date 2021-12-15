@@ -9,6 +9,7 @@
 | Petr Ostroukhov | 3 | Tensor methods for optimization of convex functions | [Gasnikov A.V.](https://scholar.google.ru/citations?hl=ru&authuser=1&user=AmeE8qkAAAAJ) | |
 | Vasiliy Alekseev | 2 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.sciencedirect.com/science/article/pii/S0169023X21000483), [Code](https://github.com/machine-intelligence-laboratory/OptimalNumberOfTopics), [Slides1](http://www.machinelearning.ru/wiki/images/f/fa/Alekseev2021TopicBankMMROSlides.pdf), [Slides2](http://www.machinelearning.ru/wiki/images/2/29/Alekseev2021TopicBankMIPTSlides.pdf) |
 | Kamil Safin | 3 | Intrinsic methods for plagiarised texts detection| Chehovich Y.V. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-92711-0_7)|
+| Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | Paper |
 
 
 #### Second Year Master Students
