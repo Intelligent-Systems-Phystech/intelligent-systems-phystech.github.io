@@ -27,7 +27,7 @@
 |Severilov Pavel | 2 | Differential analysis of phase spaces in the problem of decoding signals | [Strijov V.V.](http://www.ccas.ru/strijov/)  | [Slides](https://github.com/severilov/master-thesis/blob/main/pres/Severilov2022MasterThesisPres.pdf) [Code](https://github.com/severilov/master-thesis/tree/main/code)|
 |Panchenko Sviatoslav | 2 | Bilinearity of geometric product for the task of signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Slides](https://github.com/Intelligent-Systems-Phystech/GeometricAlgebra/blob/main/notes/GeometricAlgebraForDecoding.pdf)|
 |Grishanov Alexey | 2 | Application of Reinforcement Learning for recommendation system personalization | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Slides](https://drive.google.com/file/d/1AKAz5hTMEd0ig9ob_WvJwluz0O5Zk0A2/view?usp=sharing), [Сode](https://github.com/shashist/recsys-rl)|
-|Kolesov Aleksandr | 2 | Adversarial approach for transfer learning | [Bahteev O.Yu.](http://www.machinelearning.ru/wiki/index.php?title=Участник:Oleg_Bakhteev) | [Slides](https://docs.google.com/presentation/d/10BEdMzxupJbj7xkb-20MPluqXQ2qTK-ojpaXmtA8E9s/edit?usp=sharing), [Сode](https://github.com/Intelligent-Systems-Phystech/HeterogenKD/tree/main/code/notebooks)|
+|Kolesov Aleksandr | 2 | Adversarial approach for transfer learning | [Bahteev O.Yu.](http://www.machinelearning.ru/wiki/index.php?title=Участник:Oleg_Bakhteev) |[Paper](https://drive.google.com/file/d/1wazibI5TtWUiOn3k6es5YdXasS3XeMeG/view?usp=sharing) | [Slides](https://docs.google.com/presentation/d/10BEdMzxupJbj7xkb-20MPluqXQ2qTK-ojpaXmtA8E9s/edit?usp=sharing), [Сode](https://github.com/Intelligent-Systems-Phystech/HeterogenKD/tree/main/code/notebooks)|
 
 #### First Year Master Students
 
