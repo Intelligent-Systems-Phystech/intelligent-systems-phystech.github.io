@@ -1,5 +1,14 @@
 [Кафедра интеллектуальных систем](https://intelligent-systems-phystech.github.io/ru/about/) – базовая кафедра [ФПМИ МФТИ](https://fpmi.mipt.ru/master/), базовый институт — [Вычислительный центр РАН](https://www.frccsc.ru/). Кафедра выпускает бакалавров и магистров по направлению 010900 «Прикладные математика и физика». 
 
+### Объявления и информация
+- [Поступление на кафедру](https://intelligent-systems-phystech.github.io/ru/applicants/)
+- [Слушателям отдельных курсов](https://intelligent-systems-phystech.github.io/ru/applicants/)
+- [Для студентов кафедры](https://t.me/IS_MIPT)
+- [Для аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
+- [Преподаватели кафедры](https://intelligent-systems-phystech.github.io/ru/people/)
+- [Учебные курсы](https://intelligent-systems-phystech.github.io/ru/course/)
+- [Научные и учебные проекты](https://m1p.org)
+-
 ### Расписание занятий, весенний семестр
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	Моя первая научная статья, дифф. зач. (Стрижов, Грабовой)
@@ -34,12 +43,4 @@
 - 15 июня, среда 15:00: защита 6
 - 22 июня, среда 15:00: защита 4
 
-### Объявления и информация
-- [Поступление на кафедру](https://intelligent-systems-phystech.github.io/ru/applicants/)
-- [Слушателям отдельных курсов](https://intelligent-systems-phystech.github.io/ru/applicants/)
-- [Для студентов кафедры](https://t.me/IS_MIPT)
-- [Для аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
-- [Преподаватели кафедры](https://intelligent-systems-phystech.github.io/ru/people/)
-- [Учебные курсы](https://intelligent-systems-phystech.github.io/ru/course/)
-- Научные и учебные проекты(https://m1p.org)
 
