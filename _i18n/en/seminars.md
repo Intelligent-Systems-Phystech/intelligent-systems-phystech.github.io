@@ -1,3 +1,3 @@
-### Выбор модели декодирования сигналов
+### Selecting a Signal Decoding Model
 
-Считается, что модель машинного обучения решает либо задачу регрессии где прогнозируется скаляр, либо классификации где прогнозируется класс. Для прогноза же фазовой траектории требуются три модели. Одна для прогноза, одна для анализа исходных данных, и одна для целевой переменной. Доклад о том как выбрать эти модели на примере нейроинтерфейса.
+It is believed that a machine learning model solves either a regression problem where a scalar is predicted, or a classification problem where a class is predicted. To predict the phase trajectory, three models are required. One for forecasting, one for analyzing the source data, and one for the target variable. A report on how to choose these models using the example of a neural interface.
