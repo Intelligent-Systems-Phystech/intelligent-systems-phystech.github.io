@@ -60,6 +60,9 @@ nav:
     - id: "templates"
       href: "/materials/templates"
       name: site.nav.names.templates
+    - id: "seminars"
+      href: "/materials/seminars"
+      name: site.nav.names.seminars
 
 # Scopes
 defaults:
