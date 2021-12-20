@@ -1,5 +1,3 @@
-### Postgraduate Students
+### Выбор модели декодирования сигналов
 
-| Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
-|:---:|:---:|:---:|:---:|:---:|
-| Andrey Grabovoy | 1 | A prior distribution of parameters in problems of choosing deep learning models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/andriygav/PhDThesis/blob/master/thesis/Grabovoy2021PhDThesis.pdf), [Code](https://github.com/andriygav/PhDThesis), [Slides](https://github.com/andriygav/PhDThesis/blob/master/slides/Grabovoy2021PhDSlides.pdf)|
+Считается, что модель машинного обучения решает либо задачу регрессии где прогнозируется скаляр, либо классификации где прогнозируется класс. Для прогноза же фазовой траектории требуются три модели. Одна для прогноза, одна для анализа исходных данных, и одна для целевой переменной. Доклад о том как выбрать эти модели на примере нейроинтерфейса.
