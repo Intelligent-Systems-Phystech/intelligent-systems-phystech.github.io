@@ -58,5 +58,5 @@
 - INRIA National Institute for Research in Digital Science and Technology: [Bioinformatics](https://team.inria.fr/nano-d/job-openings/)
 
 ### Приходите к нам учиться и заниматься научными исследованиями в области машинного обучения!
-- [О поступлении](ссылка)
+- [О поступлении](https://intelligent-systems-phystech.github.io/ru/applicants/)
 - [Скачать страницу о кафедре](ссылка)
