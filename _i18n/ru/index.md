@@ -8,7 +8,7 @@
 - [Преподаватели кафедры](https://intelligent-systems-phystech.github.io/ru/people/)
 - [Учебные курсы](https://intelligent-systems-phystech.github.io/ru/course/)
 - [Научные и учебные проекты](https://m1p.org)
--
+
 ### Расписание занятий, весенний семестр
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	Моя первая научная статья, дифф. зач. (Стрижов, Грабовой)
