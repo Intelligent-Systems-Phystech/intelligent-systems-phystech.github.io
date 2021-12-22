@@ -4,13 +4,14 @@ site:
   nav:
     names:
       home: "главная"
-      about: "о нас"
+      about: "о кафедре"
       lecturers: "преподаватели"
       courses: "курсы"
       materials: "материалы"
       applicants: "поступающим"
       nir: "отчеты нир"
       templates: "заготовки"
+      seminars: "семинары"
 
   global:
     course:
@@ -96,13 +97,14 @@ courses:
       
 titles:
   index: Интелектуальные системы
-  about: О нас
+  about: О кафедре
   course: Курсы
   people: Преподаватели
   materials: Материалы
   nir: Отчеты нир
   templates: Заготовки
   applicants: Поступающим
+  seminars: "Научные семинары"
   
 index:
   department: |-

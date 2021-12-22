@@ -63,6 +63,7 @@
     {% endfor %}
     
     {% if page.edit == true %}
+<!--     TODO try-except for edit current lang page or redirect to default -->
     <span class="separator"> | </span>
     <a href="{{ site.edit }}_i18n/{{ site.lang }}/{{ page.path }}" target="_blank"><i class="fa fa-edit"></i></a>
     {% endif %}

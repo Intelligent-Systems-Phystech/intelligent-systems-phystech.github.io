@@ -11,6 +11,7 @@ site:
       materials: "materials"
       nir: "research reports"
       templates: "templates"
+      seminars: "seminars"
 
   global:
     course:
@@ -103,6 +104,7 @@ titles:
   nir: Research Reports
   templates: Templates
   applicants: Applicants
+  seminars: Scientific seminars
   
 index:
   department: |-
