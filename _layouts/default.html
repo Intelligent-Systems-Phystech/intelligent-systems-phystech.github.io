@@ -61,7 +61,8 @@
     <span class="separator"> &bull; </span>
       {% endif %}
     {% endfor %}
-    {{ page.lang }}
+    r-{{ page.lang }}-r
+    l-{{ page.is_default_language }}-l
     {% if page.edit == true %}
 <!--     TODO try-except for edit current lang page or redirect to default -->
     <span class="separator"> | </span>
