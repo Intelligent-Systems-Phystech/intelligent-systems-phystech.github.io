@@ -4,9 +4,9 @@ name: peoples.name
 edit: true
 position: phd
 avatar:
-mail:
-site:
-scholar:
+mail: bakhteev(at)phystech.edu
+site: https://bahleg.github.io
+scholar: scholar.google.com/citations?user=7eWNuFkAAAAJ&hl=ru
 orcid:
 mathnet:
 ---
