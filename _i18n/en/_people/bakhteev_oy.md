@@ -2,8 +2,8 @@
 
 ### Main publications
 1. Yakovel K., Grebenkova O., Bakhteev O., Strijov V. Neural architecture search with structure complexity control (2021). Proceedings of the 10th International Conference on Analysis of Images, Social Networks and Texts.
-2. Bakhteev, O. Y., & Strijov, V. V. (2018). Deep learning model selection of suboptimal complexity. Automation and remote control, 79(8), 1474-1488.
-3. Bakhteev, O. Y., & Strijov, V. V. (2020). Comprehensive analysis of gradient-based hyperparameter optimization algorithms. Annals of Operations Research, 289(1), 51-65.
+2. Bakhteev, O. Y., & Strijov, V. V. (2020). Comprehensive analysis of gradient-based hyperparameter optimization algorithms. Annals of Operations Research, 289(1), 51-65.
+3. Bakhteev, O. Y., & Strijov, V. V. (2018). Deep learning model selection of suboptimal complexity. Automation and remote control, 79(8), 1474-1488.
 
 [Full list of publications](https://bahleg.github.io/publications_en) 
 
