@@ -6,9 +6,9 @@
 3. Bakhteev O., Strijov V. Deep learning model selection of suboptimal complexity //Automation and remote control. – 2018. – Т. 79. – №. 8. – С. 1474-1488.
 
 [Полный список публикаций](https://bahleg.github.io/publications)
-### Конференции
+### Конференции и воркшопы
 1. Bakhteev O., Ogaltsov A., Khazov A., Safin K., Kuznetsova R. CrossLang: The System of Cross-lingual Plagiarism Detection // NeurIPS, Workshop on Systems for ML. 2019.
 2. Kuznetosva R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // NeurIPS, Visually Grounded Interaction and Language workshop. 2018.
 3. Bakhteev O., Khazov A. Author Masking using Sequence-to-Sequence Models // CLEF. 2017.
 
-[Полный список докладов и выступлений и выступлений на воркшопах](https://bahleg.github.io/publications#talks)
+[Полный список докладов и выступлений на воркшопах](https://bahleg.github.io/publications#talks)

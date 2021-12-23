@@ -7,7 +7,7 @@
 
 [Full list of publications](https://bahleg.github.io/publications_en) 
 
-### Conferences
+### Conferences and workshops
 1. Bakhteev O., Ogaltsov A., Khazov A., Safin K., Kuznetsova R. CrossLang: The System of Cross-lingual Plagiarism Detection. NeurIPS, Workshop on Systems for ML. 2019.
 2. Kuznetosva R., Bakhteev O. Variational Bi-domain Triplet Autoencoder. NeurIPS, Visually Grounded Interaction and Language workshop. 2018.
 3. Bakhteev O., Khazov A. Author Masking using Sequence-to-Sequence Models. CLEF. 2017.
