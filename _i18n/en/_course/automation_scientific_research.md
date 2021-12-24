@@ -1,7 +1,27 @@
 ### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+This course produces student research papers. It gathers research teams in a society. Each team combines a student, a consultant and an expert. The student is a project driver, who wants to plunge into scientific research activities. The consultant, a graduated student, conducts the research and helps the student. The expert, a professor, states the problem and enlightens the road to the goal.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Syllabus
+* Select your project and tell about it
+* State your problem
+* Plan the experiment
+* Visualise the principle
+* Write the theory
+* Analyse the error
+* Construct your paper
+* Review a paper
+* Select a journal to submit
+* Prepare your presentation
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Labworks 
+A selected project on applied mathematics or machine learning, conducted by a consultant and professor. The delivery is a paper, a code and a talk.
+
+### Grading
+Each week carries several tasks. Each task brings one point exactly according to the schedule of the course.
+
+### Prerequisites
+Algebra and analysis at the third year of undergraduate level.
+
+### Credits
+1
