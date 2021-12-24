@@ -12,7 +12,7 @@ permalink: /course/
 <div class="content list people">
   {% for course in site.course %}
     {% if course.type contains type %}
-      <div class="list-item-people">
+      <div class="list-item-course">
         <p class="list-post-title">
           <a class="name" href="{{ site.baseurl }}{{ course.url }}">{% t courses.name.{{ course.id | split: "/" | last }} %}</a>
         </p>
