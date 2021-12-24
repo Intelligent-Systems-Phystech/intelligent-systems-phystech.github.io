@@ -1,7 +1,14 @@
 ### About
+The course is devoted to the problem of optimal model selection in machine learning and data analysis tasks. During the course, we investigate the Bayesian approach to model selection, its theoretical and practical aspects. We consider properties of model selection methods both specific to some notable model families or general properties suitable for the most model families.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+The course investigates the properties of model selection for different types of models: from linear to mixtures of experts built on deep learning models. Various approaches to model selection and hyperparameter optimization are discussed, including gradient-based methods, sequential model based optimization methods, methods based on hypernetworks and supernetworks.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+4 practical homeworks and 2 oral talks (optional) every term. There is also a simple questionnaire after each pair.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+The overall score is a sum of scores for practical tasks, talks and the answers for the questionnaire.
+
+### Prerequisites
+Statistics, linear algebra, machine learning, deep learning, intro to bayesian inference.

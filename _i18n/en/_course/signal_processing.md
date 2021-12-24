@@ -1,7 +1,22 @@
 ### About
+The course is devoted to the use of methods of mathematical modelling and theoretical physics in signal processing. It applies methods for machine learning model selection to various types of signals: image, video and sound. It discusses techniques to construct systems of heterogenous signal models.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Multi-view, kernels and metric spaces, RKHS for brain Imaging.
+* Spherical harmonics for mechanical motion modelling.
+* Riemannian geometry on Shapes and diffeomorphisms for fMRI.
+* Manifolds, Levi-Chivita connection and curvature tensors.
+* Differential forms and fibre bundles with examples.
+* Navier-Stokes equations and viscous flow.
+* Geometric algebra, exterior product and quaternions.
+* Graph convolution and continuous Laplace operators, diffusion models.
+* Homology and cohomology, differential forms for model ensembling.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+Two personal labworks on video signals include the problem statement and the  computational experiment. The delivery is a two-page report with the problem and experimental results, a code and a talk.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+Questionnaires during lectures (3), two labworks (2+2), the final exam: topics and problems with discussion (3).
+
+### Prerequisites
+Algebra, analysis and physics at the postgraduate level.

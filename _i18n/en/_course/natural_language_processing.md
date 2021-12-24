@@ -1,7 +1,27 @@
 ### About
+The course covers the main tasks and mathematical methods of natural language processing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Preprocessing, feature extraction and classification.
+* Vector representations of words.
+* The task of marking sequences (tagging). The Linear-CRF model.
+* Recurrent neural network models: GRNN, LSTM.
+* Machine translation. The Sequence-to-sequence approach. The mechanism of attention.
+* Transformer architecture.
+* The task of language modeling.
+* Statistical and neural network language models.
+* The task of generating a natural language.
+* Contextual vector representations of words.
+* Transfer learning to NLP.
+* The BERT model and its modifications.
+* Text classification.
+* Topic modeling and its applications.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+The course includes four practical tasks and an exam. The deadline for completing each task is 2 weeks. You can get up to 10 points for each task. For each day of delay, a penalty of 1 point is assigned.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+0.7 * hw points / 5 + 0.3 * exam points.
+
+### Prerequisites
+Machine learning, deep learning, Python.

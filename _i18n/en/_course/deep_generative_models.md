@@ -1,7 +1,20 @@
 ### About
+The course is devoted to modern generative models (mostly in the application to computer vision). Special attention is paid to the properties of various classes of generative models, their interrelationships, theoretical prerequisites and methods of quality assessment. The aim of the course is to introduce the student to widely used advanced methods of deep learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Density estimation task.
+* Аutoregressive models.
+* Latent variable models.
+* Variational inference.
+* Normalization flow models.
+* Adversarial models.
+* Diffusion models.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+6 homeworks: theory and practice.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+Each homework gives 13 points + an exam for 26 points. Final score: (number of points / 8) - 2.
+
+### Prerequisites
+Statistics, machine learning, deep learning, intro to bayesian inference.

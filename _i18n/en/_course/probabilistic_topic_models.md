@@ -1,7 +1,25 @@
 ### About
+The special course studies probabilistic topic modeling of collections of text documents. The topic model determines which topics are contained in a large text collection, and which topics each document belongs to. Topic models allow you to search for texts by meaning, not by keywords, and create a new generation of information search engines based on the paradigm of semantic exploratory search (exploratory search). Topic models for classification, categorization, segmentation, summarization of natural language texts, as well as for recommendation systems, analysis of bank transactional data, analysis of biomedical signals are considered. The special course develops a multi-criteria approach to the construction of models with specified properties - additive regularization of topic models (ARTM). It is based on the regularization of incorrectly set stochastic matrix decomposition problems. Particular attention is paid to the methods of linguistic regularization for modeling the coherence of the text. Students are supposed to conduct numerical experiments on model and real data using the BigARTM topic modeling library.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* The task of topic modeling.
+* Online EM algorithm and regularizers.
+* Exploratory information search.
+* Assessment of the quality of topic models.
+* BigARTM and basic tools.
+* EM algorithm theory.
+* Bayesian training of the LDA model.
+* Topic models of word compatibility.
+* Dependency analysis.
+* Multimodal topic models.
+* Modeling the local context.
+* Summarization and visualization.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+No.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+The condition for passing the course is the performance of individual practical tasks.
+
+### Prerequisites
+Linear algebra, mathematical analysis, probability theory.

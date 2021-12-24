@@ -1,7 +1,27 @@
 ### About
+The methods and technologies used in data mining and based on the concepts of similarity, proximity, analogy are considered. The idea of similarity is inherent in human thinking, it has given rise to a whole range of approaches for all fundamental tasks of IAD, among which the main focus of the course is on classification, regression recovery, clustering, recovery of missing data.
+The theoretical basis for the construction, implementation and analysis of a wide range of models and methods of IAD is presented. Methods of constructing and calculating similarity functions, matching similarities on various sets of objects, synthesis of new ways of comparing objects based on existing ones are considered. A complex of technologies designed for efficient representation and processing of metric information by computing systems is considered.
+Heuristic data models describing the initial information about recognition objects based on various implementations of the concept of similarity are investigated. The problems requiring solutions in the implementation of these models are considered. Special data structures and algorithms are being studied to effectively configure and use the studied models.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* The main approaches to the task of similarity.
+* Classical definition of metric and metric space.
+* Local metrics and their extension to the entire space.
+* Geometric subsets of general metric spaces.
+* Examples of metric spaces.
+* Classification of similarity functions.
+* Characteristics of metrics.
+* Metric transformations.
+* Implementation of metrics.
+* The principle of self-organization.
+* Metrics on finite sets.
+* Decomposition of MC by finite systems of MC.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+No.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+Exam based on course materials.
+
+### Prerequisites
+Machine learning, algorithms and data structures.

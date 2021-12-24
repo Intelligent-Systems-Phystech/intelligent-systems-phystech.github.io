@@ -1,7 +1,27 @@
 ### About
+In the course of lectures, unique features of biological data are considered, leading to original statements of recognition and classification problems. It should be noted that for almost all the problems considered in the course, accurate and mathematically sound solutions have not yet been proposed. In this sense, the course represents an extensive field of activity for independent scientific work of students.
+A system of recognition tasks is formulated that reflects the structure of biological systems and provides a basis for the construction of problem-oriented theories. The fundamentals of the formalism developed to solve the problems of bioinformatics and other poorly formalized problems in the field of advanced biomedical research and sentiment analysis are considered. This formalism is based on the theory of universal and local constraints within the framework of an algebraic approach to recognition. Attention is paid to biomedical applications of the results of intelligent analysis of biological data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* From cell biology to recognition tasks.
+* iological data, objects and approaches to the formalization of tasks.
+* Tasks 1D to 1D: comparison of character sequences.
+* 1Ddna tasks. 1Ddna and 3Ddna tasks. Tasks of 1Drna, 2Drna, 3Drna.
+* X-ray diffraction analysis and NMR of proteins, 3Db to 3Db and 3Db to 2Db tasks.
+* Development of a problem-oriented theory on the example of the problem of recognition of a secondary structure.
+* Tasks 1DB to 1Db.
+* Tasks 1Db to F and 3D to F and genome annotation task.
+* Analysis and synthesis of biological networks.
+* Molecular pharmacology and chemoinformatics.
+* Biomedical and genetic research.
+* Text analysis, use of databases.
+* Bio-logic and algorithms.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+Practical tasks will be announced during the lectures. Students can formulate the topics of research tasks themselves. After selecting the task, the work requirements are discussed.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+Before the start of the oral exam (report-presentation), it is necessary to submit a report on the research work (3-5 pages) carried out on the selected task.
+
+### Prerequisites
+Machine learning methods.
