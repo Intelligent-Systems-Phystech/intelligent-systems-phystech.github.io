@@ -9,7 +9,7 @@ permalink: /course/
   <h3>{% t site.global.course.types.{{ type }} %}</h3>
 </div>
 <hr>
-<div class="content list people">
+<div class="content list course">
   {% for course in site.course %}
     {% if course.type contains type %}
       <div class="list-item-course">

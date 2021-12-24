@@ -484,8 +484,22 @@ tbody tr:nth-child(odd) th {
   width: 220px;
 }
 
+.course {
+  margin: auto;
+  text-align: left;
+  margin-top: 0.75em;
+}
+
 .list-item-course {
   display: block;
+  padding: 3px 20px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border-left: 10px solid #cfdee3; 
+  box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1),
+       -2px -2px 5px 0 rgba(0,0,0,.1),
+      2px 2px 5px 0 rgba(0,0,0,.1),
+      -2px 2px 5px 0 rgba(0,0,0,.1);
 }
 
 .list-post-title img {
