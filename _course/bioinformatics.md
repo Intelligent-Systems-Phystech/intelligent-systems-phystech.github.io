@@ -1,6 +1,6 @@
 ---
 edit: true
-title: courses.title.bi
+title: courses.title.bioinformatics
 name: courses.name
 type: master
 avatar:
@@ -8,4 +8,4 @@ lecturers: torshin_iy
 site: 
 ---
 
-{% tf _course/bi.md %}
+{% tf _course/bioinformatics.md %}

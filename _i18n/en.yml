@@ -61,39 +61,39 @@ peoples:
       
 courses:
   name:
-    ant: Analysis of Networks and Texts
-    bi: Bioinformatics
-    bm: Bayesian Multimodeling
-    bms: Bayesian Model Selection
-    cga: Computational Geometry Algorithms
-    dl: Deep Learning
-    gmlm: Generative Machine Learning Models
-    ipr: Image Processing and Recognition
-    m1p: Automation of Scientific Research
-    ml: Introduction to Machine Learning
-    mmp: Mathematical Methods of Forecasting
-    mmta: Mathematical Methods of Text Analysis
-    ptm: Probabilistic Thematic Models
-    seda: Software Engineering for Data Analysis
-    snna: Search for Neural Network Architectures
-    sp: Signal Processing
+    networks_text_analysis: Networks and Text Analysis
+    bioinformatics: Bioinformatics
+    bayesian_multimodeling: Bayesian Multimodeling
+    bayesian_model_selection: Bayesian Model Selection
+    computational_geometry: Computational Geometry
+    deep_learning: Deep Learning
+    deep_generative_models: Deep Generative Models
+    image_processing_recognition: Image Processing and Recognition
+    automation_scientific_research: Automation of Scientific Research
+    introduction_machine_learning: Introduction to Machine Learning
+    forecasting_methods: Mathematical Methods of Forecasting
+    natural_language_processing: Natural Language Processing
+    probabilistic_topic_models: Probabilistic Topic Models
+    software_engineering_data_analysis: Software Engineering for Data Analysis
+    neural_architecture_search: Neural Architecture Search
+    signal_processing: Signal Processing
   title:
-    ant: Analysis of Networks and Texts
-    bi: Bioinformatics
-    bm: Bayesian Multimodeling
-    bms: Bayesian Model Selection
-    cga: Computational Geometry Algorithms
-    dl: Deep Learning
-    gmlm: Generative Machine Learning Models
-    ipr: Image Processing and Recognition
-    m1p: Automation of Scientific Research
-    ml: Introduction to Machine Learning
-    mmp: Mathematical Methods of Forecasting
-    mmta: Mathematical Methods of Text Analysis
-    ptm: Probabilistic Thematic Models
-    seda: Software Engineering for Data Analysis
-    snna: Search for Neural Network Architectures
-    sp: Signal Processing
+    networks_text_analysis: Networks and Text Analysis
+    bioinformatics: Bioinformatics
+    bayesian_multimodeling: Bayesian Multimodeling
+    bayesian_model_selection: Bayesian Model Selection
+    computational_geometry: Computational Geometry Algorithms
+    deep_learning: Deep Learning
+    deep_generative_models: Deep Generative Models
+    image_processing_recognition: Image Processing and Recognition
+    automation_scientific_research: Automation of Scientific Research
+    introduction_machine_learning: Introduction to Machine Learning
+    forecasting_methods: Forecasting Methods
+    natural_language_processing: Natural Language Processing
+    probabilistic_topic_models: Probabilistic Topic Models
+    software_engineering_data_analysis: Software Engineering for Data Analysis
+    neural_architecture_search: Neural Architecture Search
+    signal_processing: Signal Processing
       
 titles:
   index: Intelligent Systems Phystech
