@@ -1,7 +1,26 @@
 ### About
+The course is based on mathematical methods of pattern recognition used for the analysis and classification of images in computer vision systems.
+Image transformations are considered in order to generate feature descriptions. The methods of point, spatial geometric, algebraic and inter-frame image processing are studied. Methods of feature generation based on the decomposition of images by basic functions, statistical analysis of image texture, as well as image shape analysis are considered.
+Methods of construction of metrics for image comparison (comparison of spectral decompositions, overlay and alignment of images) are considered. And also questions of application of the studied methods in applied problems of computer vision. The tasks of text recognition in document images, the tasks of biometric identification of an individual by the texture of the iris, by the shape of the palm, fingerprint, face profile are considered.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Subject and tasks of digital image processing and recognition.
+* Spatial image processing methods.
+* Geometric and algebraic methods of image processing.
+* Methods of inter-frame image processing.
+* Image analysis based on decomposition by basic functions.
+* Statistical methods of texture analysis.
+* Methods of image shape analysis.
+* Metrics for measuring image similarity.
+* Text recognition based on document images.
+* Biometric identification based on image recognition.
+* Dynamic scene recognition.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+Homeworks on image processing and classification.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+The assessment is based on the results of laboratory work and an oral exam.
+
+### Prerequisites
+Machine learning, linear algebra.

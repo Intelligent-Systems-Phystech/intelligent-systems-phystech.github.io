@@ -1,7 +1,34 @@
 ### About
+The course covers the main tasks of teaching by use cases: classification, clustering, regression, dimension reduction. The methods of their solution, both classical and new, created over the past 10-15 years, are being studied. The emphasis is on a deep understanding of the mathematical foundations, relationships, advantages and limitations of the methods under consideration. Theorems are mostly given without proofs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Linear classifier and stochastic gradient.
+* Metric methods of classification and regression.
+* Support vector machine.
+* Linear regression. Nonlinear regression.
+* Model selection criteria and feature selection methods.
+* Logical classification methods.
+* Linear ensembles. Advanced methods of ensembling.
+* Density estimation and Bayesian classification.
+* Clustering and partial learning.
+* Deep neural networks.
+* Deep neural networks for unsupervised learning.
+* Vector representations of texts and graphs.
+* Attention models and transformers.
+* Topic modeling.
+* Learning to rank.
+* Recommendation systems.
+* Search for associative rules.
+* Adaptive forecasting methods.
+* Incremental and online learning.
+* Reinforcement learning.
+* Active learning.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+No.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+At the end of the course, students take an oral exam on all topics of the course.
+
+### Prerequisites
+Probability theory, statistics, optimization methods, linear algebra.

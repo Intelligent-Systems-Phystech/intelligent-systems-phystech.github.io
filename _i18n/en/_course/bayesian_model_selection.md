@@ -25,6 +25,3 @@ The final mark is computed by scaling the total score by maximal one assuming no
 
 ### Prerequisites
 Probability, Basic Machine Learning, Linear Algebra, Optimization.
-
-### Credits
-???

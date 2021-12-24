@@ -1,7 +1,22 @@
 ### About
+The course joins two parts of the problem statements in Machine Learning. The first part comes from the structure of the measured data. The data come from Physics, Chemistry and Biology and have intrinsic algebraic structure. This structure is part of the theory that stands behind the measurement. The second part comes from errors of the measurement. The stochastic nature errors request the statistical methods of analysis. So this course joins algebra and statistics. It is devoted to the problem of predictive model selection. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Autoregressive models.
+* Correlation and Convergence Analysis.
+* Tensor decompositions.
+* Neural differential equations.
+* Continuous time and streams.
+* Metric methods and tensors.
+* Spectral methods.
+* Spectral graph models.
+* Geometric data analysis.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks 
+Two personal labworks on brain data analysis include the problem statement and the  computational experiment. The delivery is a two-page report with the problem and experimental results, a code and a talk.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+Questionnaires during lectures (3), two labworks (2+2), the final exam: topics and problems with discussion (3). 
+
+### Prerequisites
+Algebra, analysis and physics at the graduate level.

@@ -1,7 +1,25 @@
 ### About
+The course is devoted to modern methods of constructing complex neural network architectures and choosing optimal structures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Overview of neural network types and architecture descriptions.
+* Genetic algorithms from GMDH to WANN.
+* Quality criteria for selecting structures (to be discussed in a couple of weeks).
+* A priori assumptions about the model structure, structural parameters distribution.
+* Methods for optimization of structural parameters.
+* Online training and multi-armed bandits to architecture search.
+* Reinforcement learning for architecture search.
+* Knowledge transfer between neural networks and optimization of structural parameters.
+* Random processes for architecture search.
+* Generative adversarial networks and the architecture search.
+* Generation and rejection of structures.
+* Two-level Bayesian selection and Metropolis-Hastings sampling.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Самостоятельная работа
+The laboratory work consists in the study of the architecture search method. The first job is to analyze a ready-made method, the second job is to propose and program your own method. The work report is a page of text with a formal description of the method with sufficient detail for code recovery and error analysis (basic criteria complexity, stability, accuracy). The interface to the class is fixed and common to everyone, as are the selections. There is a general table with the results, and a private error analysis of each method.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Оценивание
+A total of 10 points, two points for answering questions during lectures, four points each for two laboratory work. It is not the accuracy of the approximation that is evaluated, but the quality of the code and error analysis.
+
+### Требуемые знания
+Machine learning, deep learning, Bayesian model selection.

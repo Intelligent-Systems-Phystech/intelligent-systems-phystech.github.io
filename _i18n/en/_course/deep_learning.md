@@ -1,7 +1,24 @@
 ### About
+An overview course on basic neural network models and their application to image, text, and sound processing tasks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Feed-forward networks. Matrix-vector differentiation. Automatic differentiation.
+* Optimization methods for neural networks. Regularization and DropOut. 
+* Batch normalization, convolutional neural networks.
+* Semantic segmentation. Object detection.
+* Neural network image stylization.
+* Recurrent neural networks.
+* Reinforcement learning. Q-training. The DQN model.
+* Algorithms of Reinforce, A2C.
+* Generative-adversarial networks.
+* Variational auto-encoder.
+* Parameterization methods. Variational auto-encoder with discrete variables.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+5 practical tasks and 1 lab work. Each task is evaluated from 10 points, and the lab - from 5 points. The exam is evaluated from 10 points.
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+0.7 * semester points + 0.3 * exam points.
+
+### Prerequisites
+Machine learning, statistics, optimization methods.
