@@ -1,7 +1,30 @@
 ### About
+The course is dedicated to the basis of Bayesian Methods in Machine Learning, Bayesian Models’ construction and inference. The notion of optimal bayesian forecast is introduced, and the methods for constructing the one are studied. The methods for handling non-linearities and inhomogeneities in data are discussed. Handling of missing data and optimal model evolution with time are considered from a Bayesian perspective.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis erat diam, non congue est varius et. Pellentesque vitae diam in erat accumsan accumsan vitae ut turpis. Fusce pharetra condimentum ipsum nec vestibulum. Vivamus ipsum nisl, interdum sit amet euismod at, pellentesque nec metus. Aliquam vitae lectus laoreet, congue nisl sit amet, ullamcorper risus. Quisque interdum mauris magna, a posuere metus consequat sed. Nunc nec tortor ac dolor malesuada interdum sit amet eget massa.
+### Syllabus
+* Introduction: Reminding key definitions from Probability Theory and Statistics.
+* Multiple Hypotheses testing and prior election.
+* Naive Bayes, its generalizations and optimal bayesian forecast.
+* Exponential family of distributions and sufficient statistics.
+* Bayesian Linear Regression. Evidence.
+* Bayesian Logistics Regression and Feature selection via Max-evidence principle.
+* EM-algorithm and Variational EM-algorithm.
+* Gaussian process and optimal model evolution with time.
+* Constructing adequate multimodels.
+* Markov Chain Monte-Carlo (MCMC) methods.
+* Hamiltonian Markov Chain Monte-Carlo (HMC) methods.
+* Bayesian Optimization.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer ut metus augue. Cras vestibulum nulla id erat hendrerit sagittis. Aenean tincidunt est erat, nec consequat nibh suscipit sed. Proin sollicitudin porttitor metus sed porttitor. Suspendisse quis finibus nisl. Phasellus dapibus tincidunt sem, vel tristique odio lacinia vitae. Donec condimentum velit sit amet blandit condimentum. Sed quam libero, commodo quis consectetur vel, interdum id elit. Proin tincidunt convallis nunc, at tristique neque tincidunt a. Nam non faucibus ipsum, sit amet gravida neque. Pellentesque lacinia nunc ante, sed euismod lacus accumsan vitae.
+### Labworks
+4 theoretical tasks (performed individually), 1 practical task and 1 competition (performed in teams), 2 tests.
+Written and oral exam (the latter can be substituted by the presentation on a selected topic).
 
-Cras id ultrices odio. Praesent ultricies sem at dapibus aliquet. Morbi sodales et libero vitae viverra. Vestibulum ornare lectus nec augue pellentesque molestie. Ut eu dictum massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum convallis facilisis lorem eleifend finibus. In convallis sollicitudin sapien ut efficitur.
+### Grading
+Each theoretical task gives at most 50 / 100 points, while practical one and competition each give up to 50 points. The score for the TOP1 student in each task is doubled (extra points). Written and oral exams add up to 250 together.
+The final mark is computed by scaling the total score by maximal one assuming no extra points gained.
+
+### Prerequisites
+Probability, Basic Machine Learning, Linear Algebra, Optimization.
+
+### Credits
+???
