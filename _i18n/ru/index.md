@@ -11,21 +11,21 @@
 
 ### Расписание занятий, весенний семестр
 #### 3 курс, 6 семестр – четверг
-- 10:30–12:00,	Моя первая научная статья, дифф. зач. (Стрижов, Грабовой)
-- 12:10–13:40,	Введение в машинное обучение, дифф. зач. (Воронцов)
+- 10:30–12:00,	[Моя первая научная статья](https://intelligent-systems-phystech.github.io/ru/course/automation_scientific_research/index.html), diff. credit ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html), [Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html))
+- 12:10–13:40,	[Введение в машинное обучение](https://intelligent-systems-phystech.github.io/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html), [Воронцов К.В.](https://intelligent-systems-phystech.github.io/ru/people/vorontsov_kv/index.html))
 - 14:30–16:00,	Практикум по программированию на языке Питон, зачет (Апишев)
 - 16:10–17:40,	Научный семинар по специальности, дифф. зач. (Стрижов, руководители НИР)
 #### 4 курс, 8 семестр – среда
-- 10:30–12:00,	Математические методы прогнозирования, экзамен (Стрижов)
-- 12:10–13:40,	Анализ и распознавание изображений, дифф. зач. (Местецкий)
-- 14:30–16:00,	Выбор моделей машинного обучения, экзамен (Адуенко)
-- 16:10–17:40,	Анализ сетей и текстов, дифф. зач. (Майсурадзе)
-- 16:10–17:40,	Порождающие модели машинного обучения (Исаченко)
+- 10:30–12:00,	[Математические методы прогнозирования](https://intelligent-systems-phystech.github.io/ru/course/forecasting_methods/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
+- 12:10–13:40,	[Анализ и распознавание изображений]https://intelligent-systems-phystech.github.io/ru/course/image_processing_recognition/index.html), дифф. зач. ([Местецкий Л.М.](https://intelligent-systems-phystech.github.io/ru/people/mestetskiy_lm/index.html))
+- 14:30–16:00,	[Выбор моделей машинного обучения](https://intelligent-systems-phystech.github.io/ru/course/bayesian_model_selection/index.html), экзамен ([Адуенко А.А.](https://intelligent-systems-phystech.github.io/ru/people/aduenko_aa/index.html))
+- 16:10–17:40,	[Анализ сетей и текстов](https://intelligent-systems-phystech.github.io/ru/course/networks_text_analysis/index.html), дифф. зач. ([Майсурадзе А.И.](https://intelligent-systems-phystech.github.io/ru/people/meysuradze_ai/index.html))
+- 16:10–17:40,	[Порождающие модели машинного обучения](https://intelligent-systems-phystech.github.io/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](https://intelligent-systems-phystech.github.io/ru/people/isachenko_rv/index.html))
 #### 5 курс, 10 семестр – среда
-- 10:30–12:00,	Программная инженерия, дифф. зач. (Хританков) 
-- 12:10–13:40,	Биоинформатика, экзамен (Торшин)
-- 14:30–16:00,	Обработка сигналов, экзамен (Стрижов)
-- 16:10–17:40,	Байесовское мультимоделирование (Бахтеев, Стрижов)
+- 10:30–12:00,	[Программная инженерия](https://intelligent-systems-phystech.github.io/ru/course/software_engineering_data_analysis/index.html)), дифф. зач. ([Хританков А.С.](https://intelligent-systems-phystech.github.io/ru/people/khritankov_as/index.html)) 
+- 12:10–13:40,	[Биоинформатика](https://intelligent-systems-phystech.github.io/ru/course/bioinformatics/index.html), экзамен ([Торшин И.Ю.](https://intelligent-systems-phystech.github.io/ru/people/torshin_iy/index.html))
+- 14:30–16:00,	[Обработка сигналов](https://intelligent-systems-phystech.github.io/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
+- 16:10–17:40,	[Байесовское мультимоделирование](https://intelligent-systems-phystech.github.io/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](https://intelligent-systems-phystech.github.io/ru/people/bakhteev_oy/index.html))
 - 10:30–12:00 (четверг),	Создание интеллектуальных систем (Грабовой) 
 
 Каналы для занятий: [бакалавры](m1p.org/go_zoom), [магистры](m1p.org/go_zoom2)
