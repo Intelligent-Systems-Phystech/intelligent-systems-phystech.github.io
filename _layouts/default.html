@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 <head>
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}">
+  {% else %}
+    <meta property="og:image" content="{{ site.image }}">
+  {% endif %}
   <meta charset="utf-8">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <meta http-equiv="Pragma" content="no-cache" />
