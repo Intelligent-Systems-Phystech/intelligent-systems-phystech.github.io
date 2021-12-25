@@ -28,7 +28,7 @@
 - 16:10–17:40,	[Байесовское мультимоделирование](https://intelligent-systems-phystech.github.io/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](https://intelligent-systems-phystech.github.io/ru/people/bakhteev_oy/index.html))
 - 10:30–12:00 (четверг),	Создание интеллектуальных систем (Грабовой) 
 
-Каналы для занятий: [бакалавры](m1p.org/go_zoom), [магистры](m1p.org/go_zoom2)
+Каналы для занятий: [бакалавры](https://m1p.org/go_zoom), [магистры](https://m1p.org/go_zoom2)
 
 #### Общее расписание МФТИ
 - [График учебного процесса (2021-2022)](https://mipt.ru/upload/medialibrary/bda/grafik-uch.-protsessa-_n-2263_1-ot-24.08.2021_.pdf)
