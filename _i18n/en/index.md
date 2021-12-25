@@ -1,12 +1,12 @@
 [Department of Intelligent Systems](https://intelligent-systems-phystech.github.io/ru/about/) is a basic department of [FPMI MIPT](https://fpmi.mipt.ru/master/), which basic Institute is a [Computing Center of the Russian Academy of Sciences](https://www.frccsc.ru/).  The department graduates bachelors and masters in the field of study 010900 "Applied Mathematics and physics".
 
 ### Announcements and Information
-- [Admission](https://intelligent-systems-phystech.github.io/ru/admission/)
-- [For external students](https://intelligent-systems-phystech.github.io/ru/admission/)
+- [Admission](https://intelligent-systems-phystech.github.io/admission/)
+- [For external students](https://intelligent-systems-phystech.github.io/admission/)
 - [For students](https://t.me/IS_MIPT)
 - [For graduate students](https://t.me/+BpMhAW-gWlM5OThi)
-- [Teachers](https://intelligent-systems-phystech.github.io/ru/people/)
-- [Courses](https://intelligent-systems-phystech.github.io/ru/course/)
+- [Teachers](https://intelligent-systems-phystech.github.io/people/)
+- [Courses](https://intelligent-systems-phystech.github.io/course/)
 - [Scientific and educational projects](https://m1p.org)
 
 ### Schedule, Spring
