@@ -2,14 +2,14 @@
 <html lang="{{ site.lang }}">
 <head>
   <!-- open graph -->
-  <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.og.image }}{% endif %}">
   <meta property="og:title" content="{% if page.title %}{% t page.title %}{% else %}{% t site.name %}{% endif %}">
   <meta property="og:site_name" content="{% t site.name %}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ canonical }}">
   <!-- twitter -->
   <meta name="twitter:title" content="{% if page.title %}{% t page.title %}{% else %}{% t site.name %}{% endif %}">
-  <meta name="twitter:image:src" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
+  <meta name="twitter:image:src" content="{% if page.image %}{{ page.image }}{% else %}{{ site.og.image }}{% endif %}">
   
   
   <meta charset="utf-8">
