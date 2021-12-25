@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 <head>
+  <!-- open graph -->
   {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}">
+    <meta name="description" content="The site for Intelligent System Department in MIPT - Actions · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/b49ddcb81ef711f9fc529a95562837d3abeb049fa2bf396d6dc1b9b371aaadea/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+    <meta name="twitter:site" content="@github">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Actions · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+    <meta name="twitter:description" content="The site for Intelligent System Department in MIPT - Actions · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+  
+    <meta property="og:image" content="{{ site.baseurl_root }}/{{ page.image }}">
     <meta property="og:image:alt" content="The site for Intelligent System Department in MIPT - intelligent-systems-phystech.github.io/default.html at master · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
     <meta property="og:description" content="The site for Intelligent System Department in MIPT - intelligent-systems-phystech.github.io/default.html at master · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
     <meta property="og:site_name" content="GitHub">
@@ -10,7 +18,14 @@
     <meta property="og:title" content="intelligent-systems-phystech.github.io/default.html at master · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
     <meta property="og:url" content="https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
   {% else %}
-    <meta property="og:image" content="{{ site.og.image }}">
+    <meta name="description" content="The site for Intelligent System Department in MIPT - Actions · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/b49ddcb81ef711f9fc529a95562837d3abeb049fa2bf396d6dc1b9b371aaadea/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+    <meta name="twitter:site" content="@github">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Actions · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+    <meta name="twitter:description" content="The site for Intelligent System Department in MIPT - Actions · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
+  
+    <meta property="og:image" content="{{ site.baseurl_root }}/{{ site.og.image }}">
     <meta property="og:image:alt" content="The site for Intelligent System Department in MIPT - intelligent-systems-phystech.github.io/default.html at master · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
     <meta property="og:description" content="The site for Intelligent System Department in MIPT - intelligent-systems-phystech.github.io/default.html at master · Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io">
     <meta property="og:site_name" content="GitHub">
@@ -49,19 +64,7 @@
   <link rel="stylesheet" href="/style.css">
     
     
-  <!-- open graph -->
-    
 
-
-  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content }}{% endif %}{% endcapture %}
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="article">
-  <meta property="og:url" content="{{ canonical }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
-  <meta property="og:image" content="/images/logo/logo_square.jpg">
 
 </head>
 <body id="page-top" style="padding-top: 7em;">
