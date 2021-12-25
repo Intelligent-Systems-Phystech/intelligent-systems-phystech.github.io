@@ -53,10 +53,10 @@ scholar: ссылка на scholar (может быть пусто)
 
 Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/about.md)
 
-## Изменения страницы Applicants
+## Изменения страницы Admission
 
-Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/applicants.md)
+Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/admission.md)
 
-Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/applicants.md)
+Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/admission.md)
 
-Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/applicants.md)
+Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/admission.md)

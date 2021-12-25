@@ -8,7 +8,7 @@ site:
       lecturers: "преподаватели"
       courses: "курсы"
       materials: "материалы"
-      applicants: "поступающим"
+      admission: "поступающим"
       nir: "отчеты нир"
       templates: "заготовки"
       seminars: "семинары"
@@ -103,7 +103,7 @@ titles:
   materials: Материалы
   nir: Отчеты нир
   templates: Заготовки
-  applicants: Поступающим
+  admission: Поступающим
   seminars: "Научные семинары"
   
 index:

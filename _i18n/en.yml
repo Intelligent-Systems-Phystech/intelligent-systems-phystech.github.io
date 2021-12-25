@@ -7,7 +7,7 @@ site:
       about: "about"
       lecturers: "lecturers"
       courses: "courses"
-      applicants: "applicants"
+      admission: "admission"
       materials: "materials"
       nir: "research reports"
       templates: "templates"
@@ -103,7 +103,7 @@ titles:
   materials: Materials
   nir: Research Reports
   templates: Templates
-  applicants: Applicants
+  admission: Admission
   seminars: Scientific seminars
   
 index:

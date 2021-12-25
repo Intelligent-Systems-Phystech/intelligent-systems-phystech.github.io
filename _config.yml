@@ -46,9 +46,9 @@ nav:
     href: "/course"
     name: site.nav.names.courses
     dropdown:
-  - id: "applicants"
-    href: "/applicants"
-    name: site.nav.names.applicants
+  - id: "admission"
+    href: "/admission"
+    name: site.nav.names.admission
     dropdown:
   - id: "materials"
     href: "/materials"
@@ -78,7 +78,7 @@ defaults:
       layout:       "page"
   - scope:
       path:         ""
-      type:         "applicants"
+      type:         "admission"
     values:
       layout:       "page"
   - scope:

@@ -5,7 +5,7 @@ name: courses.name
 type: master
 avatar:
 lecturers: isachenko_rv
-site: 
+site: https://github.com/r-isachenko/2021-DGM-MIPT-course
 ---
 
 {% tf _course/deep_generative_models.md %}

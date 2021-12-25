@@ -1,7 +1,7 @@
 ---
-title: titles.applicants
+title: titles.admission
 edit: true
-permalink: /applicants/
+permalink: /admission/
 ---
 
-{% tf applicants.md %}
+{% tf admission.md %}
