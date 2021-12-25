@@ -4,7 +4,7 @@ title: courses.title.signal_processing
 name: courses.name
 type: master
 avatar:
-lecturers:
+lecturers: strijov_vv
 site: 
 ---
 
