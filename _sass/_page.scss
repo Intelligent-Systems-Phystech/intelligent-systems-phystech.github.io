@@ -13,6 +13,7 @@
 .sidebar-left {
   display: flex;
   overflow-y: scroll;
+  background-color: $bg-sidecar;
 }
 
 @media (min-width: $lt-width) {
@@ -30,6 +31,7 @@
     top: 50px;
     bottom: 0px;
     width: calc(#{$lt-width} * 0.3);
+    background-color: $bg-default;
   }
 }
 
@@ -48,6 +50,7 @@
     top: 50px;
     bottom: 0px;
     width: calc(#{$md-width} * 0.3);
+    background-color: $bg-default;
   }
 }
 
