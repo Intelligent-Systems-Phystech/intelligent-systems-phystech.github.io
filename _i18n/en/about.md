@@ -45,4 +45,17 @@ Openness of ideas, projects, results at all stages of study and research; contin
 - [Scientific academic scholarship to them. K.V. Rudakova](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
 
 ### Collaborative training programs
-In 2019, the department organized a double degree and joint master's program at the University of Grenoble-Alpes. Master's students study in joint programs at the Paris Polytechnic School, Skolkovo Institute of Science and Technology, Scientific
+In 2019, the department organized a double degree and joint master's program at the University of Grenoble-Alpes. Master's students study in joint programs at the Paris Polytechnic School, the Skolkovo Institute of Science and Technology, the KAUST University of Science and Technology. Joint research is underway with laboratories UGA, INRIA, CNRS, Ecole Polytechnique, EPFL, Los-Alamos, CMU.
+- [Master program in Operations Research, Combinatorics and Optimization](https://master-informatique.univ-grenoble-alpes.fr/main-menu/academic-program/operations-research-combinatorics-optimisation/operations-research-combinatorics-optimisation-79396.kjsp?RH=1467388092289), [MIPT page](https://mipt.ru/education/joint_programs/ecolepolytech/)
+- [Master of Science in Informatics at Grenoble](https://master-informatique.univ-grenoble-alpes.fr/main-menu/academic-program/master-of-science-mosig/), [MIPT page]( https://mipt.ru/education/joint_programs/grenoble.php)
+- [Cycle Ingeneur at Ecole Polytechnique](https://www.polytechnique.edu/admission-cycle-ingenieur/en), [MIPT website](https://mipt.ru/education/joint_programs/grenoble.php)
+
+### Internships
+Since its inception, the department has been actively cooperating with the base companies of the Forexis Group of Companies: Forexis, Antiplagiat, Antirutina, GoodfoCast, Labor Laboratory, Procompliance and participates in joint projects of Forexis Group with the companies MMFB, InterRAO, Yandex, Sberbank, Russian Railways, Samsung, LG.
+- Forexis: [time series analysis, financial analytics, news flow analysis](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Forecsys_Intern.pdf)
+- Antiplagiat: [text analysis](https://www.antiplagiat.ru/)
+- INRIA National Institute for Research in Digital Science and Technology: [Bioinformatics](https://team.inria.fr/nano-d/job-openings/)
+
+### Come and study with us and do research on machine learning!
+- [About admission] (/admission/)
+- [Download the page about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Intelligent_Systems_MIPT.pdf)
