@@ -36,9 +36,9 @@
 Zoom channels: [bachelor](m1p.org/go_zoom), [master](m1p.org/go_zoom2)
 
 #### General MIPT schedule
-* [Schedule of the educational process (2021-2022) (2021-2022)](https://mipt.ru/upload/medialibrary/bda/grafik-uch.-protsessa-_n-2263_1-ot-24.08.2021_.pdf)
-* [Holiday Schedule](https://mipt.ru/upload/medialibrary/9b5/prikaz-n-2982_1-ot-30.12.2020.docx)
-* [Start of classes at MIPT](https://mipt.ru/upload/medialibrary/0ff/grafik-uchebnykh-zanyatiy.pdf)
+* [Schedule of the educational process](https://mipt.ru/about/departments/uchebniy/schedule/study/)
+* [Holiday Schedule](https://mipt.ru/about/departments/uchebniy/schedule/study/)
+* [Start of classes at MIPT](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
 #### Session
 * April 18, 17:00 listening to the second course
