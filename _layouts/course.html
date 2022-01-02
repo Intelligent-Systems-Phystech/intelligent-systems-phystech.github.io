@@ -16,7 +16,7 @@ layout: default
 {% if page.lecturers %}
 <h3 class="title">{% t course.teachers %}</h3>
 
-<div class="content list people">
+<div class="list people">
   {% assign lecturers = page.lecturers | split: "," %}
   {% for lecturer in lecturers %}
   {% for profile in site.people %}
