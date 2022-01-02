@@ -3,7 +3,6 @@
   margin: auto;
   width: 100%;
   padding: 5px;
-  
 }
 
 .avatar-image {
@@ -60,18 +59,15 @@
   }
 }
 
-.social {
-  margin-top: var(--spacer-2);
-  font-size: 150%;
-  white-space: normal;
-  line-height: .5;
-}
-
-.social-icon {
-  padding: var(--spacer);
+a.social {
+  color: inherit;
+  font-size: 50px;
+  margin: 10px;
+  
   &:hover,
   &:focus {
-    color: var(--link-hover-color);
-    background-color: transparent;
+    font-size: 54px;
+    margin: 9px;
+    text-decoration: none;
   }
 }

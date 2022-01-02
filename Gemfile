@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.8.7'
+gem 'jekyll', '~> 3.9'
 gem 'coderay', '~> 1.1.3'
+gem 'jekyll-toc', '~> 0.17.1'
+gem 'kramdown-parser-gfm'
 
 group :jekyll_plugins do
   gem 'jekyll-asciidoc', '~> 2.1.1'

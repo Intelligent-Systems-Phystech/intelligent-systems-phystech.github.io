@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<h3 class="title">{% t peoples.name.{{ page.id | split: "/" | last }} %}</h3>
+<div class="no_toc_section">
+  <h3 id="{% t peoples.name.{{ page.id | split: "/" | last }} %}" class="title">{% t peoples.name.{{ page.id | split: "/" | last }} %}</h3>
+</div>
 
 {% if page.avatar %}
 <img width="300" src="/images/people/{{ page.avatar }}">

@@ -33,6 +33,7 @@ highlighter:        rouge
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-toc
 
 languages: ["en", "ru"]
 
@@ -79,6 +80,10 @@ nav:
 
 # Scopes
 defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
   - scope:
       path:         ""
       type:         "pages"

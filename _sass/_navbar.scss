@@ -1,3 +1,4 @@
+// Навигация по сайт (сверху)
 .navbar-page {
     height: 50px;
     margin-bottom: 0px;
@@ -51,4 +52,37 @@
   background-color: #FFF;
   margin-left: auto;
   margin-right: auto;
+}
+
+// Навигация по странице (слева)
+
+ul.section-nav {
+  margin: auto;
+  text-align: left;
+  list-style-type: none;
+  padding: 10px;
+}
+
+.toc-entry>ul > li::before {
+  display: inline-block;
+  content: "-";
+  width: 1em;
+  text-align: center;
+  margin-left: -1em;
+}
+ul.section-nav  > li::before {
+  display: inline-block;
+  content: "-";
+  width: 1em;
+  text-align: center;
+  margin-left: -1em;
+}
+
+.toc-entry>ul {
+  list-style-type: none;
+}
+
+.toc-entry>a {
+  color: inherit;
+  font-size: 12px
 }

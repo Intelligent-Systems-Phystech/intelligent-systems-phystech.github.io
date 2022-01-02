@@ -12,17 +12,8 @@
   {% endfor %}
   </i></p>
   
-  <span style="display: block; margin-bottom: 3em"></span>
-  
-  {% if site.github %}
-  <a href="https://{{site.github.url}}"><i class="fa fa-github"></i> {{ site.github.name }}</a>&nbsp;&nbsp;&nbsp;
-  {% endif %}
+  <span style="display: block; margin-bottom: 1em"></span>
 
-  {% if site.mail %}
-  <a href="mailto:{{site.mail}}"><i class="fa fa-envelope-o"></i> {{ site.mail }}</a>
-  {% endif %}
-  
-  <hr style="margin: 10px;">
   {% for lang in site.languages %}
     {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
   <a href="{{ site.baseurl_root }}{{ page.url }}" >{{ site.global.langs[lang] }}</a>
@@ -39,5 +30,23 @@
   {% if page.edit == true %}
   <span class="separator"> | </span>
   <a href="{{ site.edit }}_i18n/{{ site.lang }}/{{ page.path }}" target="_blank"><i class="fa fa-edit"></i></a>
+  {% endif %}
+
+  <span style="display: block; margin-bottom: 1em"></span>
+  
+  {{ content | toc_only }}
+  
+  <hr style="margin: 10px;">
+  
+  {% if site.github %}
+  <a href="https://{{site.github.url}}" class="social">
+    <i class="fa fa-github"></i>
+  </a>
+  {% endif %}
+
+  {% if site.mail %}
+  <a href="mailto:{{site.mail}}"  class="social">
+    <i class="fa fa-envelope-o"></i>
+  </a>
   {% endif %}
 </header>
