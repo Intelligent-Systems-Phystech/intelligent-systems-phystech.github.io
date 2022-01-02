@@ -5,7 +5,7 @@ permalink: /course/
 
 {% for type in site.global.course.types %}
 
-<div class="pos_header">
+<div class="list-header">
   <h3 id="{% t site.global.course.types.{{ type }} %}">{% t site.global.course.types.{{ type }} %}</h3>
 </div>
 <hr>

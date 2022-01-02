@@ -7,7 +7,7 @@ permalink: /people/
 
 {% if role != 'template' %}
 
-<div class="pos_header">
+<div class="list-header">
   <h3 id="{% t site.global.people.roles.{{ role }} %}">{% t site.global.people.roles.{{ role }} %}</h3>
 </div>
 <hr>

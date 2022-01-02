@@ -44,6 +44,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   margin: auto;
+  margin-bottom: 1em;
   font-weight: 600;
   font-family: "Open Sans", "Source Sans Pro";
   line-height: 1.1;
@@ -272,10 +273,13 @@ tbody tr:nth-child(odd) th {
 }
 
 // customization
-.pos_header {
-  margin-left: 2rem;
+.list-header {
   margin: auto;
   padding: 5px;
+}
+
+.list-header>h3 {
+  margin: auto;
 }
 
 .list-post-title img {
