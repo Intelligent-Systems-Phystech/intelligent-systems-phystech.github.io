@@ -1,8 +1,8 @@
 // Навигация по сайт (сверху)
 .navbar-page {
-    height: 50px;
-    margin-bottom: 0px;
-    width: 100%;
+  height: 50px;
+  margin-bottom: 0px;
+  width: 100%;
 }
 
 .navbar-container {
@@ -34,8 +34,12 @@
 }
 
 // change font for navbar
+.navbar {
+  margin-bottom: 0px;
+}
+
 .navbar, .navbar-nav>li>a {
-  background-color: white;
+  background-color: $bg-navbar;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -49,7 +53,7 @@
 
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
-  background-color: #FFF;
+  background-color: $bg-navbar;
   margin-left: auto;
   margin-right: auto;
 }

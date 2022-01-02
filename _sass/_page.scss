@@ -4,7 +4,7 @@
 }
 
 .content {
-  padding: 5px;
+  padding: 10px;
   margin-left:  auto;
   margin-right: auto;
   min-height: 100vh;
@@ -31,7 +31,6 @@
     top: 50px;
     bottom: 0px;
     width: calc(#{$lt-width} * 0.3);
-    background-color: $bg-default;
   }
 }
 
@@ -50,7 +49,5 @@
     top: 50px;
     bottom: 0px;
     width: calc(#{$md-width} * 0.3);
-    background-color: $bg-default;
   }
 }
-
