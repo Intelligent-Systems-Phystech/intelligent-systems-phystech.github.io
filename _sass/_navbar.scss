@@ -14,16 +14,44 @@
   margin-left: auto;
 }
 
-@media (min-width: $md-width) {
-  .navbar-container {
-    width: $md-width;
-  }
-}
-
 @media (min-width: $lt-width) {
   .navbar-right {
     float: right!important;
     margin-right: 0px;
+  }
+  
+  .navbar-container {
+    width: 100%;
+  }
+}
+
+@media (min-width: $md-width) {
+  .navbar-container {
+    width: 100%;
+  }
+}
+
+@media (min-width: $xl-width) {
+  .navbar-container {
+    width: $lg-width;
+  }
+}
+
+@media (min-width: $qhd-width) {
+  .navbar-container {
+    width: $xl-width;
+  }
+}
+
+@media (min-width: $wqhd-width) {
+  .navbar-container {
+    width: $qhd-width;
+  }
+}
+
+@media (min-width: $uhd-width) {
+  .navbar-container {
+    width: $wqhd-width;
   }
 }
 
@@ -59,6 +87,10 @@
 }
 
 // Навигация по странице (слева)
+
+div.section-nav {
+  display: flex;
+}
 
 ul.section-nav {
   margin: auto;
