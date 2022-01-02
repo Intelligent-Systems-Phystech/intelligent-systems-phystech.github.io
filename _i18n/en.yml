@@ -1,6 +1,12 @@
 site:
+  index:
+    department: |-
+      Department of Intelligent Systems at Moscow Institute of Physics and Technology
+    address: |-
+      9 Institutskiy per., Dolgoprudny, Moscow Region, 141701, Russian Federation
+    
   name: "Intelligent Systems Phystech"
-
+  
   nav:
     names:
       home: "home"
@@ -105,15 +111,6 @@ titles:
   templates: Templates
   admission: Admission
   seminars: Scientific seminars
-  
-index:
-  department: |-
-    Department of Intelligent Systems at Moscow Institute of Physics and Technology
-  address: |-
-    9 Institutskiy per., Dolgoprudny, Moscow Region, 141701, Russian Federation
-  header: |-
-    - Machine Learning
-    - Data Analysis
 
 course:
   teachers: Lecturers

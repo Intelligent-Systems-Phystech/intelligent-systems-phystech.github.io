@@ -1,12 +1,21 @@
 brand:              /images/logo/logo_square.jpg
+image:              
 og:
-  image:              /images/main/main.jpg
+  image:            /images/main/main.jpg
 
 url:                https://intelligent-systems-phystech.github.io
 edit:               https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/
 baseurl:
 permalink:          /:year/:month/:day/:title.html
 
+# Main Info
+github: 
+  url: github.com/Intelligent-Systems-Phystech
+  name: Intelligent Systems
+mail: mlalgorithms@gmail.com
+header:
+- Machine Learning
+- Data Analysis
 
 # Markdown
 markdown:           kramdown

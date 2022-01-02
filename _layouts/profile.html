@@ -1,33 +1,30 @@
 ---
 layout: default
 ---
-<div class="content page">
+<h3 class="title">{% t peoples.name.{{ page.id | split: "/" | last }} %}</h3>
 
-  <h3 class="title">{% t peoples.name.{{ page.id | split: "/" | last }} %}</h3>
+{% if page.avatar %}
+<img width="300" src="/images/people/{{ page.avatar }}">
+{% endif %}
 
-  {% if page.avatar %}
-  <img width="300" src="/images/people/{{ page.avatar }}">
-  {% endif %}
+{% if page.site %}
+<i class="fa fa-user" aria-hidden="true"></i> <a href="{{page.site}}">{% t profile.website %}</a> <br>
+{% endif %}
 
-  {% if page.site %}
-  <i class="fa fa-user" aria-hidden="true"></i> <a href="{{page.site}}">{% t profile.website %}</a> <br>
-  {% endif %}
+{% if page.mail %}
+<i class="fa fa-envelope-o"></i> <a href="mailto:{{page.mail}}">{{ page.mail }}</a> <br>
+{% endif %}
 
-  {% if page.mail %}
-  <i class="fa fa-envelope-o"></i> <a href="mailto:{{page.mail}}">{{ page.mail }}</a> <br>
-  {% endif %}
+{% if page.scholar %}
+<i class="fa fa-bar-chart"></i> <a href="https://{{page.scholar}}">google scholar</a> <br>
+{% endif %}
+{% if page.orcid %}
+<i class="fa fa-bar-chart"></i> <a href="https://{{page.orcid}}">OrcID</a> <br>
+{% endif %}
+{% if page.mathnet %}
+<i class="fa fa-bar-chart"></i> <a href="http://{{page.mathnet}}">Math-Net</a> <br>
+{% endif %}
 
-  {% if page.scholar %}
-  <i class="fa fa-bar-chart"></i> <a href="https://{{page.scholar}}">google scholar</a> <br>
-  {% endif %}
-  {% if page.orcid %}
-  <i class="fa fa-bar-chart"></i> <a href="https://{{page.orcid}}">OrcID</a> <br>
-  {% endif %}
-  {% if page.mathnet %}
-  <i class="fa fa-bar-chart"></i> <a href="http://{{page.mathnet}}">Math-Net</a> <br>
-  {% endif %}
+<hr>
 
-  <hr>
-
-  {{ content }}
-</div>
+{{ content }}

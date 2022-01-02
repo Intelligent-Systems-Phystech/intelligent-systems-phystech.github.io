@@ -11,7 +11,7 @@ permalink: /people/
   <h3>{% t site.global.people.roles.{{ role }} %}</h3>
 </div>
 <hr>
-<div class="content list people">
+<div class="list people">
   {% for profile in site.people %}
     {% if profile.position contains role %}
       <div class="list-item-people">

@@ -41,39 +41,24 @@
   <!-- local -->
   <script src="/javascript/transition.js"></script>
   <link rel="stylesheet" href="/style.css">
-    
-    
-
 
 </head>
 <body>
   <div class="navbar-page">
   {% include navbar.html %}
   </div>
-  
-  {{ content }}
-  <footer>
-    <hr style="margin: 10px;">
-    {% for lang in site.languages %}
-      {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
-    <a href="{{ site.baseurl_root }}{{ page.url }}" >{{ site.global.langs[lang] }}</a>
-      {% else %}
-    <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{{ site.global.langs[lang] }}</a>
-      {% endif %}
-      {% assign next = forloop.index | plus: 1 %}
-
-      {% if forloop.last != true or site.languages[forloop.index] == site.lang and next < forloop.length %}
-    <span class="separator"> &bull; </span>
-      {% endif %}
-    {% endfor %}
-    {% if page.edit == true %}
-<!--     TODO try-except for edit current lang page or redirect to default -->
-    <span class="separator"> | </span>
-    <a href="{{ site.edit }}_i18n/{{ site.lang }}/{{ page.path }}" target="_blank"><i class="fa fa-edit"></i></a>
+  <div class="container">
+    {% if site.image %}
+    <div class="sidebar-left" style="background-image: url({{ site.image }});">
+    {% else %}
+    <div class="sidebar-left">
     {% endif %}
-    <hr style="margin: 10px;">
-    © 2003-<script>document.write(new Date().getFullYear())</script> 
-    <a href="/">Intelligent Systems</a>. All rights reserved.
-  </footer>
+    {% include sidecar.html %}
+    </div>
+    <div class="content page">
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </div>
 </body>
 </html>
