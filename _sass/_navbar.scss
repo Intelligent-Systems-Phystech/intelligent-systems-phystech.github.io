@@ -1,0 +1,54 @@
+.navbar-page {
+    min-height: 50px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.navbar-container {
+  height: 100%;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: $md-width) {
+  .navbar-container {
+    width: $md-width;
+  }
+}
+
+@media (min-width: $md-width) {
+  .navbar-right {
+    float: right!important;
+    margin-right: 0px;
+  }
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: 300;
+  padding: 0px;
+}
+
+// change font for navbar
+.navbar, .navbar-nav>li>a {
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 80%;
+}
+
+.navbar-nav>li {
+  margin-bottom: 0;
+  padding: 0px;
+}
+
+.navbar-toggle, .navbar-default .navbar-toggle:hover {
+  border: none;
+  background-color: #FFF;
+  margin-left: auto;
+  margin-right: auto;
+}

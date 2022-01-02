@@ -13,9 +13,10 @@ markdown:           kramdown
 
 # Sass
 sass:
+  sass_dir:         _sass
   style:            :compressed
 
-exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock", "vendor"]
+exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock", "vendor", "_sass"]
 
 # Highlighter
 highlighter:        rouge
@@ -26,7 +27,7 @@ plugins:
 
 languages: ["en", "ru"]
 
-exclude_from_localizations: ["images", "style.css", "favicon.ico", "css", "javascript"]
+exclude_from_localizations: ["images", "favicon.ico", "javascript", "style.scss"]
 
 default_locale_in_subfolder: False
 
