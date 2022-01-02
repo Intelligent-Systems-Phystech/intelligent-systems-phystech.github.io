@@ -18,11 +18,8 @@ Text analysis and thematic modeling, image and video analysis, multivariate time
 Openness of ideas, projects, results at all stages of study and research; continuous assessment of the quality of ideas and results; communication with the scientific community, updating according to the latest achievements.
 
 ### Main courses
-#### Machine Learning
-Read by K.V. Vorontsov is the most famous and complete course in Russia, covering fundamental and modern topics of machine learning and data analysis.
-
-#### My first scientific article: automation of scientific research
-Read by V.V. Strizhov is a course that provides the basics for performing scientific research - from planning to presenting results. Each student chooses a personal project and receives a personal consultant and expert. For three months, the student prepares a scientific article with theory and computational experiment. The results are presented at scientific conferences, articles are submitted to peer-reviewed journals.
+- ***Machine Learning*** read by K.V. Vorontsov is the most famous and complete course in Russia, covering fundamental and modern topics of machine learning and data analysis.
+- ***My first scientific article: automation of scientific research*** read by V.V. Strizhov is a course that provides the basics for performing scientific research - from planning to presenting results. Each student chooses a personal project and receives a personal consultant and expert. For three months, the student prepares a scientific article with theory and computational experiment. The results are presented at scientific conferences, articles are submitted to peer-reviewed journals.
 
 ### Main courses ([programs](/course/))
 - Machine Learning: Machine Learning Theory
