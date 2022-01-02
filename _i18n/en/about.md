@@ -6,7 +6,7 @@ The base department graduates bachelors and masters in the direction 010900 "App
 The base organization is the Computing Center of the Russian Academy of Sciences, the Federal Research Center "Informatics and Control" of the Russian Academy of Sciences. Created by an academician of the Russian Academy of Sciences and an outstanding Russian mathematician, an expert in the field of mathematical methods of recognition, forecasting and data mining [Konstantin Vladimirovich Rudakov](https://ru.wikipedia.org/wiki/Рудаков,_Константин_Владимирович). The department has been actively developing since 2003 within the framework of the scientific school of the academician of the Russian Academy of Sciences [Yuri Ivanovich Zhuravlev](https://ru.wikipedia.org/wiki/Журавлёв,_Юрий_Иванович_(математик)). A significant contribution to the development of the department was made by the professor of the Russian Academy of Sciences, Doctor of Physical and Mathematical Sciences. [K.V. Vorontsov](https://ru.wikipedia.org/wiki/Воронцов,_Константин_Вячеславович) and Ph.D. V.V. Strijov.
 
 ### Teachers of the department
-[- 20 researchers](/people/): professor of the Russian Academy of Sciences, doctors and candidates of sciences. Teachers - young candidates of sciences, graduates of the department Ph.D. [Alexander Aduenko](/people/aduenko_aa/index.html), Ph.D. [Oleg Bakhteev](/people/bakhteev_oy/index.html), Ph.D. [Roman Isachenko](/people/isachenko_rv/index.html), graduate student [Andrey Grabovoy](/people/grabovoy_av/index.html). The average age of the teachers is 35 years.
+[20 researchers](/people/): professor of the Russian Academy of Sciences, doctors and candidates of sciences. Teachers - young candidates of sciences, graduates of the department Ph.D. [Alexander Aduenko](/people/aduenko_aa/index.html), Ph.D. [Oleg Bakhteev](/people/bakhteev_oy/index.html), Ph.D. [Roman Isachenko](/people/isachenko_rv/index.html), graduate student [Andrey Grabovoy](/people/grabovoy_av/index.html). The average age of the teachers is 35 years.
 
 ### Areas of educational and scientific activities of the department
 Machine learning; multivariate statistics; geometric methods of deep learning; selection of models and neural network architectures; ensembles of models and generative neural networks; functional data analysis and analysis of spatio-temporal data.
@@ -44,7 +44,7 @@ Read by V.V. Strizhov is a course that provides the basics for performing scient
 - Software engineering technologies
 
 ### Scholarships
-- [Scientific academic scholarship to them. K.V. Rudakova] (https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
+- [Scientific academic scholarship to them. K.V. Rudakova](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
 
 ### Collaborative training programs
 In 2019, the department organized a double degree and joint master's program at the University of Grenoble-Alpes. Master's students study in joint programs at the Paris Polytechnic School, Skolkovo Institute of Science and Technology, Scientific
