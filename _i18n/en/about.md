@@ -1,18 +1,31 @@
-### About Us
+### Department of Intelligent Systems
+Phystech School of Applied Mathematics and Informatics MIPT
 
-The base department graduates bachelors and masters in the direction 09/01/00 "Applied Mathematics and Physics". Training is conducted in the specializations Data Mining, Design and Organization of Systems. The base organization is the Computing Center of the Federal Research Center “Informatics and Management” of the Russian Academy of Sciences.
+The base department graduates bachelors and masters in the direction 010900 "Applied Mathematics and Physics". Training at the department is conducted in three specializations "Data Mining", "Design and Organization of Systems", "Information Retrieval and Machine Learning". The base organization is the Computing Center of the Federal Research Center “Informatics and Management” of the Russian Academy of Sciences.
 
-Specialization - "Data Mining" was created, the head of which was the corresponding member. RAS K.V. Rudakov, founded in 2003 at one of the oldest basic departments of the FUPM MIPT "Management and Computing Systems" (Computing Center of the Russian Academy of Sciences).
-The specialization "Design and organization of systems" was created in the 1970s by the founder of the Russian school of artificial intelligence methods, academician G. S. Pospelov as a base department with the same name at the Computing Center of the Russian Academy of Sciences.
+The base organization is the Computing Center of the Russian Academy of Sciences, the Federal Research Center "Informatics and Control" of the Russian Academy of Sciences. Created by an academician of the Russian Academy of Sciences and an outstanding Russian mathematician, an expert in the field of mathematical methods of recognition, forecasting and data mining [Konstantin Vladimirovich Rudakov](https://ru.wikipedia.org/wiki/Рудаков,_Константин_Владимирович). The department has been actively developing since 2003 within the framework of the scientific school of the academician of the Russian Academy of Sciences [Yuri Ivanovich Zhuravlev](https://ru.wikipedia.org/wiki/Журавлёв,_Юрий_Иванович_(математик)). A significant contribution to the development of the department was made by the professor of the Russian Academy of Sciences, Doctor of Physical and Mathematical Sciences. [K.V. Vorontsov](https://ru.wikipedia.org/wiki/Воронцов,_Константин_Вячеславович) and Ph.D. V.V. Strijov.
 
-The main directions of educational and scientific activities of the department:
-Machine learning, multivariate statistics, model selection and neural network architectures, model ensembles and generative neural networks, functional data analysis and spatio-temporal data analysis.
-Applied research areas: text analysis and thematic modeling, image and video analysis, signal and human behavior analysis, brain-computer interfaces.
+### Teachers of the department
+[- 20 researchers](/people/): professor of the Russian Academy of Sciences, doctors and candidates of sciences. Teachers - young candidates of sciences, graduates of the department Ph.D. [Alexander Aduenko](/people/aduenko_aa/index.html), Ph.D. [Oleg Bakhteev](/people/bakhteev_oy/index.html), Ph.D. [Roman Isachenko](/people/isachenko_rv/index.html), graduate student [Andrey Grabovoy](/people/grabovoy_av/index.html). The average age of the teachers is 35 years.
 
-Every year the department accepts and graduates 10-15 undergraduate and graduate students. At the same time, up to 50 students from the third to the sixth year study at the department. All graduates (more than 300 people) successfully work in the field of machine learning and building artificial intelligence systems. Half of the graduates defended their dissertations of the candidate of physical and mathematical or technical sciences.
+### Areas of educational and scientific activities of the department
+Machine learning; multivariate statistics; geometric methods of deep learning; selection of models and neural network architectures; ensembles of models and generative neural networks; functional data analysis and analysis of spatio-temporal data.
 
-### Major disciplines
-- Machine learning
+### Applied Research
+Text analysis and thematic modeling, image and video analysis, multivariate time series analysis, biomedical signal analysis, brain-computer interfaces.
+
+### Principles of Scientific Work
+Openness of ideas, projects, results at all stages of study and research; continuous assessment of the quality of ideas and results; communication with the scientific community, updating according to the latest achievements.
+
+### Main courses
+#### Machine Learning
+Read by K.V. Vorontsov is the most famous and complete course in Russia, covering fundamental and modern topics of machine learning and data analysis.
+
+#### My first scientific article: automation of scientific research
+Read by V.V. Strizhov is a course that provides the basics for performing scientific research - from planning to presenting results. Each student chooses a personal project and receives a personal consultant and expert. For three months, the student prepares a scientific article with theory and computational experiment. The results are presented at scientific conferences, articles are submitted to peer-reviewed journals.
+
+### Main courses ([programs](/course/))
+- Machine Learning: Machine Learning Theory
 - Automation of scientific research
 - Deep learning methods
 - Choice of machine learning models
@@ -21,32 +34,17 @@ Every year the department accepts and graduates 10-15 undergraduate and graduate
 - Bayesian multi-modeling
 - Thematic modeling
 - Mathematical methods of text analysis
+- Optimization techniques in machine learning
+- Data analysis in metric spaces
+- Image processing, analysis and recognition
+- Signal processing
+- Statistical learning theory
+- Regression analysis
+- Bioinformatics
+- Software engineering technologies
 
-### Teachers of the department - 20 researchers:
-- Academician of the Russian Academy of Sciences
-- Professor of RAS
-- 7 doctors
-- 7 candidates of sciences.
+### Scholarships
+- [Scientific academic scholarship to them. K.V. Rudakova] (https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
 
-The average age of teachers is 35.
-
-### Graduates teaching at the department
-Alexander Aduenko, Ph.D.
-Roman Isachenko, Candidate of Science in Physics and Mathematics 2021
-Oleg Bakhteev, Ph.D.
-Andrey Grabovoy, Candidate of Science in Physics and Mathematics 2022
-
-### Main courses:
-Machine learning, read by K.V. Vorontsov is the most famous and complete course in Russia, covering fundamental and modern topics of machine learning and data analysis. The course is also taught at the Curser, at the School of Data Analysis, at Moscow State University.
-
-My first scientific article (automation of scientific research), read by V.V. Strizhov is a course that provides the basics for performing scientific research - from planning to presenting results. Each student chooses a personal project and receives a personal consultant and expert. For three months, the student prepares a scientific article with theory and computational experiment. The results are presented at scientific conferences, articles are submitted to peer-reviewed journals. The course has been running since 2011. More than 600 ?? Projects. Results of recent years [here]
-
-### Principles of Scientific Work
-Openness of ideas, projects, results at all stages of study and research
-Continuous assessment of the quality of ideas and results
-Communication with the scientific community, updating according to the latest achievements.
-
-
-### Internships
-
-TODO
+### Collaborative training programs
+In 2019, the department organized a double degree and joint master's program at the University of Grenoble-Alpes. Master's students study in joint programs at the Paris Polytechnic School, Skolkovo Institute of Science and Technology, Scientific
