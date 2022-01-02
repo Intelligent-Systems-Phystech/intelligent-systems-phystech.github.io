@@ -31,9 +31,9 @@
 Каналы для занятий: [бакалавры](https://m1p.org/go_zoom), [магистры](https://m1p.org/go_zoom2)
 
 #### Общее расписание МФТИ
-- [График учебного процесса (2021-2022)](https://mipt.ru/upload/medialibrary/bda/grafik-uch.-protsessa-_n-2263_1-ot-24.08.2021_.pdf)
-- [Расписание праздников](https://mipt.ru/upload/medialibrary/9b5/prikaz-n-2982_1-ot-30.12.2020.docx)
-- [Начало пар в МФТИ](https://mipt.ru/upload/medialibrary/0ff/grafik-uchebnykh-zanyatiy.pdf)
+- [График учебного процесса](https://mipt.ru/about/departments/uchebniy/schedule/study/)
+- [Расписание праздников](https://mipt.ru/about/departments/uchebniy/schedule/study/)
+- [Начало пар в МФТИ](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
 #### Сессия
 - 18 апреля 17:00 слушаем второй курс
