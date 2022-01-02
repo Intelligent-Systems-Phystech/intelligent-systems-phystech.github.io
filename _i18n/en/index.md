@@ -40,7 +40,7 @@ Zoom channels: [bachelor](m1p.org/go_zoom), [master](m1p.org/go_zoom2)
 * [Holiday Schedule](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 * [Start of classes at MIPT](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
-#### Session
+### Session
 * April 18, 17:00 listening to the second course
 * April 28, Wednesday 17:00 listening to theses 4 and 6
 * May 17-23 test week 3-6
