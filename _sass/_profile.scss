@@ -1,0 +1,18 @@
+.profile-thumbnail {
+  object-fit: cover;
+  object-position: center top;
+  width: 200px;
+  height: 200px;
+}
+
+.people {
+  margin: auto;
+  text-align: center;
+  margin-top: 0.75em;
+}
+
+.list-item-people {
+  display: inline-flex;
+  padding: 5px;
+  width: 220px;
+}
