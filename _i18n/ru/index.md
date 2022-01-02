@@ -35,7 +35,7 @@
 - [Расписание праздников](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 - [Начало пар в МФТИ](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
-#### Сессия
+### Сессия
 - 18 апреля 17:00 слушаем второй курс
 - 28 апреля, среда 17:00 слушаем дипломные работы 4 и 6
 - 17-23 мая зачетная неделя 3–6
