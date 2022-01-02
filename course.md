@@ -12,11 +12,13 @@ permalink: /course/
 <div class="list-course">
   {% for course in site.course %}
     {% if course.type contains type %}
+    <a class="course-name" href="{{ site.baseurl }}{{ course.url }}">
       <div class="list-item-course">
         <p class="list-item-course-title">
-          <a class="course-name" href="{{ site.baseurl }}{{ course.url }}">{% t courses.name.{{ course.id | split: "/" | last }} %}</a>
+          {% t courses.name.{{ course.id | split: "/" | last }} %}
         </p>
-      </div>    
+      </div>  
+    </a>
     {% endif %}
   {% endfor %}
 </div>
