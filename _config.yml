@@ -9,10 +9,10 @@ baseurl:
 permalink:          /:year/:month/:day/:title.html
 
 # Main Info
-github: 
-  url: github.com/Intelligent-Systems-Phystech
-  name: Intelligent Systems
+github: Intelligent-Systems-Phystech
 mail: mlalgorithms@gmail.com
+youtube: https://www.youtube.com/c/MachineLearningPhystech
+  
 header:
 - Machine Learning
 - Data Analysis

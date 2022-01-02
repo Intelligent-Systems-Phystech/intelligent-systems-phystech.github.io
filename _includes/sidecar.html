@@ -43,14 +43,18 @@
   <hr style="margin: 10px;">
   
   {% if site.github %}
-  <a href="https://{{site.github.url}}" class="social">
+  <a href="https://github.com/{{site.github}}" class="social">
     <i class="fa fa-github"></i>
   </a>
   {% endif %}
-
   {% if site.mail %}
   <a href="mailto:{{site.mail}}"  class="social">
     <i class="fa fa-envelope-o"></i>
+  </a>
+  {% endif %}
+  {% if site.youtube %}
+  <a href="{{site.youtube}}"  class="social">
+    <i class="fa fa-youtube-play"></i>
   </a>
   {% endif %}
 </header>
