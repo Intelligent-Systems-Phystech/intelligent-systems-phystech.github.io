@@ -26,10 +26,10 @@ site:
         master: Master
     people:
       roles:
-        hotd: Head of the Department
-        dos: Doctor of Science
-        phd: Ph.D
-        gs: Graduate Student
+        hotd: Founders of the Department
+        dos: Doctors of Science
+        phd: Ph.D, teachers
+        gs: Graduate Students, Instructors
         teachers: Teachers
         template: TEMPLATE
 
