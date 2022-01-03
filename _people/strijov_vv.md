@@ -2,7 +2,7 @@
 title: peoples.title.strijov_vv
 name: peoples.name
 edit: true
-position: hotd
+position: dos
 avatar: strijov_vv.jpg
 mail: strijov@phystech.edu
 site: http://ccas.ru/strijov/
