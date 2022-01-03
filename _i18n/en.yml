@@ -83,6 +83,7 @@ courses:
     software_engineering_data_analysis: Software Engineering for Data Analysis
     neural_architecture_search: Neural Architecture Search
     signal_processing: Signal Processing
+    r&d_in_ai: Creation of Intelligent Systems
   title:
     networks_text_analysis: Networks and Text Analysis
     bioinformatics: Bioinformatics
@@ -100,6 +101,7 @@ courses:
     software_engineering_data_analysis: Software Engineering for Data Analysis
     neural_architecture_search: Neural Architecture Search
     signal_processing: Signal Processing
+    r&d_in_ai: Creation of Intelligent Systems
       
 titles:
   index: Intelligent Systems Phystech
