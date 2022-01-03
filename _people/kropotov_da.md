@@ -2,7 +2,7 @@
 title: peoples.title.kropotov_da
 name: peoples.name
 edit: true
-position: teachers
+position: phd
 avatar:
 mail:
 site:
