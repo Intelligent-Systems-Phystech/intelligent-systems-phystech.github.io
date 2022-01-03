@@ -8,6 +8,8 @@ edit:               https://github.com/Intelligent-Systems-Phystech/intelligent-
 baseurl:
 permalink:          /:year/:month/:day/:title.html
 
+sidebar: true
+
 # Main Info
 github: Intelligent-Systems-Phystech
 mail: mlalgorithms@gmail.com

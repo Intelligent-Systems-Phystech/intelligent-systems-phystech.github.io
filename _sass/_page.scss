@@ -23,7 +23,7 @@
   }
 
   .content {
-    margin-left: calc(#{$lt-width} * 0.3);
+    margin-left: calc(#{$page-margin}*100%);
     width: calc(#{$lt-width} * 0.7);
   }
 
@@ -31,7 +31,7 @@
     position: fixed;
     top: 50px;
     bottom: 0px;
-    width: calc(#{$lt-width} * 0.3);
+    width: calc(#{$lt-width} * #{$page-margin});
   }
 }
 
@@ -41,7 +41,7 @@
   }
 
   .content {
-    margin-left: 30%;
+    margin-left: calc(#{$page-margin}*100%);
     width: 70%;
   }
 
@@ -49,7 +49,7 @@
     position: fixed;
     top: 50px;
     bottom: 0px;
-    width: 30%;
+    width: calc(#{$page-margin}*100%);
   }
 }
 
@@ -59,7 +59,7 @@
   }
 
   .content {
-    margin-left: calc(#{$lg-width} * 0.3);
+    margin-left: calc(#{$page-margin}*100%);
     width: calc(#{$lg-width} * 0.7);
   }
 
@@ -67,7 +67,7 @@
     position: fixed;
     top: 50px;
     bottom: 0px;
-    width: calc(#{$lg-width} * 0.3);
+    width: calc(#{$lg-width} * #{$page-margin});
   }
 }
 
@@ -77,7 +77,7 @@
   }
 
   .content {
-    margin-left: calc(#{$xl-width} * 0.3);
+    margin-left: calc(#{$page-margin}*100%);
     width: calc(#{$xl-width} * 0.7);
   }
 
@@ -85,7 +85,7 @@
     position: fixed;
     top: 50px;
     bottom: 0px;
-    width: calc(#{$xl-width} * 0.3);
+    width: calc(#{$xl-width} * #{$page-margin});
   }
 }
 
@@ -95,7 +95,7 @@
   }
 
   .content {
-    margin-left: calc(#{$wqhd-width} * 0.3);
+    margin-left: calc(#{$page-margin}*100%);
     width: calc(#{$qhd-width} * 0.7);
   }
 
@@ -103,7 +103,7 @@
     position: fixed;
     top: 50px;
     bottom: 0px;
-    width: calc(#{$qhd-width} * 0.3);
+    width: calc(#{$qhd-width} * #{$page-margin});
   }
 }
 
@@ -113,7 +113,7 @@
   }
 
   .content {
-    margin-left: calc(#{$wqhd-width} * 0.3);
+    margin-left: calc(#{$page-margin}*100%);
     width: calc(#{$wqhd-width} * 0.7);
   }
 
@@ -121,6 +121,6 @@
     position: fixed;
     top: 50px;
     bottom: 0px;
-    width: calc(#{$wqhd-width} * 0.3);
+    width: calc(#{$wqhd-width} * #{$page-margin});
   }
 }

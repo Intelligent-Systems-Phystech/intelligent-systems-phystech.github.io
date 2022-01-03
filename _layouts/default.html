@@ -48,6 +48,7 @@
   {% include navbar.html %}
   </div>
   <div class="container">
+    {% if site.sidebar %}
     {% if site.image %}
     <div class="sidebar-left" style="background-image: url({{ site.image }});">
     {% else %}
@@ -59,6 +60,13 @@
       {{ content }}
       {% include footer.html %}
     </div>
+    {% else %}
+    <div class="content" style="margin-left: auto!important;">
+      {{ content }}
+      {% include footer.html %}
+    </div>
+    {% endif %}
+
   </div>
 </body>
 </html>
