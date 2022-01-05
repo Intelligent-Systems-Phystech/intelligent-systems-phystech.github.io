@@ -30,7 +30,6 @@ site:
         dos: Doctors of Science
         phd: Ph.D, teachers
         gs: Graduate Students, Instructors
-        teachers: Teachers
         template: TEMPLATE
 
 peoples:
@@ -49,6 +48,8 @@ peoples:
     strijov_vv: Vadim Strijov
     vorontsov_kv: Konstantin Vorontsov
     torshin_iy: Ivan Torshin
+    rudakov_kv: Konstantin Rudakov
+    zhuravlyov_yv: Yuri Zhuravlyov
   title:
     grabovoy_av: Andrey Grabovoy
     aduenko_aa: Aleksander Aduenko
@@ -64,6 +65,8 @@ peoples:
     strijov_vv: Vadim Strijov
     vorontsov_kv: Konstantin Vorontsov
     torshin_iy: Ivan Torshin
+    rudakov_kv: Konstantin Rudakov
+    zhuravlyov_yv: Yuri Zhuravlyov
       
 courses:
   name:

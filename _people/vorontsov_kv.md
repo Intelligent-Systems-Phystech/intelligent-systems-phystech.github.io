@@ -3,7 +3,7 @@ id: vorontsov_kv
 title: peoples.title.vorontsov_kv
 name: peoples.name
 edit: true
-position: dos
+position: dos,hotd
 avatar: vorontsov_kv.jpg
 mail:
 site:
