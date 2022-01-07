@@ -3,7 +3,7 @@ title: peoples.title.bakhteev_oy
 name: peoples.name
 edit: true
 position: phd
-avatar: bakhteev.png
+avatar: bakhteev.jpg
 mail: bakhteev(at)phystech.edu
 site: https://bahleg.github.io
 scholar: scholar.google.com/citations?user=7eWNuFkAAAAJ&hl=ru
