@@ -57,5 +57,5 @@ Since its inception, the department has been actively cooperating with the base 
 - INRIA National Institute for Research in Digital Science and Technology: [Bioinformatics](https://team.inria.fr/nano-d/job-openings/)
 
 ### Come and study with us and do research on machine learning!
-- [About admission] (/admission/)
+- [About admission](/admission/)
 - [Download the page about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Intelligent_Systems_MIPT.pdf)
