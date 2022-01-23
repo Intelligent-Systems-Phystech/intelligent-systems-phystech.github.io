@@ -6,7 +6,7 @@ position: gs
 avatar:
 mail:
 site:
-scholar:
+scholar: scholar.google.com/citations?hl=ru&user=F9T_I50AAAAJ
 orcid:
 mathnet:
 ---

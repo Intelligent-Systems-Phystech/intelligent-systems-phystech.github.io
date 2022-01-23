@@ -37,7 +37,7 @@ peoples:
     grabovoy_av: Andrey Grabovoy
     aduenko_aa: Aleksander Aduenko
     bakhteev_oy: Oleg Bakhteev
-    hrilchenkov_ky: Kirill Hrilchenkov
+    khrilchenko_ky: Kirill Khrylchenko
     isachenko_rv: Roman Isachenko
     khritankov_as: Anton Khritankov
     kropotov_da: Dmitriy Kropotov
@@ -50,11 +50,19 @@ peoples:
     torshin_iy: Ivan Torshin
     rudakov_kv: Konstantin Rudakov
     zhuravlyov_yv: Yuri Zhuravlyov
+    apishev_ma: Murat Apishev     
+    gneushev_an: Alexander Gneushev
+    dulin_sn: Sergey Dulin
+    khoroshevsky_vf: Vladimir Khoroshevsky
+    mohonko_ez: Elena Mohonko
+    tsurkov_vi: Vladimir Tsurkov
+    matveev_ia: Ivan Matveev
+    chekhovich_yv: Yury Chekhovich
   title:
     grabovoy_av: Andrey Grabovoy
     aduenko_aa: Aleksander Aduenko
     bakhteev_oy: Oleg Bakhteev
-    hrilchenkov_ky: Kirill Hrilchenkov
+    khrilchenko_ky: Kirill Khrylchenko
     isachenko_rv: Roman Isachenko
     khritankov_as: Anton Khritankov
     kropotov_da: Dmitriy Kropotov
@@ -67,6 +75,14 @@ peoples:
     torshin_iy: Ivan Torshin
     rudakov_kv: Konstantin Rudakov
     zhuravlyov_yv: Yuri Zhuravlyov
+    apishev_ma: Murat Apishev     
+    gneushev_an: Alexander Gneushev   
+    dulin_sn: Sergey Dulin
+    khoroshevsky_vf: Vladimir Khoroshevsky
+    mohonko_ez: Elena Mohonko
+    tsurkov_vi: Vladimir Tsurkov
+    matveev_ia: Ivan Matveev
+    chekhovich_yv: Yury Chekhovich 
       
 courses:
   name:

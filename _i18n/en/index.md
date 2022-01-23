@@ -14,7 +14,7 @@
 #### 3rd year, 6th semester – thursday
 * 10:30–12:00,	[Automation of Scientific Research](https://intelligent-systems-phystech.github.io/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), [Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html))
 * 12:10–13:40,	[Introduction to Machine Learning](https://intelligent-systems-phystech.github.io/course/introduction_machine_learning/index.html), diff. credit ([Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html), [Konstantin Vorontsov](https://intelligent-systems-phystech.github.io/people/vorontsov_kv/index.html))
-* 14:30–16:00,	Практикум по программированию на языке Питон, non-diff. credit (Апишев)
+* 14:30–16:00,	Практикум по программированию на языке Питон, non-diff. credit ([Murat Apishev](people/apishev_ma/index.html))
 * 16:10–17:40,	Научный семинар по специальности, diff. credit. ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), scientific advisors)
 
 #### 4th year, 8th semester – wednesday
@@ -31,7 +31,7 @@
 * 12:10–13:40,	[Bioinformatics](https://intelligent-systems-phystech.github.io/course/bioinformatics/index.html), exam ([Ivan Torshin](https://intelligent-systems-phystech.github.io/people/torshin_iy/index.html))
 * 14:30–16:00,	[Signal Processing](https://intelligent-systems-phystech.github.io/course/signal_processing/index.html), exam ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html))
 * 16:10–17:40, [Bayesian Multimodeling](https://intelligent-systems-phystech.github.io/course/bayesian_multimodeling/index.html) ([Oleg Bakhteev](https://intelligent-systems-phystech.github.io/people/bakhteev_oy/index.html))
-* 10:30–12:00 (thursday),	Создание интеллектуальных систем (Грабовой) 
+* 10:30–12:00 (thursday),	Создание интеллектуальных систем ([Andrey Grabovoy](people/grabovoy_av/index.html))
 
 Zoom channels: [bachelor](m1p.org/go_zoom), [master](m1p.org/go_zoom2)
 

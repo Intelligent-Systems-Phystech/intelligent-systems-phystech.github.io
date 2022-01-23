@@ -6,7 +6,7 @@ position: phd
 avatar:
 mail:
 site:
-scholar:
+scholar: https://scholar.google.com/citations?hl=ru&user=OtxWKpMAAAAJ
 orcid:
 mathnet:
 ---
