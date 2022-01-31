@@ -3,7 +3,7 @@ title: peoples.title.aduenko_aa
 name: peoples.name
 edit: true
 position: phd
-avatar: 
+avatar: aduenko_aa.jpg
 mail: 
 site:
 scholar: 
