@@ -13,7 +13,7 @@
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	[Моя первая научная статья](https://intelligent-systems-phystech.github.io/ru/course/automation_scientific_research/index.html), diff. credit ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html), [Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html))
 - 12:10–13:40,	[Введение в машинное обучение](https://intelligent-systems-phystech.github.io/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html), [Воронцов К.В.](https://intelligent-systems-phystech.github.io/ru/people/vorontsov_kv/index.html))
-- 14:30–16:00,	Практикум по программированию на языке Питон, зачет ([Апишев М.А.](people/apishev_ma/index.html))
+- 14:30–16:00,	[Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python), зачет ([Апишев М.А.](people/apishev_ma/index.html))
 - 16:10–17:40,	Научный семинар по специальности, дифф. зач. (Стрижов, руководители НИР)
 #### 4 курс, 8 семестр – среда
 - 10:30–12:00,	[Математические методы прогнозирования](https://intelligent-systems-phystech.github.io/ru/course/forecasting_methods/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
