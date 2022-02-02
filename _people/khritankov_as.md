@@ -3,7 +3,7 @@ title: peoples.title.khritankov_as
 name: peoples.name
 edit: true
 position: phd
-avatar:
+avatar: khritankov_as.jpg
 mail:
 site:
 scholar: https://scholar.google.com/citations?hl=ru&user=OtxWKpMAAAAJ

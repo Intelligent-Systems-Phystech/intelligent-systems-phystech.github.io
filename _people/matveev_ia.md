@@ -3,7 +3,7 @@ title: peoples.title.matveev_ia
 name: peoples.name
 edit: true
 position: dos
-avatar: 
+avatar: matveev_ia.jpg 
 mail: 
 site:
 scholar: scholar.google.com/citations?hl=ru&user=vkU__7EAAAAJ
