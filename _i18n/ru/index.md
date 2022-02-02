@@ -11,7 +11,7 @@
 
 ### Расписание занятий, весенний семестр
 #### 3 курс, 6 семестр – четверг
-- 10:30–12:00,	[Моя первая научная статья](https://intelligent-systems-phystech.github.io/ru/course/automation_scientific_research/index.html), diff. credit ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html), [Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html))
+- 10:30–12:00,	[Моя первая научная статья](https://intelligent-systems-phystech.github.io/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html), [Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html))
 - 12:10–13:40,	[Введение в машинное обучение](https://intelligent-systems-phystech.github.io/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html), [Воронцов К.В.](https://intelligent-systems-phystech.github.io/ru/people/vorontsov_kv/index.html))
 - 14:30–16:00,	[Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python), зачет ([Апишев М.А.](people/apishev_ma/index.html))
 - 16:10–17:40,	Научный семинар по специальности, дифф. зач. (Стрижов, руководители НИР)
@@ -22,13 +22,13 @@
 - 16:10–17:40,	[Анализ сетей и текстов](https://intelligent-systems-phystech.github.io/ru/course/networks_text_analysis/index.html), дифф. зач. ([Майсурадзе А.И.](https://intelligent-systems-phystech.github.io/ru/people/meysuradze_ai/index.html))
 - 16:10–17:40,	[Порождающие модели машинного обучения](https://intelligent-systems-phystech.github.io/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](https://intelligent-systems-phystech.github.io/ru/people/isachenko_rv/index.html))
 #### 5 курс, 10 семестр – среда
-- 10:30–12:00,	[Программная инженерия](https://intelligent-systems-phystech.github.io/ru/course/software_engineering_data_analysis/index.html)), дифф. зач. ([Хританков А.С.](https://intelligent-systems-phystech.github.io/ru/people/khritankov_as/index.html)) 
+- 10:30–12:00,	[Программная инженерия](https://intelligent-systems-phystech.github.io/ru/course/software_engineering_data_analysis/index.html), дифф. зач. ([Хританков А.С.](https://intelligent-systems-phystech.github.io/ru/people/khritankov_as/index.html)) 
 - 12:10–13:40,	[Биоинформатика](https://intelligent-systems-phystech.github.io/ru/course/bioinformatics/index.html), экзамен ([Торшин И.Ю.](https://intelligent-systems-phystech.github.io/ru/people/torshin_iy/index.html))
 - 14:30–16:00,	[Обработка сигналов](https://intelligent-systems-phystech.github.io/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
 - 16:10–17:40,	[Байесовское мультимоделирование](https://intelligent-systems-phystech.github.io/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](https://intelligent-systems-phystech.github.io/ru/people/bakhteev_oy/index.html))
 - 10:30–12:00 (четверг),	Создание интеллектуальных систем ([Грабовой А.В.](people/grabovoy_av/index.html))
 
-Каналы для занятий: [бакалавры](https://m1p.org/go_zoom), [магистры](https://m1p.org/go_zoom2)
+Каналы для занятий онлайн: [бакалавры m1p.org/go_zoom](https://m1p.org/go_zoom), [магистры m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 #### Общее расписание МФТИ
 - [График учебного процесса](https://mipt.ru/about/departments/uchebniy/schedule/study/)
