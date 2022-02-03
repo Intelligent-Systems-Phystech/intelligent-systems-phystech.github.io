@@ -31,7 +31,7 @@
 * 12:10–13:40,	[Bioinformatics](https://intelligent-systems-phystech.github.io/course/bioinformatics/index.html), exam ([Ivan Torshin](https://intelligent-systems-phystech.github.io/people/torshin_iy/index.html))
 * 14:30–16:00,	[Signal Processing](https://intelligent-systems-phystech.github.io/course/signal_processing/index.html), exam ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html))
 * 16:10–17:40, [Bayesian Multimodeling](https://intelligent-systems-phystech.github.io/course/bayesian_multimodeling/index.html) ([Oleg Bakhteev](https://intelligent-systems-phystech.github.io/people/bakhteev_oy/index.html))
-* 10:30–12:00 (thursday),	R&D of Intelligent Systems ([Andrey Grabovoy](people/grabovoy_av/index.html))
+* 16:10–17:40, (thursday),	R&D of Intelligent Systems ([Andrey Grabovoy](people/grabovoy_av/index.html))
 
 Zoom channels: bachelor [m1p.org/go_zoom](https://m1p.org/go_zoom), master [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
