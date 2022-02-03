@@ -26,7 +26,7 @@
 - 12:10–13:40,	[Биоинформатика](https://intelligent-systems-phystech.github.io/ru/course/bioinformatics/index.html), экзамен ([Торшин И.Ю.](https://intelligent-systems-phystech.github.io/ru/people/torshin_iy/index.html))
 - 14:30–16:00,	[Обработка сигналов](https://intelligent-systems-phystech.github.io/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
 - 16:10–17:40,	[Байесовское мультимоделирование](https://intelligent-systems-phystech.github.io/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](https://intelligent-systems-phystech.github.io/ru/people/bakhteev_oy/index.html))
-- 10:30–12:00 (четверг),	Создание интеллектуальных систем ([Грабовой А.В.](people/grabovoy_av/index.html))
+- 16:10–17:40, (четверг),	Создание интеллектуальных систем ([Грабовой А.В.](people/grabovoy_av/index.html))
 
 Каналы для занятий онлайн: бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom), магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
