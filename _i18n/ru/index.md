@@ -22,9 +22,9 @@
 - 16:10–17:40,	[Анализ сетей и текстов](https://intelligent-systems-phystech.github.io/ru/course/networks_text_analysis/index.html), дифф. зач. ([Майсурадзе А.И.](https://intelligent-systems-phystech.github.io/ru/people/meysuradze_ai/index.html))
 - 16:10–17:40,	[Порождающие модели машинного обучения](https://intelligent-systems-phystech.github.io/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](https://intelligent-systems-phystech.github.io/ru/people/isachenko_rv/index.html))
 #### 5 курс, 10 семестр – среда
-- 10:30–12:00,	[Программная инженерия](https://intelligent-systems-phystech.github.io/ru/course/software_engineering_data_analysis/index.html), дифф. зач. ([Хританков А.С.](https://intelligent-systems-phystech.github.io/ru/people/khritankov_as/index.html)) 
+- 10:30–12:00,	[Обработка сигналов](https://intelligent-systems-phystech.github.io/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
 - 12:10–13:40,	[Биоинформатика](https://intelligent-systems-phystech.github.io/ru/course/bioinformatics/index.html), экзамен ([Торшин И.Ю.](https://intelligent-systems-phystech.github.io/ru/people/torshin_iy/index.html))
-- 14:30–16:00,	[Обработка сигналов](https://intelligent-systems-phystech.github.io/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html))
+- 14:30–16:00,	[Программная инженерия](https://intelligent-systems-phystech.github.io/ru/course/software_engineering_data_analysis/index.html), дифф. зач. ([Хританков А.С.](https://intelligent-systems-phystech.github.io/ru/people/khritankov_as/index.html)) 
 - 16:10–17:40,	[Байесовское мультимоделирование](https://intelligent-systems-phystech.github.io/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](https://intelligent-systems-phystech.github.io/ru/people/bakhteev_oy/index.html))
 - 16:10–17:40, (четверг),	[Создание интеллектуальных систем](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Грабовой А.В.](people/grabovoy_av/index.html))
 
