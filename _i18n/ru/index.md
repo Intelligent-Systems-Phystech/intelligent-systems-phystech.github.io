@@ -10,6 +10,8 @@
 - [Научные и учебные проекты](https://m1p.org)
 
 ### Расписание занятий, весенний семестр
+Каналы для занятий: бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom), магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	[Моя первая научная статья](https://intelligent-systems-phystech.github.io/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html), [Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html))
 - 12:10–13:40,	[Введение в машинное обучение](https://intelligent-systems-phystech.github.io/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html), [Воронцов К.В.](https://intelligent-systems-phystech.github.io/ru/people/vorontsov_kv/index.html))
@@ -28,7 +30,7 @@
 - 16:10–17:40,	[Байесовское мультимоделирование](https://intelligent-systems-phystech.github.io/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](https://intelligent-systems-phystech.github.io/ru/people/bakhteev_oy/index.html))
 - 16:10–17:40, (четверг),	[Создание интеллектуальных систем](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Грабовой А.В.](people/grabovoy_av/index.html))
 
-Каналы для занятий онлайн: бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom), магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+
 
 #### Общее расписание МФТИ
 - [График учебного процесса](https://mipt.ru/about/departments/uchebniy/schedule/study/)
