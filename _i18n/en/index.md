@@ -10,6 +10,7 @@
 - [Scientific and educational projects](https://m1p.org)
 
 ### Schedule, Spring
+Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 #### 3rd year, 6th semester – thursday
 * 10:30–12:00,	[Automation of Scientific Research](https://intelligent-systems-phystech.github.io/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), [Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html))
@@ -33,7 +34,6 @@
 * 16:10–17:40, [Bayesian Multimodeling](https://intelligent-systems-phystech.github.io/course/bayesian_multimodeling/index.html) ([Oleg Bakhteev](https://intelligent-systems-phystech.github.io/people/bakhteev_oy/index.html))
 * 16:10–17:40, (thursday),	[R&D of Intelligent Systems](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Andrey Grabovoy](people/grabovoy_av/index.html))
 
-Zoom channels: bachelor [m1p.org/go_zoom](https://m1p.org/go_zoom), master [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 #### General MIPT schedule
 * [Schedule of the educational process](https://mipt.ru/about/departments/uchebniy/schedule/study/)
