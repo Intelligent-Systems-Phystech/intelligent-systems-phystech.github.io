@@ -16,6 +16,7 @@ Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [
 * 10:30–12:00,	[Automation of Scientific Research](https://intelligent-systems-phystech.github.io/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), [Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html))
 * 12:10–13:40,	[Introduction to Machine Learning](https://intelligent-systems-phystech.github.io/course/introduction_machine_learning/index.html), diff. credit ([Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html), [Konstantin Vorontsov](https://intelligent-systems-phystech.github.io/people/vorontsov_kv/index.html))
 * 14:30–16:00,	[Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python), non-diff. credit ([Murat Apishev](people/apishev_ma/index.html))
+* * 16:10–17:40,	[R&D of Intelligent Systems](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Andrey Grabovoy](people/grabovoy_av/index.html))
 * 16:10–17:40,	Scientific orientation, diff. credit. ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), scientific advisors)
 
 #### 4th year, 8th semester – wednesday
@@ -24,7 +25,6 @@ Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [
 * 12:10–13:40,	[Image Processing and Recognition](https://intelligent-systems-phystech.github.io/course/image_processing_recognition/index.html), diff. credit. ([Leonid Mestetskiy](https://intelligent-systems-phystech.github.io/people/mestetskiy_lm/index.html))
 * 14:30–16:00,	[Bayesian Model Selection](https://intelligent-systems-phystech.github.io/course/bayesian_model_selection/index.html), экзамен ([Aleksander Aduenko](https://intelligent-systems-phystech.github.io/people/aduenko_aa/index.html))
 * 16:10–17:40, [Networks and Text Analysis](https://intelligent-systems-phystech.github.io/course/networks_text_analysis/index.html), diff. credit. ([Archil Meysuradze](https://intelligent-systems-phystech.github.io/people/meysuradze_ai/index.html))
-* 16:10–17:40,	[Deep Generative Models](https://intelligent-systems-phystech.github.io/course/deep_generative_models/index.html), exam ([Roman Isachenko](https://intelligent-systems-phystech.github.io/people/isachenko_rv/index.html))
 
 #### 5th year, 10th semester – wednesday
 
@@ -32,8 +32,7 @@ Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [
 * 12:10–13:40,	[Bioinformatics](https://intelligent-systems-phystech.github.io/course/bioinformatics/index.html), exam ([Ivan Torshin](https://intelligent-systems-phystech.github.io/people/torshin_iy/index.html))
 * 14:30–16:00, [Software Engineering for Data Analysis](https://intelligent-systems-phystech.github.io/course/software_engineering_data_analysis/index.html), diff. credit. ([Anton Khritankov](https://intelligent-systems-phystech.github.io/people/khritankov_as/index.html)) 
 * 16:10–17:40, [Bayesian Multimodeling](https://intelligent-systems-phystech.github.io/course/bayesian_multimodeling/index.html) ([Oleg Bakhteev](https://intelligent-systems-phystech.github.io/people/bakhteev_oy/index.html))
-* 16:10–17:40, (thursday),	[R&D of Intelligent Systems](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Andrey Grabovoy](people/grabovoy_av/index.html))
-
+* 16:10–17:40,	[Deep Generative Models](https://intelligent-systems-phystech.github.io/course/deep_generative_models/index.html), exam ([Roman Isachenko](https://intelligent-systems-phystech.github.io/people/isachenko_rv/index.html))
 
 #### General MIPT schedule
 * [Schedule of the educational process](https://mipt.ru/about/departments/uchebniy/schedule/study/)
