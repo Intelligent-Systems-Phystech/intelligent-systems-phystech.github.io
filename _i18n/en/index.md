@@ -14,7 +14,7 @@ Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [
 * 10:30–12:00,	[Automation of Scientific Research](https://intelligent-systems-phystech.github.io/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), [Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html))
 * 12:10–13:40,	[Introduction to Machine Learning](https://intelligent-systems-phystech.github.io/course/introduction_machine_learning/index.html), diff. credit ([Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html), [Konstantin Vorontsov](https://intelligent-systems-phystech.github.io/people/vorontsov_kv/index.html))
 * 14:30–16:00,	[Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python), non-diff. credit ([Murat Apishev](people/apishev_ma/index.html))
-* * 16:10–17:40,	[R&D of Intelligent Systems](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Andrey Grabovoy](people/grabovoy_av/index.html))
+* 16:10–17:40,	[R&D of Intelligent Systems](https://intelligent-systems-phystech.github.io/ru/course/rnd_in_ai/index.html) ([Andrey Grabovoy](people/grabovoy_av/index.html))
 * 16:10–17:40,	Scientific orientation, diff. credit. ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), scientific advisors)
 
 #### 4th year, 8th semester – wednesday
