@@ -5,7 +5,7 @@ name: courses.name
 type: master
 avatar:
 lecturers: grabovoy_av
-site: 
+site: https://github.com/Intelligent-Systems-Phystech/CreationOfIntelligentSystems
 ---
 
 {% tf _course/rnd_in_ai.md %}
