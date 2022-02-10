@@ -4,7 +4,7 @@
 - [Поступление на кафедру](https://intelligent-systems-phystech.github.io/ru/admission/)
 - [Слушателям отдельных курсов](https://intelligent-systems-phystech.github.io/ru/admission/)
 - [Телеграм студентов](https://t.me/IS_MIPT) и [аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
-- [Учебные курсы](https://intelligent-systems-phystech.github.io/ru/course/) и - [преподаватели](https://intelligent-systems-phystech.github.io/ru/people/)
+- [Учебные курсы](https://intelligent-systems-phystech.github.io/ru/course/) и [преподаватели](https://intelligent-systems-phystech.github.io/ru/people/)
 - [Научные и учебные проекты](https://m1p.org)
 
 ### Расписание занятий, весенний семестр
