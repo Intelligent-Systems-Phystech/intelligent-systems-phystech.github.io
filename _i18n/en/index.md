@@ -3,7 +3,7 @@
 ### Announcements and Information
 - [Admission](https://intelligent-systems-phystech.github.io/admission/)
 - [For external students](https://intelligent-systems-phystech.github.io/admission/)
-- [Telegram of students](https://t.me/IS_MIPT) and [of graduates](https://t.me/+BpMhAW-gWlM5OThi)
+- Telegram [of students](https://t.me/IS_MIPT) and [of graduates](https://t.me/+BpMhAW-gWlM5OThi)
 - [Courses](https://intelligent-systems-phystech.github.io/course/) and [teachers](https://intelligent-systems-phystech.github.io/people/)
 - [Scientific and educational projects](https://m1p.org)
 
