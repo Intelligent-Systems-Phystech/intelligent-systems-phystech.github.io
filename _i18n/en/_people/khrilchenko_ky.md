@@ -1,3 +1,3 @@
-### Publications
+He graduated with honors from  MSU in 2020.
 
-### Conferences
+**Professional interests:** natural language processing, topic modeling, deep learning, applied data analysis problems.

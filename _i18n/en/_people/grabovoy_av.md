@@ -1,3 +1,7 @@
+He graduated with honors from  MIPT in 2021. Since 2021 he is a postgraduate student of the Department of Intelligent Systems.
+He is an author of more than 14 scientific papers on knowledge distillation, model selection, natural language processing.
+
+
 ### Publications
 1. Грабовой А.В., Стрижов В.В. [Байесовская дистилляция моделей глубокого обучения](https://doi.org/10.31857/S0005231021110027) // Автоматика и телемеханика, 2021.
 2. Грабовой А.В., Стрижов В.В. [Анализ выбора априорного распределениядля смеси экспертов](https://doi.org/10.1134/S0965542521070071) // Журнал вычислительной математики и матема-тической физики, 2021.
