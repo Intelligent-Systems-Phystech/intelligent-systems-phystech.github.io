@@ -9,6 +9,8 @@ site:
 scholar: 
 orcid: 
 mathnet: 
+scopus: www.scopus.com/authid/detail.uri?authorId=56922331100
+elib: 
 ---
 
 {% tf _people/aduenko_aa.md %}

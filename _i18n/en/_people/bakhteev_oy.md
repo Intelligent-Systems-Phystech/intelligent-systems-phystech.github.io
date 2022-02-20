@@ -1,4 +1,8 @@
-*Research interests:* model selection, deep learning, neural networks, Bayesian inference, natural language processing 
+He graduated with honors from  MIPT in 2016. He defended his Ph.D. dissertation on methods of deep learning model selection in 2020, candidate of physical and mathematical sciences. 
+He is an author of more than 29 scientific papers on model selection and natural language processing.
+
+**Professional interests:** model selection, deep learning, neural networks, Bayesian inference, natural language processing.
+ 
 
 ### Main publications
 1. Yakovel K., Grebenkova O., Bakhteev O., Strijov V. Neural architecture search with structure complexity control (2021). Proceedings of the 10th International Conference on Analysis of Images, Social Networks and Texts.

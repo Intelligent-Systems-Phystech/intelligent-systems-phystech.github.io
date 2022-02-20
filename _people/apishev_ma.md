@@ -9,6 +9,8 @@ site: http://www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%8
 scholar: 
 orcid: 
 mathnet: 
+scopus: www.scopus.com/authid/detail.uri?authorId=57022229800
+elib: 
 ---
 
 {% tf _people/apishev_ma.md %}

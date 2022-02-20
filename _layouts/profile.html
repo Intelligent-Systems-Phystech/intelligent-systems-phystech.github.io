@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <div class="no_toc_section">
   <h3 id="{% t peoples.name.{{ page.id | split: "/" | last }} %}" class="title">{% t peoples.name.{{ page.id | split: "/" | last }} %}</h3>
 </div>
@@ -18,10 +19,16 @@ layout: default
 {% endif %}
 
 {% if page.scholar %}
-<i class="fa fa-bar-chart"></i> <a href="https://{{page.scholar}}">google scholar</a> <br>
+<i class="ai ai-google-scholar"></i> <a href="https://{{page.scholar}}">google scholar</a> <br>
 {% endif %}
 {% if page.orcid %}
-<i class="fa fa-bar-chart"></i> <a href="https://{{page.orcid}}">OrcID</a> <br>
+<i class="ai ai-orcid"></i> <a href="https://{{page.orcid}}">OrcID</a> <br>
+{% endif %}
+{% if page.scopus %}
+<i class="ai ai-scopus"></i> <a href="http://{{page.scopus}}">Scopus</a> <br>
+{% endif %}
+{% if page.elib %}
+<i class="fa fa-bar-chart"></i> <a href="http://{{page.elib}}">eLibrary</a> <br>
 {% endif %}
 {% if page.mathnet %}
 <i class="fa fa-bar-chart"></i> <a href="http://{{page.mathnet}}">Math-Net</a> <br>
