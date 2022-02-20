@@ -26,7 +26,41 @@ layout: default
 {% if page.mathnet %}
 <i class="fa fa-bar-chart"></i> <a href="http://{{page.mathnet}}">Math-Net</a> <br>
 {% endif %}
-
+&nbsp;
 <hr>
+&nbsp;
+
+
+
 
 {{ content }}
+
+{% assign found = false %}
+{% for course in site.course %}
+	{% assign lecturers = course.lecturers | split: "," %}
+	{% for lecturer in lecturers %}
+		{% if page.url contains lecturer %}	
+			   {% assign found = true %} 
+		{% endif %}			
+	{% endfor %}	
+  {% endfor %}
+  
+
+{% if found %}	  
+	&nbsp;
+	<hr>
+	<p><h3>{% t profile.teaches %}:</h3></p>
+
+	<div>
+	  {% for course in site.course %}
+		{% assign lecturers = course.lecturers | split: "," %}
+		{% for lecturer in lecturers %}
+			{% if page.url contains lecturer %}
+				<ul><li> <a href="{{ site.baseurl }}{{ course.url }}">
+					  {% t courses.name.{{ course.id | split: "/" | last }} %}</a> 
+				</li></ul>
+			{% endif %}			
+		{% endfor %}	
+	  {% endfor %}
+	</div>
+{% endif %}	

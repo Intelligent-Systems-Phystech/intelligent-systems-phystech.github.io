@@ -4,5 +4,3 @@ He is an author of more than 24 scientific papers on performance evaluation, sof
 **Professional interests:** Software systems architecture and design, software development methodologies and processes, distributed computing and performance evaluation.
 
 
-**Teaches:**
-* [Software Engineering for Data Analysis](/course/software_engineering_data_analysis/index.html)
