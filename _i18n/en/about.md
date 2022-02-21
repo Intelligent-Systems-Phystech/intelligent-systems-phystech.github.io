@@ -58,4 +58,5 @@ Since its inception, the department has been actively cooperating with the base 
 
 ### Come and study with us and do research on machine learning!
 - [About admission](/admission/)
-- [Download the page about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Intelligent_Systems_MIPT.pdf)
+- [Download the page about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/IS_Slides.pdf)
+- [Download the slides about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/IS_Slides.pdf)
