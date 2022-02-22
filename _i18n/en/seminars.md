@@ -1,8 +1,21 @@
+### Meeting with alumni of the MIPT Department of Intelligent Systems, 2013 [In Russian]
+
+**Date:** 17.02.2022 
+
+**Guests:** [Mikhail Kuznetsov](https://scholar.google.com/citations?user=w1CmemUAAAAJ&hl=ru&oi=ao), [Nikita Ivkin](https://scholar.google.com/citations?user=wHAYz5wAAAAJ&hl=ru&oi=ao)
+
+The alumni of the department are engaged in research in the field of machine learning and data analysis in large commercial companies.
+
+* Mikhail Kuznetsov: candidate of physical and mathematical sciences, MIPT, researcher at Yahoo and Amazon
+* Nikita Ivkin: PhD Johns Hopkins University, researcher at Amazon
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvlPDQUlUFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Prior Distribution of Parameters in Deep Learning Model Selection Problem [In Russian]
 
-**Date:** 24.02.2022
+**Date:** 24.01.2022
 
-**Speaker**: [Andrey Grabovoy](../../people/grabovoy_av)
+**Speaker:** [Andrey Grabovoy](../../people/grabovoy_av)
 
 The seminar is devoted to deep learning model distillation. We discuss the alignment of the structures of teacher and student models. Bayesian inference is used to optimize student parameters. We give an examples of distillation fully connected and recurrent neural networks as models of a teacher and a student.
 
@@ -14,7 +27,7 @@ The seminar is devoted to deep learning model distillation. We discuss the align
 
 **Date:** 13.12.2021
 
-**Speaker**: [Roman Isachenko](../../people/isachenko_rv)
+**Speaker:** [Roman Isachenko](../../people/isachenko_rv)
 
 The seminar is devoted to the problem of reducing the dimension of space when solving the problem of signal decoding. The decoding process consists in restoring the relationship between two heterogeneous datasets. A feature of the problem is the presence of hidden dependencies not only in the source signals, but also in the target ones. We propose dimension reduction methods that allow using dependencies in the source and target spaces.
 
@@ -27,7 +40,7 @@ The seminar is devoted to the problem of reducing the dimension of space when so
 
 **Date:** 8.07.2021
 
-**Speaker**: [Maxim Panov](https://faculty.skoltech.ru/people/maximpanov)
+**Speaker:** [Maxim Panov](https://faculty.skoltech.ru/people/maximpanov)
 
 Maxim Panov (Associate Professor at Skoltech) will tell at the seminar what Uncertainty is in Bayesian inference.
 
