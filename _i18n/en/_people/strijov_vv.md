@@ -2,7 +2,7 @@ Vadim Strijov is a professor at the Moscow Institute of Physics and Technology. 
 
 **Professional interests:** multivariate statistics, machine learning, functional data analysis, model generation and selection, Bayesian multimodeling, spatial time series analysis, biomedical signal analysis.
 
-**Основные публикации**
+**Selected papers**
 * Grabovoy A.V., Strijov V.V. Bayesian distilling of deep learning models // Automation and Remote Control, 2021, 10(82): 1846–1856. [DOI](https://doi.org/10.1134/S0005117921110023)
 * Bakhteev O.Y., Strijov V.V. [Comprehensive analysis of gradient-based hyperparameter optimization algorithmss](http://strijov.com/papers/Bakhteev2017Hypergrad.pdf) // Annals of Operations Research, 2020: 1-15. [DOI](https://doi.org/10.1007/s10479-019-03286-z)
 * Isachenko R.V., Strijov V.V. [Quadratic Programming Optimization with Feature Selection for Non-linear Models](https://link.springer.com/epdf/10.1134/S199508021809010X?author_access_token=Q-A4oqH27ACp4eqxC6FQM0ckSORA_DxfnEvY7GoQybbLXPk3x1qhoVWucZF2dso06f2ZdC5tLu64l_mTFC7nJEYFBhu5hMujsHHoiV01BH1MVkcRIRkC12mEMVlPJQUuwfFeLafZ5-vBGVwVcKewSA%3D%3D) // Lobachevskii Journal of Mathematics, 2018, 39(9): 1179-1187. [DOI](https://link.springer.com/epdf/10.1134/S199508021809010X)
