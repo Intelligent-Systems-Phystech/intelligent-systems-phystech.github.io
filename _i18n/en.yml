@@ -119,6 +119,7 @@ courses:
     probabilistic_topic_models: Probabilistic Topic Models
     software_engineering_data_analysis: Software Engineering for Data Analysis
     neural_architecture_search: Neural Architecture Search
+    fundamental_theorems: Fundamental Theorems of Machine Learning
     signal_processing: Signal Processing
     rnd_in_ai: Creation of Intelligent Systems
       
