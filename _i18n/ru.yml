@@ -102,6 +102,7 @@ courses:
     software_engineering_data_analysis: Программная инженерия для анализа данных
     neural_architecture_search: Поиск нейросетевых архитектур
     signal_processing: Обработка сигналов
+    fundamental_theorems: Фундаментальные теоремы машинного обучения
     rnd_in_ai: Создание интеллектуальных систем
   title:
     networks_text_analysis: Анализ сетей и текстов
