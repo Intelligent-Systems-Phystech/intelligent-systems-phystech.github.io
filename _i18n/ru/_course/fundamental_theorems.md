@@ -1,22 +1,30 @@
-### About
-The course is devoted to the use of methods of mathematical modelling and theoretical physics in signal processing. It applies methods for machine learning model selection to various types of signals: image, video and sound. It discusses techniques to construct systems of heterogenous signal models.
+### О курсе
+Цель курса – научиться строго формулировать задачи машинного обучения и показать роль математического подхода. Навыки, полученные на этом курсе являются основой при написании квалификационных работ бакалавра, магистра и кандидата наук. Курс включает обсуждение аксиоматических систем, теорем и их доказательств, имеющих значение в машинном обучении. Обсуждается их влияние на практические приложения.
 
-### Syllabus
-* Multi-view, kernels and metric spaces, RKHS for brain Imaging.
-* Spherical harmonics for mechanical motion modelling.
-* Riemannian geometry on Shapes and diffeomorphisms for fMRI.
-* Manifolds, Levi-Chivita connection and curvature tensors.
-* Differential forms and fibre bundles with examples.
-* Navier-Stokes equations and viscous flow.
-* Geometric algebra, exterior product and quaternions.
-* Graph convolution and continuous Laplace operators, diffusion models.
-* Homology and cohomology, differential forms for model ensembling.
+### Тематический план
+* Теорема Гаусса-Маркова
+* Теорема о сингулярном разложении
+* Метод главных компонент и разложение Карунена-Лоэва
+* Теорема Каруша-Куна-Таккера 
+* Теоремы Колмогорова и Арнольда, теорема об универсальном аппроксиматоре Цыбенко, теорема о глубоких нейросетях
+* Теорема о бесплатных обедах в машинном обучении, Волперт
+* Метрические пространства: RKHS Аронжайн, теорема Мерсера
+* Теорема схем, Холланда
+* Теорема о свертке, теорема Парсеваля 
+* РАС-learning, сжатие предполагает обучаемость
+* Теорема представлений
+* Теоремы о бустинге, бутстрепе
+* Вариационная аппроксимация
+* Теорема о вложениях Такенса
+* Теоремы Грина, Стокса, де Рама в геометрическом обучении
 
-### Labworks
-Two personal labworks on video signals include the problem statement and the  computational experiment. The delivery is a two-page report with the problem and experimental results, a code and a talk.
 
-### Grading
-Questionnaires during lectures (3), two labworks (2+2), the final exam: topics and problems with discussion (3).
+### Самостоятельная работа
+Подготовка и чтение докладов с формулировками, доказательствами и способами применения, значимостью, теорем
 
-### Prerequisites
-Algebra, analysis and physics at the postgraduate level.
+
+### Оценивание
+Оценивается качество докладов и качество вопросов к докладчику каждого студента
+
+### Требуемые знания
+Алгебра и анализ третьего курса МФТИ
