@@ -4,7 +4,7 @@ name: peoples.name
 edit: true
 position: phd
 avatar: isachenko_rv.jpg
-mail:
+mail: roman.isachenko(at)phystech.edu
 site:
 scholar: scholar.google.com/citations?hl=ru&user=Y5W_zrEAAAAJ
 orcid:
