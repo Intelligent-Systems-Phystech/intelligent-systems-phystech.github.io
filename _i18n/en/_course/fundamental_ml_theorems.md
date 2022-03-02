@@ -3,7 +3,7 @@ The goal of the course is to learn how to rigorously formulate machine learning 
 
 ### Syllabus
 * Gauss-Markov theorem
-* Singular value theorem
+* Singular Value Decomposition theorem
 * Principal Component Analysis and Karhunen-Loeve Decomposition
 * Karush-Kuhn-Tucker theorem and optimization
 * Kolmogorov and Arnold theorems, Tsybenko universal approximator theorem, deep neural network theorem
@@ -19,7 +19,7 @@ The goal of the course is to learn how to rigorously formulate machine learning 
 * Green, Stokes, deRham theorems in geometric learning
 
 ### Labworks
-Presentation of the  formulations, proofs and methods of application, significance, of theorems.
+Presentation of the formulations, proofs and methods of application, significance, of theorems.
 
 ### Grading
 The quality of presentations and the quality of questions to the speaker from each student.
