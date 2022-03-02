@@ -8,4 +8,4 @@ lecturers: strijov_vv
 site: 
 ---
 
-{% tf _course/fundamental_ml_theorems %}
+{% tf _course/fundamental_ml_theorems.md %}
