@@ -121,7 +121,7 @@ courses:
     natural_language_processing: Математические методы анализа текстов
     probabilistic_topic_models: Вероятностные тематические модели
     rnd_in_ai: Создание интеллектуальных систем
-    signal_processing: Обработка сигналов
+    signal_processing: Обработка сигналов и многомерных массивов данных
     software_engineering_data_analysis: Программная инженерия для анализа данных
       
 titles:
