@@ -38,7 +38,7 @@ Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [
 * [Start of classes at MIPT](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
 ### Session
-* April 18, 17:00 listening to the second course
+* April 18, Monday 17:00 admisstion for the 2nd and 4th year students 
 * April 28, Wednesday 17:00 listening to theses 4 and 6
 * May 17-23 test week 3-6
 * May 18, Wednesday 18:00: Research and practice 3-6, graduate students

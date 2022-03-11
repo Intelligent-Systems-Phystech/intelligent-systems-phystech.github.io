@@ -86,41 +86,43 @@ peoples:
       
 courses:
   name:
-    networks_text_analysis: Networks and Text Analysis
-    bioinformatics: Bioinformatics
-    bayesian_multimodeling: Bayesian Multimodeling
+    automation_scientific_research: Automation of Scientific Research
     bayesian_model_selection: Bayesian Model Selection
+    bayesian_multimodeling: Bayesian Multimodeling
+    bioinformatics: Bioinformatics
     computational_geometry: Computational Geometry
-    deep_learning: Deep Learning
     deep_generative_models: Deep Generative Models
-    image_processing_recognition: Image Processing and Recognition
-    automation_scientific_research: Automation of Scientific Research
-    introduction_machine_learning: Introduction to Machine Learning
+    deep_learning: Deep Learning
     forecasting_methods: Forecasting Methods
+    fundamental_ml_theorems: Fundamental Machine Learning Theorems
+    image_processing_recognition: Image Processing and Recognition
+    introduction_machine_learning: Introduction to Machine Learning
     natural_language_processing: Natural Language Processing
-    probabilistic_topic_models: Probabilistic Topic Models
-    software_engineering_data_analysis: Software Engineering for Data Analysis
-    neural_architecture_search: Neural Architecture Search
-    signal_processing: Signal Processing
-    rnd_in_ai: Creation of Intelligent Systems
-  title:
     networks_text_analysis: Networks and Text Analysis
-    bioinformatics: Bioinformatics
-    bayesian_multimodeling: Bayesian Multimodeling
-    bayesian_model_selection: Bayesian Model Selection
-    computational_geometry: Computational Geometry Algorithms
-    deep_learning: Deep Learning
-    deep_generative_models: Deep Generative Models
-    image_processing_recognition: Image Processing and Recognition
-    automation_scientific_research: Automation of Scientific Research
-    introduction_machine_learning: Introduction to Machine Learning
-    forecasting_methods: Forecasting Methods
-    natural_language_processing: Natural Language Processing
-    probabilistic_topic_models: Probabilistic Topic Models
-    software_engineering_data_analysis: Software Engineering for Data Analysis
     neural_architecture_search: Neural Architecture Search
-    signal_processing: Signal Processing
+    probabilistic_topic_models: Probabilistic Topic Models
     rnd_in_ai: Creation of Intelligent Systems
+    signal_processing: Signal Processing
+    software_engineering_data_analysis: Software Engineering for Data Analysis
+  title:
+    automation_scientific_research: Automation of Scientific Research
+    bayesian_model_selection: Bayesian Model Selection
+    bayesian_multimodeling: Bayesian Multimodeling
+    bioinformatics: Bioinformatics
+    computational_geometry: Computational Geometry Algorithms
+    deep_generative_models: Deep Generative Models
+    deep_learning: Deep Learning
+    forecasting_methods: Forecasting Methods
+    fundamental_ml_theorems: Fundamental Machine Learning Theorems
+    image_processing_recognition: Image Processing and Recognition
+    introduction_machine_learning: Introduction to Machine Learning
+    natural_language_processing: Natural Language Processing
+    networks_text_analysis: Networks and Text Analysis
+    neural_architecture_search: Neural Architecture Search
+    probabilistic_topic_models: Probabilistic Topic Models
+    rnd_in_ai: Creation of Intelligent Systems
+    signal_processing: Signal Processing
+    software_engineering_data_analysis: Software Engineering for Data Analysis
       
 titles:
   index: Intelligent Systems Phystech

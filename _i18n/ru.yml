@@ -86,41 +86,43 @@ peoples:
 
 courses:
   name:
-    networks_text_analysis: Анализ сетей и текстов
-    bioinformatics: Биоинформатика
-    bayesian_multimodeling: Байесовское мультимоделирование
-    bayesian_model_selection: Байесовский выбор моделей
-    computational_geometry: Алгоритмы вычислительной геометрии
-    deep_learning: Методы глубокого обучения
-    deep_generative_models: Порождающие модели машинного обучения
-    image_processing_recognition: Обработка и распознавание изображений
     automation_scientific_research: Автоматизация научных исследований
+    bayesian_model_selection: Байесовский выбор моделей
+    bayesian_multimodeling: Байесовское мультимоделирование
+    bioinformatics: Биоинформатика
+    computational_geometry: Алгоритмы вычислительной геометрии
+    deep_generative_models: Порождающие модели машинного обучения
+    deep_learning: Методы глубокого обучения
+    image_processing_recognition: Обработка и распознавание изображений
     introduction_machine_learning: Введение в машинное обучение
     forecasting_methods: Математические методы прогнозирования
+    fundamental_ml_theorems: Фундаментальные теоремы машинного обучения
     natural_language_processing: Математические методы анализа текстов
-    probabilistic_topic_models: Вероятностные тематические модели
-    software_engineering_data_analysis: Программная инженерия для анализа данных
+    networks_text_analysis: Анализ сетей и текстов
     neural_architecture_search: Поиск нейросетевых архитектур
-    signal_processing: Обработка сигналов
+    probabilistic_topic_models: Вероятностные тематические модели
     rnd_in_ai: Создание интеллектуальных систем
+    signal_processing: Обработка сигналов
+    software_engineering_data_analysis: Программная инженерия для анализа данных
   title:
-    networks_text_analysis: Анализ сетей и текстов
-    bioinformatics: Биоинформатика
-    bayesian_multimodeling: Байесовское мультимоделирование
-    bayesian_model_selection: Байесовский выбор моделей
-    computational_geometry: Алгоритмы вычислительной геометрии
-    deep_learning: Методы глубокого обучения
-    deep_generative_models: Порождающие модели машинного обучения
-    image_processing_recognition: Обработка и распознавание изображений
     automation_scientific_research: Автоматизация научных исследований
-    introduction_machine_learning: Введение в машинное обучение
+    bayesian_model_selection: Байесовский выбор моделей
+    bayesian_multimodeling: Байесовское мультимоделирование
+    bioinformatics: Биоинформатика
+    computational_geometry: Алгоритмы вычислительной геометрии
+    deep_generative_models: Порождающие модели машинного обучения
+    deep_learning: Методы глубокого обучения
     forecasting_methods: Математические методы прогнозирования
+    fundamental_ml_theorems: Фундаментальные теоремы машинного обучения
+    image_processing_recognition: Обработка и распознавание изображений
+    introduction_machine_learning: Введение в машинное обучение
+    networks_text_analysis: Анализ сетей и текстов
+    neural_architecture_search: Поиск нейросетевых архитектур
     natural_language_processing: Математические методы анализа текстов
     probabilistic_topic_models: Вероятностные тематические модели
-    software_engineering_data_analysis: Программная инженерия для анализа данных
-    neural_architecture_search: Поиск нейросетевых архитектур
-    signal_processing: Обработка сигналов
     rnd_in_ai: Создание интеллектуальных систем
+    signal_processing: Обработка сигналов и многомерных массивов данных
+    software_engineering_data_analysis: Программная инженерия для анализа данных
       
 titles:
   index: Интеллектуальные системы
