@@ -1,3 +1,15 @@
+### Встреча с Романом Сологубом, выпускником Кафедры интеллектуальных систем МФТИ, 2010
+
+**Дата:** 11.03.2022 
+
+**Гость:** [Роман Сологуб](https://www.linkedin.com/in/roman-sologub-phd-86038648/)
+
+Роман ---  канд. физ.-мат. наук., выпускник кафедры 2010, финансовый аналитик из Лондона.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFaW1Vu7zfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Встреча с выпускниками Кафедры интеллектуальных систем МФТИ, 2013
 
 **Дата:** 17.02.2022 

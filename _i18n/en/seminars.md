@@ -1,3 +1,15 @@
+### Meeting with Roman Sologub, alumnus of the MIPT Department of Intelligent Systems, 2010 [In Russian]
+
+**Date:** 11.03.2022 
+
+**Guest:** [Roman Sologub](https://www.linkedin.com/in/roman-sologub-phd-86038648/)
+
+Roman Sologub is a candidate of physical and mathematical sciences. He is a financial analyst from London.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFaW1Vu7zfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Meeting with alumni of the MIPT Department of Intelligent Systems, 2013 [In Russian]
 
 **Date:** 17.02.2022 
