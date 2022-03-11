@@ -8,7 +8,8 @@ Roman Sologub is a candidate of physical and mathematical sciences. He is a fina
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RFaW1Vu7zfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<hr>
+<br>
 
 ### Meeting with alumni of the MIPT Department of Intelligent Systems, 2013 [In Russian]
 
@@ -22,6 +23,8 @@ The alumni of the department are engaged in research in the field of machine lea
 * Nikita Ivkin: PhD Johns Hopkins University, researcher at Amazon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LvlPDQUlUFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<br>
 
 ### Prior Distribution of Parameters in Deep Learning Model Selection Problem [In Russian]
 
@@ -57,3 +60,4 @@ The seminar is devoted to the problem of reducing the dimension of space when so
 Maxim Panov (Associate Professor at Skoltech) will tell at the seminar what Uncertainty is in Bayesian inference.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-p_qSLzoAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

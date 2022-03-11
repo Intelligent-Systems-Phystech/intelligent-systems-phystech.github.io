@@ -8,7 +8,8 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RFaW1Vu7zfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<hr>
+<br>
 
 ### Встреча с выпускниками Кафедры интеллектуальных систем МФТИ, 2013
 
@@ -22,7 +23,8 @@
 * Никита Ивкин – PhD Johns Hopkins University, сотрудник Amazon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LvlPDQUlUFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<hr>
+<br>
 
 ### Априорное распределение параметров в задачах выбора моделей глубокого обучения
 
@@ -36,6 +38,7 @@
 
 <hr>
 <br>
+
 ###  Снижение размерности пространства в задачах декодирования сигналов 
 
 **Дата:** 13.12.2021
@@ -49,6 +52,7 @@
 
 <hr>
 <br>
+
 ###  Uncertainty, Out-of-distribution detection for NNs 
 
 **Дата:** 8.07.2021
