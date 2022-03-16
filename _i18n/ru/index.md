@@ -8,7 +8,9 @@
 - [Научные и учебные проекты](https://m1p.org)
 
 ### Расписание занятий, весенний семестр
-Каналы для занятий: бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom), магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+**Каналы для занятий:** 
+* бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
+* магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	[Моя первая научная статья](https://intelligent-systems-phystech.github.io/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](https://intelligent-systems-phystech.github.io/ru/people/strijov_vv/index.html), [Грабовой А.В.](https://intelligent-systems-phystech.github.io/ru/people/grabovoy_av/index.html))
