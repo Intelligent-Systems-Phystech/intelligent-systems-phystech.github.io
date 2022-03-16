@@ -8,7 +8,9 @@
 - [Scientific and educational projects](https://m1p.org)
 
 ### Schedule, Spring
-Online channels: bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom), masters [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+**Online channels:** 
+* bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom)
+* masters [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 #### 3rd year, 6th semester – thursday
 * 10:30–12:00,	[Automation of Scientific Research](https://intelligent-systems-phystech.github.io/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](https://intelligent-systems-phystech.github.io/people/strijov_vv/index.html), [Andrey Grabovoy](https://intelligent-systems-phystech.github.io/people/grabovoy_av/index.html))
