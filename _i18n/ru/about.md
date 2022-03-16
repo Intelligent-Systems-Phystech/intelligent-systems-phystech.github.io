@@ -58,5 +58,5 @@
 
 ### Приходите к нам учиться и заниматься научными исследованиями в области машинного обучения!
 - [О поступлении](/ru/admission/)
-- [Скачать страницу о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/IS_Slides.pdf)
+- [Скачать страницу о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Intelligent_Systems_MIPT.pdf)
 - [Скачать презентацию о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/IS_Slides.pdf)
