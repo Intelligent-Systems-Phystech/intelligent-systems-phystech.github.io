@@ -18,7 +18,8 @@ site:
       nir: "research reports"
       templates: "templates"
       seminars: "seminars"
-
+      paper_guidelines: "scientific paper writing"        
+  
   global:
     course:
       types:
@@ -31,6 +32,7 @@ site:
         phd: Ph.D, teachers
         gs: Graduate Students, Instructors
         template: TEMPLATE
+
 
 peoples:
   name:
@@ -132,6 +134,7 @@ titles:
   materials: Materials
   nir: Research Reports
   templates: Templates
+  paper_guidelines: "Papers and theses writing guidelines"
   admission: Admission
   seminars: Scientific seminars
 

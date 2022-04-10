@@ -79,6 +79,9 @@ nav:
     - id: "seminars"
       href: "/materials/seminars"
       name: site.nav.names.seminars
+    - id: "paper_guidelines"
+      href: "/materials/paper_guidelines"
+      name: site.nav.names.paper_guidelines
 
 # Scopes
 defaults:
