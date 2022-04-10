@@ -18,6 +18,7 @@ site:
       nir: "отчеты нир"
       templates: "заготовки"
       seminars: "семинары"
+      paper_guidelines: "Как писать научные работы"      
 
   global:
     course:
@@ -134,6 +135,7 @@ titles:
   templates: Заготовки
   admission: Поступающим
   seminars: "Научные семинары"
+  paper_guidelines: "Рекомендации по написанию ВКР и научных работ"
 
 course:
   teachers: Преподаватели
