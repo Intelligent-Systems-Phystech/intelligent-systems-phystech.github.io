@@ -1,6 +1,8 @@
 ### Date of admission in 2022
 Monday, April 18th at 17:00 MSK, [the zoom address m1p.org/go_zoom](https://m1p.org/go_zoom)
 
+[The list of students to admisstion is here](https://docs.google.com/spreadsheets/d/1dU-QU9wTlV-V3nvOg8lQFxKHJo72F4I1vDZN031imUY/edit?usp=sharing)
+
 ### Algorithm of admission:
 
 1) A student fills in the [form](http://bit.ly/1lFrFha),
