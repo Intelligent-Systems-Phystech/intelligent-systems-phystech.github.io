@@ -2,6 +2,8 @@
 
 ## Весна 2022: Собеседование состоится 18 апреля в 17:00 по адресу [m1p.org/go_zoom](https://m1p.org/go_zoom)
 
+## [Список выступающих тут](https://docs.google.com/spreadsheets/d/1dU-QU9wTlV-V3nvOg8lQFxKHJo72F4I1vDZN031imUY/edit?usp=sharing)
+
 ## Алгоритм поступления:
 
 1. студент заполняет [анкету](http://bit.ly/1lFrFha);
