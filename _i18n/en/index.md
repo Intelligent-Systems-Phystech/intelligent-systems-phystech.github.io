@@ -41,7 +41,7 @@
 
 ### Session
 * April 18, Monday 17:00 admisstion for the 2nd and 4th year students 
-* April 28, Wednesday 17:00 listening to theses 4 and 6
+* April 28, Thursday 17:00 listening to theses 4 and 6
 * May 17-23 test week 3-6
 * May 18, Wednesday 18:00: Research and practice 3-6, graduate students
 * June 1, Wednesday 15:00: pre-defense 6
