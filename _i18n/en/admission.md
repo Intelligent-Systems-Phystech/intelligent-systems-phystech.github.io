@@ -1,4 +1,4 @@
-### The 2022 admission to Master's programme will be anounce in May or June at your request
+### The 2022 admission to Master's programme will be anounced in May or June at your request
  
 Monday, April 18th at 17:00 MSK, [the zoom address m1p.org/go_zoom](https://m1p.org/go_zoom)
 
