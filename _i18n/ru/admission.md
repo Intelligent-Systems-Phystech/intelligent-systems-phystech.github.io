@@ -1,8 +1,9 @@
 # Распределение студентов на специализацию «Интеллектуальный анализ данных»
 
-## Весна 2022: Собеседование состоится 18 апреля в 17:00 по адресу [m1p.org/go_zoom](https://m1p.org/go_zoom)
+## Весна 2022: Собеседование 4 курса (МФТИ и внешние) состоится ?? мая или июня апреля ПО ЗАПРОСУ ОТ ПОСТУПАЮЩИХ
 
-## [Список выступающих тут](https://docs.google.com/spreadsheets/d/1dU-QU9wTlV-V3nvOg8lQFxKHJo72F4I1vDZN031imUY/edit?usp=sharing)
+* Весна 2022: Собеседование 18 апреля в 17:00 по адресу [m1p.org/go_zoom](https://m1p.org/go_zoom)
+* [Список выступающих тут](https://docs.google.com/spreadsheets/d/1dU-QU9wTlV-V3nvOg8lQFxKHJo72F4I1vDZN031imUY/edit?usp=sharing)
 
 ## Алгоритм поступления:
 
