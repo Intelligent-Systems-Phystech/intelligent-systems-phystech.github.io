@@ -1,3 +1,23 @@
+### Встреча с Никитой Животовским, выпускником Кафедры интеллектуальных систем МФТИ, 2013
+
+**Дата:** 21.04.2022 
+
+**Гость:** [Никита Животовский](https://www.linkedin.com/in/nikita-zhivotovskiy-06816597/) ---  канд. физ.-мат. наук.,  выпускник кафедры 2013, исследователь Google Research, Zürich.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHQ4B8vsYWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<br>
+
+### Встреча с Кириллом Павловым, выпускником Кафедры интеллектуальных систем МФТИ, 2012
+
+**Дата:** 27.03.2022 
+
+**Гость:** [Кирилл Павлов](https://www.linkedin.com/in/pavlov99/) ---  выпускник кафедры 2012, исследователь.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzRd_-1fpLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<br>
+
 ### Встреча с Романом Сологубом, выпускником Кафедры интеллектуальных систем МФТИ, 2010
 
 **Дата:** 11.03.2022 

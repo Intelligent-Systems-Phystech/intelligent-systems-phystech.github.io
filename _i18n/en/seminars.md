@@ -1,3 +1,24 @@
+### Meetinig with Nikita Zhivotovskiy, alumnus of the MIPT Department of Intelligent Systems, 2013 [In Russian]
+
+**Date:** 21.04.2022 
+
+**Guest:** [Nikita Zhivotovskiy](https://www.linkedin.com/in/nikita-zhivotovskiy-06816597/) is a candidate of physical and mathematical sciences. He is a researcher at Google Research, Zürich.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHQ4B8vsYWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<br>
+
+### Meeting with Kirill Pavlov, alumnus of the MIPT Department of Intelligent Systems, 2012 [In Russian]
+
+**Date:** 27.03.2022 
+
+**Guest:** [Kirill Pavlov](https://www.linkedin.com/in/pavlov99/) is an  alumnus, 2012, researcher.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzRd_-1fpLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<br>
+
+
 ### Meeting with Roman Sologub, alumnus of the MIPT Department of Intelligent Systems, 2010 [In Russian]
 
 **Date:** 11.03.2022 
