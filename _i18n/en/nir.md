@@ -26,6 +26,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Anton Pilkevich | 4 | Optimization of the criterion given by the neural network model in the text detoxification task | [Strijov V.V.](http://www.ccas.ru/strijov/) (Popov A.S.) |[Code](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis), [Slides](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis/blob/master/docs/pres.pdf), Paper(coming soon)|
+|Konstantin Yakovlev|4| Selection of concordant architectures with complexity control | Bakhteev O.Y. | [Code](https://github.com/Intelligent-Systems-Phystech/DARTS-CC), [Slides](https://github.com/Intelligent-Systems-Phystech/Yakovlev-BS-Thesis/raw/master/slides/main.pdf)|
 
 ### 2021 FALL
 
