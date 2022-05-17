@@ -16,6 +16,7 @@
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+| Rustem Islamov | 1 | Basis Matters: Better Communication-Efficient Second Order Methods for Federated Learning | [Richtarik P.](https://richtarik.org/) [Strijov V.V.](http://strijov.com/papers_en.html) | [Paper](https://proceedings.mlr.press/v151/qian22a.html), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-MS-Thesis/tree/master/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-MS-Thesis/blob/master/Presentation/Basis%20Learning%20Presentation.pdf) |
 
 #### Fourth Year Bachelor Students
 
