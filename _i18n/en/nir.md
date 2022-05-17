@@ -4,6 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+| Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg) |
 | Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
 
 #### Second Year Master Students
@@ -12,6 +13,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Petr Mokrov | 2 | Wasserstein gradient flows: modeling and applications | [Burnaev E.V.](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=en) | [Paper](https://proceedings.neurips.cc/paper/2021/file/810dfbbebb17302018ae903e9cb7a483-Paper.pdf), [Code](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows), [Slides](https://drive.google.com/file/d/1sv6dzVRVDRuiiiAeePgFDI1fgx7FtvFz/view?usp=sharing) |
 | Denis Tikhonov | 2 | Quasiperiodic time signals classification with spherical harmonics | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Denis-Tihonov/MsThesis/blob/main/Paper/Tikhonov2022Classification_rus.pdf), Code, [Slides](https://github.com/Denis-Tihonov/MsThesis/blob/main/Slides/Tikhonov2022ClassificationPresentation.pdf) |
+| Natalia Varenik | 2 | Building a connectivity map of functional groups in the problem of decoding brain signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Intelligent-Systems-Phystech/Varenik-MS-Thesis/blob/master/paper/Varenik2022master_thesis.pdf), [Code](https://github.com/Intelligent-Systems-Phystech/Varenik-MS-Thesis/tree/master/code), [Slides](https://github.com/Intelligent-Systems-Phystech/Varenik-MS-Thesis/blob/master/slides/master_thesis_presentation.pdf) |
 
 #### First Year Master Students
 
