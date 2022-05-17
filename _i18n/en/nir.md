@@ -10,6 +10,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Petr Mokrov | 2 | Wasserstein gradient flows: modeling and applications | [Burnaev E.V.](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=en) | [Paper](https://proceedings.neurips.cc/paper/2021/file/810dfbbebb17302018ae903e9cb7a483-Paper.pdf), [Code](https://github.com/PetrMokrov/Large-Scale-Wasserstein-Gradient-Flows), [Slides](https://drive.google.com/file/d/1sv6dzVRVDRuiiiAeePgFDI1fgx7FtvFz/view?usp=sharing) |
+| Denis Tikhonov | 2 | Quasiperiodic time signals classification with spherical harmonics | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Denis-Tihonov/MsThesis/blob/main/Paper/Tikhonov2022Classification_rus.pdf), Code, [Slides](https://github.com/Denis-Tihonov/MsThesis/blob/main/Slides/Tikhonov2022ClassificationPresentation.pdf) |
 
 #### First Year Master Students
 
