@@ -4,6 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+| Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg)
 
 #### Second Year Master Students
 
