@@ -4,7 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg) |
+| Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg), [Slides](https://www.overleaf.com/read/yjcdsfkscykt)|
 | Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
 
 #### Second Year Master Students
