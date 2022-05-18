@@ -23,6 +23,7 @@
 | Rustem Islamov | 1 | Basis Matters: Better Communication-Efficient Second Order Methods for Federated Learning | [Richtarik P.](https://richtarik.org/), [Strijov V.V.](http://strijov.com/papers_en.html) | [Paper](https://proceedings.mlr.press/v151/qian22a.html), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-MS-Thesis/tree/master/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-MS-Thesis/blob/master/Presentation/Islamov-MS-Presentation-2022.pdf) |
 | Bishuk Anton | 1 | Controlled graph generation using the variational autoencoder model |[Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q)|[Report](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public/blob/master/abstract.pdf)|
 | Grebenkova Olga | 1 | Automated detection of focal cortical dysplasia |[Burnaev E](https://faculty.skoltech.ru/people/evgenyburnaev) |[Slides](https://github.com/Intelligent-Systems-Phystech/Grebenkova-BS-Thesis/blob/main/Grebenkova2020OptimizationSlides.pdf) |
+| Filatov Andrei | 1 | Novel view synthesis|[Lempitsky V] |[Slides](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis/blob/master/FilatovAndreiS10.pdf) [Code](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis) |
 
 #### Fourth Year Bachelor Students
 
