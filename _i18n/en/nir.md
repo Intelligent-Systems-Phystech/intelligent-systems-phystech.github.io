@@ -6,6 +6,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Andrey Grabovoy | 1 | Bayesian Distilation | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/andriygav/PhDThesis), [Thesis](https://www.frccsc.ru/sites/default/files/docs/ds/002-073-05/diss/35-grabovoy/ds05-35-grabovoy_main.pdf?90)|
 | Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg), [Slides](https://www.overleaf.com/read/yjcdsfkscykt)|
+| Polina Potapova | 2 | Topic modeling for multilingual topic search | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.overleaf.com/9773112327qphbychmbmjp), [Code](https://github.com/machine-intelligence-laboratory/text_categorization) | 
 | Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
 
 #### Second Year Master Students
