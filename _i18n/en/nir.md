@@ -26,7 +26,7 @@
 | Bishuk Anton | 1 | Controlled graph generation using the variational autoencoder model |[Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q)|[Report](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public/blob/master/abstract.pdf)|
 | Grebenkova Olga | 1 | Automated detection of focal cortical dysplasia |[Burnaev E](https://faculty.skoltech.ru/people/evgenyburnaev) |[Slides](https://github.com/Intelligent-Systems-Phystech/Grebenkova-BS-Thesis/blob/main/Grebenkova2020OptimizationSlides.pdf) |
 | Filatov Andrei | 1 | Novel view synthesis|Lempitsky Victor |[Slides](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis/blob/master/FilatovAndreiS10.pdf) [Code](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis) |
-| Safiullin Robert | 1 | Multimodel representation of dynamic systems | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/roberts2510/MSThesis_2/blob/main/code/code.ipynb), [Slides](https://github.com/roberts2510/MSThesis_2/blob/main/slides/SafiullinMS_slides_2.pdf)|
+| Safiullin Robert | 1 | Multimodel representation of dynamic systems | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Safiullin-MS-Thesis/blob/master/code/code.ipynb), [Slides](https://github.com/Intelligent-Systems-Phystech/Safiullin-MS-Thesis/blob/master/slides/SafiullinMS_slides_2.pdf)|
 
 #### Fourth Year Bachelor Students
 
