@@ -81,7 +81,7 @@
 | Pankratov Viktor| 1| Topic balancing of topic models|  [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Report](https://github.com/PankratovViktor/Pankratov_BS_Thesis/blob/main/Pankratov_Report_S9_2021.pdf),[Code](https://github.com/PankratovViktor/Pankratov_BS_Thesis/tree/main/pyartm)|
 | Filatov Andrei| 1| Task Discovery | [Victor Lempitsky](https://faculty.skoltech.ru/people/victorlempitsky) [Strijov V.V.](http://www.ccas.ru/strijov/) |[Report](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis/blob/master/FilatovAndrei(S9)2021.pdf) |
 | Bishuk Anton | 1 | Controlled graph generation using the variational autoencoder model |[Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q)|[Report](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public/blob/master/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80-%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B.pdf)|
-| Shokorov Viacheslav | 1 | Bootstrapping of neural network ensembles |Vetrov D.P.|[Report](https://github.com/vshokorov/power_laws_deep_ensembles/blob/main/reports/VKR_maga_v1.pdf) [Code](https://github.com/vshokorov/power_laws_deep_ensembles)|
+| Shokorov Viacheslav | 1 | Bootstrapping of neural network ensembles |Vetrov D.P.|[Report](https://github.com/vshokorov/power_laws_deep_ensembles/blob/main/reports/VKR_maga_v2.pdf) [Code](https://github.com/vshokorov/power_laws_deep_ensembles)|
 
 #### Fourth Year Bachelor Students
 
