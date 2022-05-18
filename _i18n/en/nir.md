@@ -30,6 +30,7 @@
 | Filatov Andrei | 1 | Novel view synthesis|Lempitsky Victor |[Slides](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis/blob/master/FilatovAndreiS10.pdf) [Code](https://github.com/Intelligent-Systems-Phystech/Filatov-MS-Thesis) |
 | Safiullin Robert | 1 | Multimodel representation of dynamic systems | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Safiullin-MS-Thesis/blob/master/code/code.ipynb), [Slides](https://github.com/Intelligent-Systems-Phystech/Safiullin-MS-Thesis/blob/master/slides/SafiullinMS_slides_2.pdf)|
 | Pankratov Viktor | 1 |  Topic balancing of topic models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Code](https://github.com/Intelligent-Systems-Phystech/Pankratov-MS-Thesis/blob/main/%D0%9D%D0%98%D0%A0_%D0%92%D0%B5%D1%81%D0%BD%D0%B02022_%D0%BA%D0%BE%D0%B4.ipynb), [Slides](https://github.com/Intelligent-Systems-Phystech/Pankratov-MS-Thesis/blob/main/slides_spring_2022.pdf)|
+| Shokorov Viacheslav | 1 | Bootstrapping of neural network ensembles |Vetrov D.P.|[Report](https://github.com/vshokorov/power_laws_deep_ensembles/blob/main/reports/VKR_maga_v1.pdf) [Code](https://github.com/vshokorov/power_laws_deep_ensembles)|
 
 #### Fourth Year Bachelor Students
 
