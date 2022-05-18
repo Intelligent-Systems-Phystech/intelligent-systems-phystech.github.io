@@ -32,6 +32,7 @@
 | Pankratov Viktor | 1 |  Topic balancing of topic models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | 
 [Code](https://github.com/PankratovViktor/Pankratov_BS_Thesis/blob/main/%D0%9D%D0%98%D0%A0_%D0%92%D0%B5%D1%81%D0%BD%D0%B02022_%D0%BA%D0%BE%D0%B4.ipynb), 
 [Slides](https://github.com/PankratovViktor/Pankratov_BS_Thesis/blob/main/slides_spring_2022.pdf) |
+
 #### Fourth Year Bachelor Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
