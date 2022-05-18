@@ -6,11 +6,12 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Andrey Grabovoy | 1 | Bayesian Distilation | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/andriygav/PhDThesis), [Thesis](https://www.frccsc.ru/sites/default/files/docs/ds/002-073-05/diss/35-grabovoy/ds05-35-grabovoy_main.pdf?90)|
 | Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg), [Slides](https://www.overleaf.com/read/yjcdsfkscykt)|
-| Polina Potapova | 2 | Topic modeling for multilingual topic search | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.overleaf.com/9773112327qphbychmbmjp), [Code](https://github.com/machine-intelligence-laboratory/text_categorization) |
-| Nikitin Filipp | 2 | Generation and selection of graph neural network models in the problem of organic chemistry | [Strijov V. V.](http://www.machinelearning.ru/wiki/index.php?title=User:Strijov) |  [Code](https://github.com/FilippNikitin/Space-of-graphs-of-chemical-reactions) | 
-| Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
+| Polina Potapova | 2 | Topic modeling for multilingual topic search | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.overleaf.com/9773112327qphbychmbmjp), [Code](https://github.com/machine-intelligence-laboratory/text_categorization) | 
 | Vasiliy Alekseev | 2 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Code (private)](https://github.com/machine-intelligence-laboratory/BasisConvs) |
+| Ostroukhov Petr | 3 | Tensor methods for convex optimization | [Gasnikov A.V.](https://scholar.google.ru/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao) | [Paper 1](http://crm.ics.org.ru/journal/article/3189/), [Paper 2](http://crm.ics.org.ru/journal/article/3190/) |
 | Kamil Safin | 3 | Combined methods for text plagiarism detection | Chehovich Y.V. | [Paper](https://ispranproceedings.elpub.ru/jour/article/view/1501/1320)|
+| Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
+
 
 #### Second Year Master Students
 
