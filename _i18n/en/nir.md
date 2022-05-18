@@ -4,6 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+| Andrey Grabovoy | 1 | Bayesian Distilation | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code]([https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis](https://github.com/andriygav/PhDThesis)), [Thesis]([https://www.overleaf.com/read/dmtgkgpnnjkg](https://www.frccsc.ru/sites/default/files/docs/ds/002-073-05/diss/35-grabovoy/ds05-35-grabovoy_main.pdf?90))|
 | Alina Samokhina | 1 | Continous-time representation for signal decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/Samokhina-PhD-Thesis), [Paper](https://www.overleaf.com/read/dmtgkgpnnjkg), [Slides](https://www.overleaf.com/read/yjcdsfkscykt)|
 | Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
 
