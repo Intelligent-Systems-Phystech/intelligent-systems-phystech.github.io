@@ -51,6 +51,7 @@
 |Antonina Kurdyukova|4| Dimensionality reduction of the phase space in canonical correlation analisys | Strijov V.V., Isachenko R.V. | [Code](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/code/ccm_accelerometer.ipynb), [Slides](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/slides/BSThesis_Kurdyukova_Slides.pdf), [Paper](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/docs/BSThesis_Kurdyukova__Copy_-3.pdf)|
 | Anton Pilkevich | 4 | Optimization of the criterion given by the neural network model in the text detoxification task | [Strijov V.V.](http://www.ccas.ru/strijov/) (Popov A.S.) |[Code](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis), [Slides](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis/blob/master/docs/pres.pdf), Paper(coming soon)|
 |Konstantin Yakovlev|4| Selection of concordant architectures with complexity control | Bakhteev O.Y. | [Code](https://github.com/Intelligent-Systems-Phystech/DARTS-CC), [Slides](https://github.com/Intelligent-Systems-Phystech/Yakovlev-BS-Thesis/raw/master/slides/main.pdf)|
+|Khristolyubov Maxim|4| Approximation of the phase trajectory of the time series | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/Intelligent-Systems-Phystech/DARTS-CC)], [Slides](https://github.com/Intelligent-Systems-Phystech/Yakovlev-BS-Thesis/raw/master/slides/main.pdf)]|
 
 ### 2021 FALL
 
