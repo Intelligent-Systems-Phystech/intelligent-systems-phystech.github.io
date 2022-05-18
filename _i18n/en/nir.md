@@ -21,7 +21,7 @@
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Rustem Islamov | 1 | Basis Matters: Better Communication-Efficient Second Order Methods for Federated Learning | [Richtarik P.](https://richtarik.org/), [Strijov V.V.](http://strijov.com/papers_en.html) | [Paper](https://proceedings.mlr.press/v151/qian22a.html), [Code](https://github.com/Intelligent-Systems-Phystech/Islamov-MS-Thesis/tree/master/Code), [Slides](https://github.com/Intelligent-Systems-Phystech/Islamov-MS-Thesis/blob/master/Presentation/Islamov-MS-Presentation-2022.pdf) |
-| Bishuk Anton | 1 | Controlled graph generation using the variational autoencoder model |[Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q)|[Report]([https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public/blob/master/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80-%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B.pdf](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public/blob/master/abstract.pdf))|
+| Bishuk Anton | 1 | Controlled graph generation using the variational autoencoder model |[Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q)|[Report](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public/blob/master/abstract.pdf)|
 
 #### Fourth Year Bachelor Students
 
