@@ -13,7 +13,7 @@
 | Kamil Safin | 3 | Combined methods for text plagiarism detection | Chehovich Y.V. | [Paper](https://ispranproceedings.elpub.ru/jour/article/view/1501/1320)|
 | Denis Kuznetsov | 3 | Neural network models of dialogue on general topics | [Burtsev M.S.](https://scholar.google.ru/citations?hl=ru&user=t_PLQakAAAAJ) | [Paper_1](https://drive.google.com/file/d/17PLgv8CTQvC0BkJq53Ct1t509lwVepUV/view?usp=sharing), [Paper_2](https://drive.google.com/file/d/1Gg1NUpwNLz42O0Zqp9JyPBSjI0ApzVYg/view?usp=sharing)|
 | Ilia Zharikov | 4 | Neural network methods for document image recognition | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Paper.pdf), [Code](https://github.com/MIL-Compression-Team/QuantInit), [Slides](https://github.com/MIL-Compression-Team/QuantInit/blob/dev/docs/Slides.pdf) | 
-
+| Alex Goncharov | 3 | Space-time series alignment models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Papers](https://scholar.google.com/citations?user=umbRPRkAAAAJ&hl=en), [Slides](https://github.com/lexix/Goncharov_PhDThesis/blob/main/Goncharov%20-%20Dissertation.pdf) | 
 
 #### Second Year Master Students
 
