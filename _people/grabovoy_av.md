@@ -2,7 +2,7 @@
 title: peoples.title.grabovoy_av
 name: peoples.name
 edit: true
-position: gs
+position: phd
 avatar: grabovoy_av.jpg
 mail: grabovoy.av@phystech.edu
 site: https:///andriygav.github.io
