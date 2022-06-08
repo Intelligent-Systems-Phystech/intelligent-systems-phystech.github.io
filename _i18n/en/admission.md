@@ -28,7 +28,7 @@ The admission will be anounced in **May, June or July** at your request to mlalg
 
 [Link](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
 
-#### Tips for solving problems (these are just tips, not directions)
+### Tips for solving problems (these are just tips, not directions)
 - A theoretical solution is more important than a practical one.
 - Write the theory yourself (do not copy the material from the lectures).
 - Visualize problem solving (freehand drawing is preferable to none).
