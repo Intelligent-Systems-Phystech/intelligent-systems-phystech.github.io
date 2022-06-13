@@ -12,8 +12,10 @@
 
 | Student | Topic | Scientific adviser | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|
+| TODO | TODO | [Strijov V.V.](TODO) | [Thesis](TODO)| [Slides](TODO)|
 
 #### Bachelor's Theses
 
 | Student | Topic | Scientific adviser | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|
+| TODO | TODO | [Strijov V.V.](TODO) | [Thesis](TODO)| [Slides](TODO)|
