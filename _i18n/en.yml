@@ -16,6 +16,7 @@ site:
       admission: "admission"
       materials: "materials"
       nir: "research reports"
+      thesis: "theses"
       templates: "templates"
       seminars: "seminars"
       paper_guidelines: "scientific paper writing"        
@@ -133,6 +134,7 @@ titles:
   people: Lecturers
   materials: Materials
   nir: Research Reports
+  thesis: Theses
   templates: Templates
   paper_guidelines: "Papers and theses writing guidelines"
   admission: Admission

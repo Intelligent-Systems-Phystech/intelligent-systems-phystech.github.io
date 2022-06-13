@@ -16,6 +16,7 @@ site:
       materials: "материалы"
       admission: "поступающим"
       nir: "отчеты нир"
+      thesis: "дипломы"
       templates: "заготовки"
       seminars: "семинары"
       paper_guidelines: "Как писать научные работы"      
@@ -132,6 +133,7 @@ titles:
   people: Преподаватели
   materials: Материалы
   nir: Отчеты нир
+  thesis: Дипломы
   templates: Заготовки
   admission: Поступающим
   seminars: "Научные семинары"

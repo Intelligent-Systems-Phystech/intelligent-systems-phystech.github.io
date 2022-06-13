@@ -73,6 +73,9 @@ nav:
     - id: "nir"
       href: "/materials/nir"
       name: site.nav.names.nir
+    - id: "thesis"
+      href: "/materials/thesis"
+      name: site.nav.names.thesis
     - id: "templates"
       href: "/materials/templates"
       name: site.nav.names.templates
