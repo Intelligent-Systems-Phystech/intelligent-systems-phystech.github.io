@@ -12,10 +12,10 @@
 
 | Student | Topic | Scientific adviser | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|
-| TODO | TODO | [TODO.T.D.](TODO) | [Thesis](TODO)| [Slides](TODO)|
+| TODO | TODO | [TODO T.D.](TODO) | [Thesis](TODO)| [Slides](TODO)|
 
 #### Bachelor's Theses
 
 | Student | Topic | Scientific adviser | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|
-| TODO | TODO | [TODO.T.D.](TODO) | [Thesis](TODO)| [Slides](TODO)|
+| TODO | TODO | [TODO T.D.](TODO) | [Thesis](TODO)| [Slides](TODO)|
