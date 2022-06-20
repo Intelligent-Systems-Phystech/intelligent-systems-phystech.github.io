@@ -6,4 +6,9 @@ layout: default
     <img class='img-responsive center-block' src="{{ page.image }}" width="100%" height="100%" />
   </header>
 {% endif %}
+{% if site.lang == 'ru' %}
+    <meta name="description" content="{{ page.meta_desc_ru }}" />
+{% else %}   
+    <meta name="description" content="{{ page.meta_desc_en }}" />
+{% endif %}    
 {{ content }}

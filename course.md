@@ -1,6 +1,8 @@
 ---
 title: titles.course
 permalink: /course/
+meta_desc_en:  "Department of Intelligent Systems, academical courses at the Bachelor and Maste programme"
+meta_desc_ru: "Кафедра интеллектуальных систем, курсы бакалавриата и магистратуры"
 ---
 
 {% for type in site.global.course.types %}

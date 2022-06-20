@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{% if page.type == "bachelor" %}
+<meta name="description" content="{% t metatags.bachelor_course %}, {% t courses.name.{{ page.id | split: "/" | last }} %}" />
+{% else %}
+<meta name="description" content="{% t metatags.master_course %}, {% t courses.name.{{ page.id | split: "/" | last }} %}" />
+{% endif %}
+
+
 <div class="no_toc_section">
   <h3 id="{% t courses.name.{{ page.id | split: "/" | last }} %}" class="title">{% t courses.name.{{ page.id | split: "/" | last }} %}</h3>
 </div>

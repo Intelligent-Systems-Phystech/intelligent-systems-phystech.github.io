@@ -35,6 +35,7 @@ site:
         template: TEMPLATE
 
 
+    
 peoples:
   name:
     grabovoy_av: Andrey Grabovoy
@@ -147,3 +148,10 @@ course:
 profile:
   website: Personal Website
   teaches: Teaches
+  
+metatags:
+    lecturer: Lecturer of the Department of Intelligent Systems at MIPT
+    bachelor_course: Course of the Bachelor program of Intelligent Systems at MIPT
+    master_course: Course of the Master program of Intelligent Systems at MIPT
+    
+      
