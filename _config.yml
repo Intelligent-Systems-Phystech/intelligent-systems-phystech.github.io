@@ -3,7 +3,7 @@ image:
 og:
   image:            /images/main/main.jpg
 
-url:                https://intelligent-systems-phystech.github.io
+url:                https://is-mipt.site
 edit:               https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/
 baseurl:
 permalink:          /:year/:month/:day/:title.html
