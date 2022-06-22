@@ -26,4 +26,4 @@
 
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| TODO | TODO | [TODO T.D.](TODO) | [Project](TODO) | [Thesis](TODO)| [Slides](TODO)|
+| Kurdyukova Antonina | Dimensionality reduction in the phase space in canonical correlation analysis|[Strijov V.V.](http://www.ccas.ru/strijov/) | [Project](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis) | [Thesis](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/raw/master/docs/Kurdyukova2022BSThesis.pdf)| [Slides](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/raw/master/slides/Kurdyukova2022Slides.pdf)|
