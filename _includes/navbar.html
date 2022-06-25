@@ -20,7 +20,7 @@
                         <div class="dropdown-menu" aria-labelledby="{{ t nav.id }}">
                             <ul class="nav navbar-nav navbar-right">
                                 {% for drop in nav.dropdown %}
-                                <li><a class='name' href="{{ site.baseurl }}{{ drop.href }}">{% t drop.name %}</a></li>
+                                <li style="width:100% !important;"><a class='name' href="{{ site.baseurl }}{{ drop.href }}">{% t drop.name %}</a></li>
                                 {% endfor %}
                             </ul>
                         </div>
