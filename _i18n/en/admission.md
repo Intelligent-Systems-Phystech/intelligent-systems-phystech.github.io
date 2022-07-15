@@ -20,9 +20,16 @@ The admission will be anounced in **May, June or July** at your request to mlalg
 4. Draw up a ranked list of applicants, publish [by the link here] and send it to the dean's office, close the reception.
 
 ### The Master admission procedure:
-1.Gathering the whole group of those wishing to enter the department
-2. Listen to a report about their Bachelor's dissertations, ask questions
+### Процедура приема в магистратуру:
+1. A student fills the [form](http://bit.ly/1lFrFha),
+2. cобираем желающих поступить на кафедру по запросам от них,
+3. смотрим анкету, дипломную работу, спрашиваем мнение о теме и работах студентов кафедры, задаем вопросы по математической части бакалаврской программы.
 
+1.Gathering the whole group of those wishing to enter the department
+2. Listen to a report about their Bachelor's dissertations, ask questions about
+  - BS thesis,
+  - topics and results of the students scientific works at the department,
+  - mathematics of the BS programme: algebra, analysis, probability (functional analysis and measure theory included) 
 
 ### Test problems (2022 and earlier)
 
