@@ -32,8 +32,11 @@ The admission will be anounced in **May, June or July** at your request to mlalg
   - mathematics of the BS programme: algebra, analysis, probability (functional analysis and measure theory included) 
 
 ### Test problems (2022 and earlier)
+[Link](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) – the spring of 2023 will be published here
 
-[Link](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
+### Check the your basic abilities, spring 2023  
+Chapters 1, 2, 3 from the [Pen and Paper Exercises in Machine Learning by Michael U. Gutmann](https://arxiv.org/abs/2206.13446)
+
 
 ### Tips for solving problems (these are just tips, not directions)
 - A theoretical solution is more important than a practical one.
