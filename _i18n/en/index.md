@@ -8,14 +8,17 @@
 - [Scientific and educational projects](https://m1p.org)
 
 ### Schedule, Spring
+**Youtube channel:** 
+* [Machine Learning Phystech]([https://m1p.org/go_zoom](https://www.youtube.com/c/MachineLearningPhystech)
+
 **Online channels:** 
 * bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom)
 * masters [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 ### Class schedule, fall semester 2022
-preview version
+* preliminary version
 
-** 4 year, 7 semester**
+**4 year, 7 semester**
 * 10:30-12:00, [Deep learning methods](https://is-mipt.site/ru/course/deep_learning/index.html), exam (Kropotov D.A., Grebenkova O.S.)
 * 12:10-13:40, [Algorithms of computational geometry](https://is-mipt.site/ru/course/computational_geometry/index.html), exam ([Mestetskiy L.M.](/ru/people /town_lm/index.html))
 * 14:30-16:00, [Machine learning model selection](/ru/course/bayesian_model_selection/index.html), exam ([Aduenko A.A.](/ru/people/aduenko_aa/index.html))
@@ -27,7 +30,7 @@ preview version
 * 14:30-16:00, [Bayesian multimodeling](/ru/course/bayesian_multimodeling/index.html) ([Bakhteev O.Yu.](/ru/people/bakhteev_oy/index.html))
 * 16:10-17:40, [Mathematical methods of text analysis] (https://is-mipt.site/ru/course/natural_language_processing/index.html) (Popov A.S., Vorontsov K.V.)
 
-** 6 course, 11 semester**
+**6 course, 11 semester**
 * 10:30-12:00, Creation of intelligent systems, test (Grabovoi A.A.)
 * 12:10-13:40, Data analysis, test (Bakhteev O.Yu., Strizhov V.V.)
 * 14:30-16:00, Neural network architecture search, test (Potanin M.S.)
