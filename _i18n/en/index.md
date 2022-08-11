@@ -12,6 +12,27 @@
 * bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom)
 * masters [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
+### Class schedule, fall semester 2022
+preview version
+
+** 4 year, 7 semester**
+* 10:30-12:00, [Deep learning methods](https://is-mipt.site/ru/course/deep_learning/index.html), exam (Kropotov D.A., Grebenkova O.S.)
+* 12:10-13:40, [Algorithms of computational geometry](https://is-mipt.site/ru/course/computational_geometry/index.html), exam ([Mestetskiy L.M.](/ru/people /town_lm/index.html))
+* 14:30-16:00, [Machine learning model selection](/ru/course/bayesian_model_selection/index.html), exam ([Aduenko A.A.](/ru/people/aduenko_aa/index.html))
+* 16:10-17:40, [Mathematical methods of forecasting](/ru/course/forecasting_methods/index.html), test (Strizhov V.V., Grabovoi A.V., Samokhina A.M.)
+
+**5 course, 9 semester**
+* 10:30-12:00, [Generative machine learning models](https://is-mipt.site/ru/course/deep_generative_models/index.html), exam ([Isachenko R.V.](https:/ /is-mipt.site/ru/people/isachenko_rv/index.html))
+* 12:10-13:40, [Signal processing] (https://is-mipt.site/ru/course/signal_processing/index.html), exam (Severilov P.A., Strizhov V.V.)
+* 14:30-16:00, [Bayesian multimodeling](/ru/course/bayesian_multimodeling/index.html) ([Bakhteev O.Yu.](/ru/people/bakhteev_oy/index.html))
+* 16:10-17:40, [Mathematical methods of text analysis] (https://is-mipt.site/ru/course/natural_language_processing/index.html) (Popov A.S., Vorontsov K.V.)
+
+** 6 course, 11 semester**
+* 10:30-12:00, Creation of intelligent systems, test (Grabovoi A.A.)
+* 12:10-13:40, Data analysis, test (Bakhteev O.Yu., Strizhov V.V.)
+* 14:30-16:00, Neural network architecture search, test (Potanin M.S.)
+* 16:10-17:40, [Probabilistic_topic models](http://www.machinelearning.ru/wiki/index.php?title=Probability_thematic_models_%28course_of lectures%2C_K.V.Vorontsov%29), test (Vorontsov K.V. .)
+
 #### 3rd year, 6th semester – thursday
 * 10:30–12:00,	[Automation of Scientific Research](/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](/people/strijov_vv/index.html), [Andrey Grabovoy](/people/grabovoy_av/index.html))
 * 12:10–13:40,	[Introduction to Machine Learning](/course/introduction_machine_learning/index.html), diff. credit ([Andrey Grabovoy](/people/grabovoy_av/index.html), [Konstantin Vorontsov](/people/vorontsov_kv/index.html))
