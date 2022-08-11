@@ -17,7 +17,7 @@
 ### Расписание занятий, осенний  семестр 2022
 предварительная версия
 
-** '''4 курс, 7 семестр**
+** 4 курс, 7 семестр**
 * 10:30-12:00, [Методы глубокого обучения](https://is-mipt.site/ru/course/deep_learning/index.html), экзамен (Кропотов, Гребенькова)
 * 12:10-13:40, [Алгоритмы вычислительной геометрии](https://is-mipt.site/ru/course/computational_geometry/index.html), экзамен ([Местецкий](/ru/people/mestetskiy_lm/index.html))
 * 14:30-16:00, [Выбор моделей машинного обучения](/ru/course/bayesian_model_selection/index.html), экзамен ([Адуенко А.А.](/ru/people/aduenko_aa/index.html))
