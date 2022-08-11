@@ -9,7 +9,7 @@
 
 ### Schedule, Spring
 **Youtube channel:** 
-* [Machine Learning Phystech]([https://m1p.org/go_zoom](https://www.youtube.com/c/MachineLearningPhystech)
+* [Machine Learning Phystech](https://www.youtube.com/c/MachineLearningPhystech)
 
 **Online channels:** 
 * bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom)
