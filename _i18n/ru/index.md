@@ -7,11 +7,17 @@
 - [Учебные курсы](/ru/course/) и [преподаватели](/ru/people/)
 - [Научные и учебные проекты](https://m1p.org)
 
-### Расписание занятий, весенний семестр
+**Канал Youtube:** 
+* [Machine learning Phystech](https://www.youtube.com/c/MachineLearningPhystech)
+
 **Каналы для занятий:** 
 * бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
 * магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
+### Расписание занятий, весенний семестр
+
+
+### Расписание занятий, весенний семестр
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	[Моя первая научная статья](/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](/ru/people/strijov_vv/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html))
 - 12:10–13:40,	[Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html))
