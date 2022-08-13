@@ -21,11 +21,11 @@
 * 10:30-12:00, [Методы глубокого обучения](https://is-mipt.site/ru/course/deep_learning/index.html), экзамен (Кропотов Д.А., Гребенькова О.С.)
 * 12:10-13:40, [Алгоритмы вычислительной геометрии](https://is-mipt.site/ru/course/computational_geometry/index.html), экзамен ([Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html))
 * 14:30-16:00, [Выбор моделей машинного обучения](/ru/course/bayesian_model_selection/index.html), экзамен ([Адуенко А.А.](/ru/people/aduenko_aa/index.html))
-* 16:10-17:40, [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html), зачет (Стрижов В.В., Грабовой А.В., Самохина А.М.)
+* 16:10-17:40, [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html), зачет (Стрижов В.В., Самохина А.М.)
 
 **5 курс, 9 семестр**
 * 10:30-12:00, [Порождающие модели машинного обучения](https://is-mipt.site/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](https://is-mipt.site/ru/people/isachenko_rv/index.html))
-* 12:10-13:40, [Обработка сигналов](https://is-mipt.site/ru/course/signal_processing/index.html), экзамен (Северилов П.А., Стрижов В.В.)
+* 12:10-13:40, [Обработка сигналов](https://is-mipt.site/ru/course/signal_processing/index.html), экзамен (Северилов П.А.)
 * 14:30-16:00, [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html))
 * 16:10-17:40, [Математические методы анализа текстов](https://is-mipt.site/ru/course/natural_language_processing/index.html) (Попов А.С., Воронцов К.В.)  
 
