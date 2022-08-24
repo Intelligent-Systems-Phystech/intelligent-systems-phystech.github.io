@@ -66,7 +66,6 @@
 - [Начало пар в МФТИ](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
 ### Расписание занятий, весенний семестр 2022
-<details><summary>Открыть</summary>
 
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	[Моя первая научная статья](/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](/ru/people/strijov_vv/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html))
@@ -87,5 +86,3 @@
 - 14:30–16:00,	[Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html))
 - 16:10–17:40,	[Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](/ru/people/isachenko_rv/index.html))
 - 17:50–19:20,	[Программная инженерия](/ru/course/software_engineering_data_analysis/index.html), дифф. зач. ([Хританков А.С.](/ru/people/khritankov_as/index.html))
-
-</details>

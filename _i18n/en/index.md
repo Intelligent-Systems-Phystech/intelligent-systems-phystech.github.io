@@ -60,7 +60,6 @@
 * [Start of classes at MIPT](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
 ### Course schedule, spring semester 2022
-<details><summary>Extend</summary>
 
 #### 3rd year, 6th semester – thursday
 * 10:30–12:00,	[Automation of Scientific Research](/course/automation_scientific_research/index.html), diff. credit ([Vadim Strijov](/people/strijov_vv/index.html), [Andrey Grabovoy](/people/grabovoy_av/index.html))
@@ -83,5 +82,3 @@
 * 14:30–16:00, [Bayesian Multimodeling](/course/bayesian_multimodeling/index.html) ([Oleg Bakhteev](/people/bakhteev_oy/index.html))
 * 16:10–17:40,	[Deep Generative Models](/course/deep_generative_models/index.html), exam ([Roman Isachenko](/people/isachenko_rv/index.html))
 * 17:50–19:20, [Software Engineering for Data Analysis](/course/software_engineering_data_analysis/index.html), diff. credit. ([Anton Khritankov](/people/khritankov_as/index.html)) 
-
-</details>
