@@ -15,25 +15,31 @@
 * магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 ### Расписание занятий, осенний  семестр 2022
-предварительная версия
+(предварительная версия)
 
-**4 курс, 7 семестр**
-* 10:30-12:00, [Методы глубокого обучения](https://is-mipt.site/ru/course/deep_learning/index.html), экзамен (Гребенькова О.С., Филатов А.В.)
-* 12:10-13:40, [Алгоритмы вычислительной геометрии](https://is-mipt.site/ru/course/computational_geometry/index.html), экзамен ([Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html))
-* 14:30-16:00, [Выбор моделей машинного обучения](/ru/course/bayesian_model_selection/index.html), экзамен ([Адуенко А.А.](/ru/people/aduenko_aa/index.html))
-* 16:10-17:40, [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html), зачет ([Стрижов В.В.](/ru/people/strijov_vv/index.html), Самохина А.М.)
+#### 4 курс, 7 семестр - среда
+| Время | Предмет  | Форма отчетности  | Преподаватели  |
+|---|---|---|---|
+| 10:30-12:00 | [Методы глубокого обучения](/ru/course/deep_learning/index.html) | Экзамен | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) |
+| 12:10-13:40 | [Алгоритмы вычислительной геометрии](/ru/course/computational_geometry/index.html) | Экзамен | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) |
+| 14:30-16:00 | [Выбор моделей машинного обучения](/ru/course/bayesian_model_selection/index.html) | Экзамен | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) |
+| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | Зачет | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Самохина А.М.](/ru/people/samokhina_am/index.html) |
 
-**5 курс, 9 семестр**
-* 10:30-12:00, [Порождающие модели машинного обучения](https://is-mipt.site/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](https://is-mipt.site/ru/people/isachenko_rv/index.html))
-* 12:10-13:40, Создание интеллектуальных систем, зачет (Грабовой А.А.)
-* 14:30-16:00, [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html))
-* 16:10-17:40, [Математические методы анализа текстов](https://is-mipt.site/ru/course/natural_language_processing/index.html) (Попов А.С.)  
+#### 5 курс, 9 семестр - среда
+| Время | Предмет  | Форма отчетности  | Преподаватели  |
+|---|---|---|---|
+| 10:30-12:00 | [Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html) | Экзамен | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html) |
+| 12:10-13:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | Зачет | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) |
+| 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | Экзамен | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) |
+| 16:10-17:40 | [Математические методы анализа текстов](/ru/course/natural_language_processing/index.html) | Экзамен | [Попов А.С.](/ru/people/popov_as/index.html), [Хрыльченко К.Я.](/ru/people/khrilchenko_ky/index.html) |
 
-**6 курс, 11 семестр**
-* 10:30-12:00, [Обработка сигналов](https://is-mipt.site/ru/course/signal_processing/index.html), экзамен (Северилов П.А.)
-* 12:10-13:40, Интеллектуальный анализ данных, зачет (Бахтеев О.Ю., Стрижов В.В.)
-* 14:30-16:00, Поиск нейросетевых архитектур, зачет (Потанин М.С.)
-* 16:10-17:40, [Вероятностные тематические модели](http://www.machinelearning.ru/wiki/index.php?title=Вероятностные_тематические_модели_%28курс_лекций%2C_К.В.Воронцов%29), зачет (Воронцов К.В.)
+#### 6 курс, 11 семестр - четверг
+| Время | Предмет  | Форма отчетности  | Преподаватели  |
+|---|---|---|---|
+| 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | Экзамен | [Северилов П.А.](/ru/people/severilov_pa/index.html) |
+| 12:10-13:40 | Интеллектуальный анализ данных | Зачет | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) |
+| 14:30-16:00 | [Поиск нейросетевых архитектур]([/ru/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | Зачет | [Потанин М.С.]([/ru/people/potanin_ms/index.html) |
+| 16:10-17:40 | [Вероятностные тематические модели](/ru/course/probabilistic_topic_models/index.html) | Зачет | [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) |
 
 ### Сессия учебного года осень-весна 2022-2023
 - 7 сентября 2022 начало занятий на кафдре
@@ -57,6 +63,8 @@
 - [Начало пар в МФТИ](https://mipt.ru/about/departments/uchebniy/schedule/study/)
 
 ### Расписание занятий, весенний семестр 2022
+<details><summary>Открыть</summary>
+
 #### 3 курс, 6 семестр – четверг
 - 10:30–12:00,	[Моя первая научная статья](/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](/ru/people/strijov_vv/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html))
 - 12:10–13:40,	[Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html))
@@ -77,4 +85,4 @@
 - 16:10–17:40,	[Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](/ru/people/isachenko_rv/index.html))
 - 17:50–19:20,	[Программная инженерия](/ru/course/software_engineering_data_analysis/index.html), дифф. зач. ([Хританков А.С.](/ru/people/khritankov_as/index.html))
 
-
+</details>
