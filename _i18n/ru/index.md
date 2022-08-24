@@ -18,6 +18,7 @@
 (предварительная версия)
 
 #### 4 курс, 7 семестр - среда
+
 | Время | Предмет  | Форма отчетности  | Преподаватели  |
 |---|---|---|---|
 | 10:30-12:00 | [Методы глубокого обучения](/ru/course/deep_learning/index.html) | Экзамен | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) |
@@ -26,6 +27,7 @@
 | 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | Зачет | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Самохина А.М.](/ru/people/samokhina_am/index.html) |
 
 #### 5 курс, 9 семестр - среда
+
 | Время | Предмет  | Форма отчетности  | Преподаватели  |
 |---|---|---|---|
 | 10:30-12:00 | [Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html) | Экзамен | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html) |
@@ -34,6 +36,7 @@
 | 16:10-17:40 | [Математические методы анализа текстов](/ru/course/natural_language_processing/index.html) | Экзамен | [Попов А.С.](/ru/people/popov_as/index.html), [Хрыльченко К.Я.](/ru/people/khrilchenko_ky/index.html) |
 
 #### 6 курс, 11 семестр - четверг
+
 | Время | Предмет  | Форма отчетности  | Преподаватели  |
 |---|---|---|---|
 | 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | Экзамен | [Северилов П.А.](/ru/people/severilov_pa/index.html) |

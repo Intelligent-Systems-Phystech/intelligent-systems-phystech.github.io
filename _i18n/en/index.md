@@ -7,7 +7,6 @@
 - [Courses](/course/) and [teachers](/people/)
 - [Scientific and educational projects](https://m1p.org)
 
-### Schedule, Spring
 **Youtube channel:** 
 * [Machine Learning Phystech](https://www.youtube.com/c/MachineLearningPhystech)
 
@@ -19,6 +18,7 @@
 (preliminary version)
 
 #### 4 year, 7 semester
+
 | Time | Course  | Grading  | Teachers  |
 |---|---|---|---|
 | 10:30-12:00 | [Deep Learning](/course/deep_learning/index.html) | Exam | [Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) |
@@ -27,6 +27,7 @@
 | 16:10-17:40 | [Forecasting Methods](/course/forecasting_methods/index.html) | Credit | [Vadim Strijov](/people/strijov_vv/index.html), [Alina Samokhina](/people/samokhina_am/index.html) |
 
 #### 5 course, 9 semester
+
 | Time | Course  | Grading  | Teachers  |
 |---|---|---|---|
 | 10:30-12:00 | [Deep Generative Models](/course/deep_generative_models/index.html) | Exam | [Roman Isachenko](/people/isachenko_rv/index.html) |
@@ -35,6 +36,7 @@
 | 16:10-17:40 | [Natural Language Processing](/course/natural_language_processing/index.html) | Exam | [Artem Popov](/ru/people/popov_as/index.html), [Kirill Khrylchenko](/people/khrilchenko_ky/index.html) |
 
 #### 6 course, 11 semester
+
 | Time | Course  | Grading  | Teachers  |
 |---|---|---|---|
 | 10:30-12:00 | [Signal Processing](/course/signal_processing/index.html) | Exam | [Pavel Severilov](/people/severilov_pa/index.html) |
