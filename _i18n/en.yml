@@ -62,6 +62,10 @@ peoples:
     tsurkov_vi: Vladimir Tsurkov
     matveev_ia: Ivan Matveev
     chekhovich_yv: Yury Chekhovich
+    grebenkova_os: Olga Grebenkova
+    filatov_av: Andrey Filatov
+    samokhina_am: Alina Samokhina
+    severilov_pa: Pavel Severilov
   title:
     grabovoy_av: Andrey Grabovoy
     aduenko_aa: Aleksander Aduenko
@@ -87,7 +91,11 @@ peoples:
     tsurkov_vi: Vladimir Tsurkov
     matveev_ia: Ivan Matveev
     chekhovich_yv: Yury Chekhovich 
-      
+    grebenkova_os: Olga Grebenkova
+    filatov_av: Andrey Filatov
+    samokhina_am: Alina Samokhina
+    severilov_pa: Pavel Severilov
+    
 courses:
   name:
     automation_scientific_research: Automation of Scientific Research
