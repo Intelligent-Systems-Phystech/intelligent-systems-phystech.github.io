@@ -1,4 +1,4 @@
-Olga graduated from  MIPT in 2021. She is a postgraduate student of the Department of Intelligent Systems.
+Olga graduated from  MIPT in 2021. She is a master student of the Department of Intelligent Systems.
 She is an author of a few scientific papers on machine learning.
 
 **Professional interests:** Generative models, Neural Architechture Search 
