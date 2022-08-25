@@ -19,46 +19,51 @@
 
 #### 4 курс, 7 семестр - среда
 
-| Время | Предмет  | Форма отчетности  | Преподаватели  |
+| Время | Предмет  | Преподаватели  | Форма отчетности  |
 |---|---|---|---|
-| 10:30-12:00 | [Методы глубокого обучения](/ru/course/deep_learning/index.html) | Экзамен | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) |
-| 12:10-13:40 | [Алгоритмы вычислительной геометрии](/ru/course/computational_geometry/index.html) | Экзамен | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) |
-| 14:30-16:00 | [Выбор моделей машинного обучения](/ru/course/bayesian_model_selection/index.html) | Экзамен | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) |
-| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | Зачет | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Самохина А.М.](/ru/people/samokhina_am/index.html) |
+| 10:30-12:00 | [Методы глубокого обучения](/ru/course/deep_learning/index.html) | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) | Экзамен |
+| 12:10-13:40 | [Алгоритмы вычислительной геометрии](/ru/course/computational_geometry/index.html) | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) | Экзамен |
+| 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен |
+| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Самохина А.М.](/ru/people/samokhina_am/index.html) | Зачет |
 
 #### 5 курс, 9 семестр - среда
 
-| Время | Предмет  | Форма отчетности  | Преподаватели  |
+| Время | Предмет  | Преподаватели  | Форма отчетности  |
 |---|---|---|---|
-| 10:30-12:00 | [Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html) | Экзамен | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html) |
-| 12:10-13:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | Зачет | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) |
-| 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | Экзамен | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) |
-| 16:10-17:40 | [Математические методы анализа текстов](/ru/course/natural_language_processing/index.html) | Экзамен | [Попов А.С.](/ru/people/popov_as/index.html), [Хрыльченко К.Я.](/ru/people/khrilchenko_ky/index.html) |
+| 10:30-12:00 | [Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html) | Экзамен |
+| 12:10-13:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Зачет |
+| 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен |
+| 16:10-17:40 | [Математические методы анализа текстов](/ru/course/natural_language_processing/index.html) | [Попов А.С.](/ru/people/popov_as/index.html), [Хрыльченко К.Я.](/ru/people/khrilchenko_ky/index.html) | Экзамен |
 
 #### 6 курс, 11 семестр - четверг
 
-| Время | Предмет  | Форма отчетности  | Преподаватели  |
+| Время | Предмет  | Преподаватели  | Форма отчетности  |
 |---|---|---|---|
-| 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | Экзамен | [Северилов П.А.](/ru/people/severilov_pa/index.html) |
-| 12:10-13:40 | Интеллектуальный анализ данных | Зачет | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) |
-| 14:30-16:00 | [Поиск нейросетевых архитектур]([/ru/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | Зачет | [Потанин М.С.]([/ru/people/potanin_ms/index.html) |
-| 16:10-17:40 | [Вероятностные тематические модели](/ru/course/probabilistic_topic_models/index.html) | Зачет | [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) |
+| 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | [Северилов П.А.](/ru/people/severilov_pa/index.html) | Экзамен |
+| 12:10-13:40 | [Поиск нейросетевых архитектур]([/ru/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | [Потанин М.С.]([/ru/people/potanin_ms/index.html) | Зачет |
+| 14:30-16:00 | [Вероятностные тематические модели](/ru/course/probabilistic_topic_models/index.html) | [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Зачет |
 
-### Сессия учебного года осень-весна 2022-2023
-- 7 сентября 2022 начало занятий на кафдре
-- 13 октября завершение приема работ на конференцию МФТИ
-- 4 декабря, суббота 17:00 конференция МФТИ, научные работы 6
-- 13 декабря, суббота 17:00, научные работы 4, 5
-- Зачетная неделя 12-18 декабря
-- 14 декабря в 18:00 Отчет по НИР (документы загружааются с 1 декабря)
-- 18 апреля, понедельник 17:00 прием студентов __второго__ и четвертого курса на кафедру
-- 27 апреля, среда 17:00 слушаем дипломные работы 4 и 6
-- 16-22 мая зачетная неделя 3–6
-- 17 мая, среда 18:00: НИР и практика 3–6, аспиранты
-- 7 июня, среда 15:00: предзащита 6
-- 14 июня, среда 15:00: предзащита 4
-- 21 июня, среда 15:00: защита 6
-- 28 июня, среда 15:00: защита 4
+### Ключевые даты
+
+#### Осень 2022
+
+- **7 сентября** - начало занятий на кафдре
+- **13 октября** - завершение приема работ на конференцию МФТИ
+- **4 декабря** - конференция МФТИ, научные работы 6
+- **13 декабря** - научные работы 4, 5
+- **12-18 декабря** - зачетная неделя 
+- **14 декабря** - 18:00 Отчет по НИР (документы загружааются с 1 декабря)
+
+#### Весна 2023 (предварительные)
+
+- **18 апреля** - прием студентов __второго__ и четвертого курса на кафедру
+- **27 апреля** - слушаем дипломные работы 4 и 6
+- **16-22 мая** зачетная неделя 3–6
+- **17 мая** - НИР и практика 3–6, аспиранты
+- **7 июня** - предзащита 6
+- **14 июня** - предзащита 4
+- **21 июня** - защита 6
+- **28 июня** - защита 4
 
 #### Общее расписание МФТИ
 - [График учебного процесса](https://mipt.ru/about/departments/uchebniy/schedule/study/)

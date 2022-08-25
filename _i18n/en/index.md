@@ -19,40 +19,51 @@
 
 #### 4 year, 7 semester
 
-| Time | Course  | Grading  | Teachers  |
+| Time | Course | Teachers |Grading |
 |---|---|---|---|
-| 10:30-12:00 | [Deep Learning](/course/deep_learning/index.html) | Exam | [Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) |
-| 12:10-13:40 | [Computational Geometry](/course/computational_geometry/index.html) | Exam | [Leonid Mestetskiy](/people/mestetskiy_lm/index.html) |
-| 14:30-16:00 | [Bayesian Model Selection](/course/bayesian_model_selection/index.html) | Экзамен | [Alexander Aduenko](/people/aduenko_aa/index.html) |
-| 16:10-17:40 | [Forecasting Methods](/course/forecasting_methods/index.html) | Credit | [Vadim Strijov](/people/strijov_vv/index.html), [Alina Samokhina](/people/samokhina_am/index.html) |
+| 10:30-12:00 | [Deep Learning](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Exam | 
+| 12:10-13:40 | [Computational Geometry](/course/computational_geometry/index.html) | [Leonid Mestetskiy](/people/mestetskiy_lm/index.html) | Exam |
+| 14:30-16:00 | [Bayesian Model Selection](/course/bayesian_model_selection/index.html) | [Alexander Aduenko](/people/aduenko_aa/index.html) | Exam |
+| 16:10-17:40 | [Forecasting Methods](/course/forecasting_methods/index.html) | [Vadim Strijov](/people/strijov_vv/index.html), [Alina Samokhina](/people/samokhina_am/index.html) | Credit | 
 
 #### 5 course, 9 semester
 
-| Time | Course  | Grading  | Teachers  |
+| Time | Course  | Teachers  | Grading  |
 |---|---|---|---|
-| 10:30-12:00 | [Deep Generative Models](/course/deep_generative_models/index.html) | Exam | [Roman Isachenko](/people/isachenko_rv/index.html) |
-| 12:10-13:40 | [Creation of Intelligent Systems](/course/rnd_in_ai/index.html) | Credit | [Andrey Grabovoy](/people/grabovoy_av/index.html) |
-| 14:30-16:00 | [Bayesian Multimodeling](/course/bayesian_multimodeling/index.html) | Exam | [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) |
-| 16:10-17:40 | [Natural Language Processing](/course/natural_language_processing/index.html) | Exam | [Artem Popov](/ru/people/popov_as/index.html), [Kirill Khrylchenko](/people/khrilchenko_ky/index.html) |
+| 10:30-12:00 | [Deep Generative Models](/course/deep_generative_models/index.html) | [Roman Isachenko](/people/isachenko_rv/index.html) | Exam |
+| 12:10-13:40 | [Creation of Intelligent Systems](/course/rnd_in_ai/index.html) | [Andrey Grabovoy](/people/grabovoy_av/index.html) | Credit |
+| 14:30-16:00 | [Bayesian Multimodeling](/course/bayesian_multimodeling/index.html) | [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) | Exam |
+| 16:10-17:40 | [Natural Language Processing](/course/natural_language_processing/index.html) | [Artem Popov](/ru/people/popov_as/index.html), [Kirill Khrylchenko](/people/khrilchenko_ky/index.html) | Exam |
 
 #### 6 course, 11 semester
 
-| Time | Course  | Grading  | Teachers  |
+| Time | Course  | Teachers  | Grading  |
 |---|---|---|---|
-| 10:30-12:00 | [Signal Processing](/course/signal_processing/index.html) | Exam | [Pavel Severilov](/people/severilov_pa/index.html) |
-| 12:10-13:40 | Intellectual Data Analysis | Credit | [Oleg Bakhteev](/people/bakhteev_oy/index.html) |
-| 14:30-16:00 | [Neural Architecture Search]([/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | Зачет | [ПMark Potanin]([/people/potanin_ms/index.html) |
-| 16:10-17:40 | [Probabilistic Topic Models](/course/probabilistic_topic_models/index.html) | Credit | [Konstantin Vorontsov](/people/vorontsov_kv/index.html) |
+| 10:30-12:00 | [Signal Processing](/course/signal_processing/index.html) |  [Pavel Severilov](/people/severilov_pa/index.html) | Exam |
+| 12:10-13:40  | [Neural Architecture Search]([/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | [Mark Potanin]([/people/potanin_ms/index.html) | Credit |
+| 14:30-16:00 | [Probabilistic Topic Models](/course/probabilistic_topic_models/index.html) | [Konstantin Vorontsov](/people/vorontsov_kv/index.html) | Credit |
 
-### Session
-* April 18, Monday 17:00 admisstion for the 2nd and 4th year students 
-* April 27, Wednesday 17:00 listening to theses 4 and 6
-* May 17-23 test week 3-6
-* May 18, Wednesday 18:00: Research and practice 3-6, graduate students
-* June 1, Wednesday 15:00: pre-defense 6
-* June 8, Wednesday 15:00: pre-defense 4
-* June 15, Wednesday 15:00: defense 6
-* June 22, Wednesday 15:00: defense 4
+### Key dates
+
+#### Fall 2022
+
+- **September 7** - start of classes
+- **October 13** - deadline for submitting to MIPT conference
+- **December 4** - MIPT conference, listening of theses 6
+- **December 13** - listening of theses 4, 5
+- **December 12-18** - test week
+- **December 14** - research report
+
+#### Spring 2023 (preliminary)
+
+- **April 18** - admisstion for the 2nd and 4th year students 
+- **April 27** - listening to theses 4 and 6
+- **May 16-22** test week 3-6
+- **May17** - Research and practice 3-6, graduate students
+- **June 7** - pre-defense 6
+- **June14** - pre-defense 4
+- **June21** - defense 6
+- **June28** - defense 4
 
 #### General MIPT schedule
 * [Schedule of the educational process](https://mipt.ru/about/departments/uchebniy/schedule/study/)
