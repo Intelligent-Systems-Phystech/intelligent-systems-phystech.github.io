@@ -1,10 +1,10 @@
-He/She  graduated from  MIPT in TODO.  Since 2019 he/she is a postgraduate student of the Department of Intelligent Systems.
-He/She is an author of more than TODO scientific papers on machine learning.
+Olga graduated from  MIPT in 2021. She is a postgraduate student of the Department of Intelligent Systems.
+She is an author of a few scientific papers on machine learning.
 
-**Professional interests:** TODO.
+**Professional interests:** Generative models, Neural Architechture Search 
 
 **Selected papers**
-* Link 1 
-* Link 2
-* Link 3
+* [Variational deep learning model optimization with complexity control](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=ia&paperid=710&option_lang=eng)
+* [Neural Architecture Search with Structure Complexity Control](https://easychair.org/publications/preprint/H5MC)
+
 
