@@ -22,4 +22,4 @@
 Знание алгебры, математического анализа и общей физики в объеме трех курсов ФУПМ МФТИ.
 
 ### Страница курса 
-[с подробным расписанием и материалами](https://is-mipt.site/Math-methods-of-forecasting/README.html)
+[с подробным расписанием и материалами](https://is-mipt.site/Math-methods-of-forecasting/)
