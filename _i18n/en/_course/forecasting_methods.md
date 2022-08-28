@@ -20,3 +20,6 @@ Questionnaires during lectures (3), two labworks (2+2), the final exam: topics a
 
 ### Prerequisites
 Algebra, analysis and physics at the graduate level.
+
+### Course page
+[with detailed schedule and material](https://is-mipt.site/Math-methods-of-forecasting/)
