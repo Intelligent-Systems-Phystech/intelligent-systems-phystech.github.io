@@ -3,14 +3,10 @@ title: peoples.title.filatov_av
 name: peoples.name
 edit: true
 position: gs
-avatar: noname.jpg
-mail: todoa@todo.ru
-site: http://todo.ru/
-scholar: scholar.google.com/citations?user=todo&hl=en&oi=ao
-orcid: orcid.org/todo/print
-mathnet: www.mathnet.ru/php/person.phtml?option_lang=rus&personid=todo
-scopus: www.scopus.com/authid/detail.uri?authorId=todo
-elib: www.elibrary.ru/author_profile.asp?id=todo
+avatar: filatov_av.jpg
+mail: filatovandreiv@gmail.com
+<!-- site: http://todo.ru/ -->
+scholar: https://scholar.google.com/citations?hl=ru&user=xRNTrdcAAAAJ#d=gs_hdr_drw&t=1661782483526
 ---
 
 {% tf _people/filatov_av.md %}
