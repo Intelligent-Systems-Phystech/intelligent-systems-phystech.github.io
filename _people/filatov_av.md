@@ -6,7 +6,7 @@ position: gs
 avatar: filatov_av.jpg
 mail: filatovandreiv@gmail.com
 site: 
-scholar: https://scholar.google.com/citations?user=xRNTrdcAAAAJ
+scholar: scholar.google.com/citations?user=xRNTrdcAAAAJ
 orcid: 
 mathnet: 
 scopus: 
