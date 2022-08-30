@@ -17,16 +17,17 @@
 ### Расписание занятий, осенний  семестр 2022
 (предварительная версия)
 
-#### 4 курс, 7 семестр - среда
+#### 4 курс, 7 семестр - вторник
 
 | Время | Предмет  | Преподаватели  | Форма отчетности  |
 |---|---|---|---|
 | 10:30-12:00 | [Методы глубокого обучения](/ru/course/deep_learning/index.html) | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) | Экзамен |
-| 12:10-13:40 | [Алгоритмы вычислительной геометрии](/ru/course/computational_geometry/index.html) | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) | Экзамен |
+| 12:10-13:40 | [Методы глубокого обучения: практика](/ru/course/deep_learning/index.html) | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) | Экзамен |
+|  | [Алгоритмы вычислительной геометрии](/ru/course/computational_geometry/index.html) | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) | Экзамен |
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен |
 | 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Самохина А.М.](/ru/people/samokhina_am/index.html) | Зачет |
 
-#### 5 курс, 9 семестр - среда
+#### 5 курс, 9 семестр - вторник
 
 | Время | Предмет  | Преподаватели  | Форма отчетности  |
 |---|---|---|---|
@@ -40,7 +41,7 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности  |
 |---|---|---|---|
 | 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | [Северилов П.А.](/ru/people/severilov_pa/index.html) | Экзамен |
-| 12:10-13:40 | [Поиск нейросетевых архитектур]([/ru/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | [Потанин М.С.]([/ru/people/potanin_ms/index.html) | Зачет |
+| 12:10-13:40 | Интеллектуальный анализ данных | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Зачет |
 | 14:30-16:00 | [Вероятностные тематические модели](/ru/course/probabilistic_topic_models/index.html) | [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Зачет |
 
 ### Ключевые даты

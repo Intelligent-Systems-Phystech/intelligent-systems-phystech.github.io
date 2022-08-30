@@ -17,16 +17,17 @@
 ### Course schedule, fall semester 2022
 (preliminary version)
 
-#### 4 year, 7 semester
+#### 4 year, 7 semester - tuesday
 
 | Time | Course | Teachers |Grading |
 |---|---|---|---|
 | 10:30-12:00 | [Deep Learning](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Exam | 
-| 12:10-13:40 | [Computational Geometry](/course/computational_geometry/index.html) | [Leonid Mestetskiy](/people/mestetskiy_lm/index.html) | Exam |
+| 12:10-13:40 | [Deep Learning: practice](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Exam | 
+|  | [Computational Geometry](/course/computational_geometry/index.html) | [Leonid Mestetskiy](/people/mestetskiy_lm/index.html) | Exam |
 | 14:30-16:00 | [Bayesian Model Selection](/course/bayesian_model_selection/index.html) | [Alexander Aduenko](/people/aduenko_aa/index.html) | Exam |
 | 16:10-17:40 | [Forecasting Methods](/course/forecasting_methods/index.html) | [Vadim Strijov](/people/strijov_vv/index.html), [Alina Samokhina](/people/samokhina_am/index.html) | Credit | 
 
-#### 5 course, 9 semester
+#### 5 course, 9 semester - tuesday
 
 | Time | Course  | Teachers  | Grading  |
 |---|---|---|---|
@@ -40,7 +41,7 @@
 | Time | Course  | Teachers  | Grading  |
 |---|---|---|---|
 | 10:30-12:00 | [Signal Processing](/course/signal_processing/index.html) |  [Pavel Severilov](/people/severilov_pa/index.html) | Exam |
-| 12:10-13:40  | [Neural Architecture Search]([/course/bayesian_multimodeling/index.html](/ru/course/neural_architecture_search/index.html)) | [Mark Potanin]([/people/potanin_ms/index.html) | Credit |
+| 12:10-13:40  | Intelligent Data Analysis | [Vadim Strijov](/people/strijov_vv/index.html), [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) | Credit |
 | 14:30-16:00 | [Probabilistic Topic Models](/course/probabilistic_topic_models/index.html) | [Konstantin Vorontsov](/people/vorontsov_kv/index.html) | Credit |
 
 ### Key dates
